@@ -1,0 +1,310 @@
+@import url(style.css);
+
+
+@font-face {
+    font-family: 'CaviarDreamsRegular';
+    src: url('../fonts/CaviarDreams/CaviarDreams-webfont.eot');
+    src: url('../fonts/CaviarDreams/CaviarDreams-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/CaviarDreams/CaviarDreams-webfont.woff') format('woff'),
+         url('../fonts/CaviarDreams/CaviarDreams-webfont.ttf') format('truetype'),
+         url('../fonts/CaviarDreams/CaviarDreams-webfont.svg#CaviarDreamsRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body, div, p, h1, h2, h3, h4, h5, h6 {
+    font-family: 'europa' !important;
+}
+
+body { 
+   font-size: 16px;
+   font-weight: 300;
+   color: #444;
+   letter-spacing: 0.5px;
+}
+
+#scrollable-body {
+    overflow:scroll; 
+    position:absolute; 
+    top:50px; 
+    bottom:0px; 
+    width:100%;
+}
+
+section {
+  padding: 30px 0 20px 0;
+}
+
+a.alt-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover.alt-link {
+    color: #72c02c;
+}
+
+a:hover.alt-link i {
+    background-color: #72c02c;
+    transform: rotate(30deg);
+    transition: background-color .3s, transform .3s;
+}
+
+i.icon-custom {
+    padding-left: 2px;
+}
+
+.more-link {
+    font-size: 14px;
+}
+
+.wrapper{
+    overflow-x: hidden;
+}
+
+.title {
+    font-size: 28px;
+    position: relative;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h1:after, h2:after {
+    bottom: 0;
+    left: 50%;
+    height: 1px;
+    width: 70px;
+    content: " ";
+    margin-left: -35px;
+    position: absolute;
+    background: #72c02c;
+}
+
+.nja-green {
+    color: #72c02c;
+}
+
+.nja-orange {
+    color: #FF9800;
+}
+
+.nja-bg-orange {
+    background-color: #FF9800;
+}
+
+/*Revolution slider background*/
+.tp-banner-container {
+    background-color: #F7F7F8
+}
+.tp-banner-container .btn-u.btn-brd {
+    background-color: grey; 
+}
+
+.apply-btn{
+    width: 200px;
+    border-radius: 15px !important;
+    border: solid #BDBDBD 1px;
+    color: #F1F1F1;
+    text-transform: lowercase;
+}
+
+/*TRY THIS*/
+
+.slides_container{
+    width:100%;
+    position:relative;
+    left:50%;
+    margin-left:-50%;
+}
+
+/*OR THIS*/
+/*.slides_container {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vw;
+}
+*/
+.slides_container img{
+    display:block;
+    margin: 2px auto;
+    width: 100%;
+    padding: 20px;
+}
+
+.team-v7 .team-arrow-right:before{
+    right: -45px;
+    border-color: transparent transparent transparent #F7F7F7;
+}
+    
+.team-v7 .team-v7-img:after {
+    background: inherit
+}
+
+
+/*Team Info Media Queries*/
+@media (max-width: 991px) {
+  /*Team Arrows*/  
+  .team-v7 .team-arrow-left:before,
+  .team-v7 .team-arrow-right:before {
+    top: auto;
+    left: 70px;
+    bottom: -25px;
+    border-width: 25px 20px 0 20px;
+    border-color: #F7F7F7 transparent transparent transparent
+  }
+
+  .team-v7 .team-arrow-left:before,
+  .team-v7 .team-arrow-right:before {
+    left: 70px;
+    bottom: -25px;
+    border-width: 25px 20px 0 20px;
+  }
+
+  /*Equal Height Columns*/
+  .team-v7 .equal-height-column {
+    height: auto !important;
+  }
+}
+
+
+/* Nav bar related */
+
+.one-page-header .navbar-nav > li > a:hover {
+    color: #72c02c;
+}
+
+li.current_page_item > a {
+    color: #72c02c !important;
+}
+
+.navbar-toggle {
+    margin: 10px;
+}
+
+.navbar-nav {
+    text-transform: lowercase;
+    float: right; 
+    margin-right: -15px;
+}
+
+/*.top-nav-collapse {
+    min-height: 70px;
+    -webkit-transition: background .3s ease-in-out, min-height .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out, min-height .3s ease-in-out;
+    transition: background .3s ease-in-out, min-height .3s ease-in-out;
+}
+*/
+.top-nav {
+    padding: 0;
+    -webkit-transition: background .3s ease-in-out, padding .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out, padding .3s ease-in-out;
+    transition: background .3s ease-in-out, padding .3s ease-in-out;
+}
+
+.top-nav-collapse {
+    padding: 15px 0 15px 0;
+    box-shadow: 0 0 3px #b5b5b5;
+    -webkit-transition: background .3s ease-in-out, padding .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out, padding .3s ease-in-out;
+    transition: background .3s ease-in-out, padding .3s ease-in-out;
+}
+
+/*.top-nav-collapse .navbar-nav{
+    margin-top: 10px;
+}*/
+
+/* End nav bar related */
+
+.content-lg {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.logo-header {
+    font-family: 'CaviarDreamsRegular';
+    width: 22vw;
+    min-width: 173px;
+    max-width: 350px;
+    margin-left: -15px;
+    padding: 16px;
+    background-color: #EAEAEA;
+    border-radius: 2px !important;
+    position: absolute;
+}
+
+.logo-header-colapse {
+    width: 173px;
+    margin-top: -5px;
+    margin-left: -15px;
+    padding: 0px;
+    background-color: #F8F8F8;
+    border-radius: 2px !important;
+    position: absolute;
+}
+
+
+
+.splash-header {
+    /*background-color: rgb(255, 132, 0);*/
+    text-align: center;
+    color: #F1F1F1;
+    font-size: 3vw;
+    font-weight: 400;
+    padding: 1vh;
+    letter-spacing: 7px;
+}
+
+@media (max-width: 768px) {
+    .splash-header {
+        font-size: 3.5vw;
+    }
+
+    .logo-header {
+        margin-left: 0px;
+    }
+}
+
+
+/* used for centering an image vertically in the viewport*/
+.img-wrapper {
+   max-height: 50vw;
+  overflow: hidden;
+}
+
+.img-wrapper img {
+  position: relative;
+  top: 50%;
+  transform: translateY(-18%);
+  width: 100%;
+}
+
+
+.map {
+    width: 100%;
+    height: 350px;
+    border-top: solid 1px #eee;
+    border-bottom: solid 1px #eee;
+}
+
+/* Daily Schedule */
+.daily-schedule .row div:first-child{
+    text-align: right;
+}
+
+@media (max-width: 500px) {
+    .daily-schedule .row div:first-child{
+        text-align: left;
+        min-width: 130px;
+    }
+     .daily-schedule .row div:nth-child(2){
+        text-align: left;
+        padding-left: 40px;
+        padding-bottom: 20px;
+    }
+}
+/* End Daily Schedule */
