@@ -1,0 +1,74 @@
+<?php
+/**
+ * The template for displaying all pages.
+ *
+ * This is the template that displays all pages by default.
+ * Please note that this is the WordPress construct of pages
+ * and that other 'pages' on your WordPress site will use a
+ * different template.
+ *
+ * @package nuestrojardin
+ */
+
+?>
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
+<head>
+
+<?php get_header(); ?>
+
+</head> 
+
+<body>    
+
+<?php get_template_part( 'navigation' ); ?>
+
+<div id="scrollable-body"> 
+
+    <!--  Open House Section -->
+    <section id="openhouse">
+        <div class="container">
+            <h2 class="title"><?php _e('Job <span class="nja-green">Opportunities</span>', 'nuestrojardin'); ?></h2>
+            <?php get_template_part( 'jobs/full_and_part_time' ); ?>
+        </div>
+    </section>
+    <!--  Open House Section -->
+
+
+    <!-- Google Map -->
+    <section id="contact" class="map">
+    </section><!---/map-->
+    <!-- End Google Map -->
+
+    <?php get_footer(); ?>
+
+</div><!--/wrapper-->
+
+<!-- JS Global Compulsory -->           
+<script type="text/javascript" src="<?php echo get_template_directory_uri()?>/assets/plugins/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri()?>/assets/plugins/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri()?>/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<!-- JS Implementing Plugins -->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri()?>/assets/plugins/gmap/gmap.js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri()?>/assets/plugins/jquery.easing.min.js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri()?>/assets/plugins/back-to-top.js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri()?>/assets/plugins/smoothScroll.js"></script>
+<!-- JS Page Level -->           
+<script type="text/javascript" src="<?php echo get_template_directory_uri()?>/assets/js/app.js"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        App.init();
+        App.initMap();
+    });
+</script>
+<!--[if lt IE 9]>
+    <script src="<?php echo get_template_directory_uri()?>/assets/plugins/respond.js"></script>
+    <script src="<?php echo get_template_directory_uri()?>/assets/plugins/html5shiv.js"></script>
+    <script src="<?php echo get_template_directory_uri()?>/assets/plugins/placeholder-IE-fixes.js"></script>
+<![endif]-->
+
+</body>
+</html>
