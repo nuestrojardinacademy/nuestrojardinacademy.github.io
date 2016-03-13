@@ -23,3 +23,5 @@ markdown: redcarpet #kramdown
 exclude: ["Gemfile", "Gemfile.lock", "Rakefile"]
 
 languages: ["en", "es"]
+
+keep_files: ['.git']

@@ -123,9 +123,8 @@ module Jekyll
 
     def initialize(tag_name, key, tokens)
       super
-      key = key.tr('"', "")
-      @key = key.strip
-      #puts @key
+      @key = key.strip # remove whitespace
+      @key = @key[1..-2] # remove leading and trailing quotes
     end
 
     def render(context)
@@ -136,13 +135,15 @@ module Jekyll
       else
         FastGettext.locale = 'en'
       end
+
+      #puts @key
         
       candidate = _(@key)
 
       if candidate == ""
         candidate = @key
       end
-      candidate.tr('"', "")
+      candidate
     end
   end
 

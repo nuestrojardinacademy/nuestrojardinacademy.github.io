@@ -260,9 +260,6 @@ msgstr "Por esta razón, es muy importante de que nos ayude a mantener su inform
 msgid "It's amazing what children can learn if given the opportunity.  Without even knowing it, your child can start down the path of bilingualism.  They'll thank you later!"
 msgstr "Es increíble lo que pueden aprender los niños si se les ofrece la oportunidad de hacerlo. Sin saberlo, su hijo o hija podrá iniciar el camino hacia el bilingüismo. ¡Se lo agradecerán más adelante!"
 
-msgid "It\'s amazing what children can learn if given the opportunity.  Without even knowing it, your child can start down the path of bilingualism.  They\'ll thank you later!"
-msgstr ""
-
 msgid "Jobs"
 msgstr "Empleos"
 
@@ -355,9 +352,6 @@ msgstr "Nuestro Jardín Academy es una escuela preescolar de inmersión en espa�
 
 msgid "Nuestro Jardín Academy is a true Spanish immersion preschool, serving children 3 to 5+ years old. We provide a high-quality, research-based program that fosters the acquisition of children's first and second language with a focus on developing the “whole child.”"
 msgstr "Nuestro Jardín Academy es una escuela de pre-kínder con un verdadero programa de inmersión en español, para niños de 3 a 5 años de edad. Proporcionamos un programa de calidad superior a base de investigación que fomenta la adquisición del primer y segundo idioma en los niños, enfocándonos en desarrollar y educar al  niño en su totalidad."
-
-msgid "Nuestro Jardín Academy is a true Spanish immersion preschool, serving children 3 to 5+ years old. We provide a high-quality, research-based program that fosters the acquisition of children\'s first and second language with a focus on developing the “whole child.”"
-msgstr ""
 
 #: page.php:209
 msgid "Nuestro Jardín believes in making this a unique language and cultural immersion experience for children in a preschool setting, where students not only get direct exposure to the language but also to the many different Spanish-speaking cultures in a nurturing, challenging, stimulating, and playful environment."
@@ -600,11 +594,8 @@ msgid "We take pride in our diverse community and we encourage our families to s
 msgstr "Nos enorgullecemos de nuestra comunidad diversa y animamos a nuestras familias a compartir sus culturas y tradiciones en el salón de clases."
 
 #: page.php:197
-msgid "Welcome to <span class=\"nja-green\">Nuestro</span> Jardín"
-msgstr "Bienvenido a <span class=\"nja-green\">Nuestro</span> Jardín"
-
-msgid "Welcome to <span class=nja-green>Nuestro</span> Jardín"
-msgstr ""
+msgid "Welcome to <span class="nja-green">Nuestro</span> Jardín"
+msgstr "Bienvenido a <span class="nja-green">Nuestro</span> Jardín"
 
 #: page-program.php:410
 msgid "Welcome- Free Choice - Mixed-Age Groups"

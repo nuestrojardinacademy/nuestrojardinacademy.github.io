@@ -49,31 +49,52 @@
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <div class="menu-english_menu-container">
                 <ul id="menu-english_menu" class="nav navbar-nav">
-                    <li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item menu-item-15">
-                        <a href="/">{% trans "Home" %}</a>
-                    </li>
-                    <li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27">
-                        <a href="/apply">{% trans "Apply" %}</a>
-                    </li>
-                    <li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25">
-                        <a href="/program">{% trans "Program" %}</a>
-                    </li>
-                    <li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26">
-                        <a href="/enrollment">{% trans "Enrollment" %}</a>
-                    </li>
-                    <li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48">
-                        <a href="/jobs">{% trans "Jobs" %}</a>
-                    </li>
-                    <li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48">
-                        <a href="/es">{% trans "Español" %}</a>
-                    </li>
+                    {% capture locale_es %}{{ page.path | slice,0,3 }}{% endcapture %}
+                    {% if locale_es == 'es/' %}
+                        <li class="menu-item">
+                            <a href="/es/">{% trans "Home" %}</a>
+                        </li>
+                        <li  class="menu-item">
+                            <a href="/es/apply/">{% trans "Apply" %}</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/es/program/">{% trans "Program" %}</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/es/enrollment/">{% trans "Enrollment" %}</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/es/jobs/">{% trans "Jobs" %}</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/">{% trans "Español" %}</a>
+                        </li>
+                    {% else %}
+                        <li class="menu-item">
+                            <a href="/">{% trans "Home" %}</a>
+                        </li>
+                        <li  class="menu-item">
+                            <a href="/apply/">{% trans "Apply" %}</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/program/">{% trans "Program" %}</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/enrollment/">{% trans "Enrollment" %}</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/jobs/">{% trans "Jobs" %}</a>
+                        </li>
+                        <li class="menu-item">
+                            <a href="/es/">{% trans "Español" %}</a>
+                        </li>
+                    {% endif %}
                 </ul>
             </div>        
         </div>
         <!-- /.navbar-collapse -->
     </div>
 </nav>
-
 <!-- We add an extra nav bar here that isn't position: fixed so that content below it get's spaced acordingly, the above nav bar has position: fixed -->
 <!-- <nav class="one-page-header navbar navbar-default navbar-fixed-top" style="position:relative; visibility: hidden; margin-bottom: 2px" role="navigation">
     <div class="container">
