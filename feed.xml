@@ -4,10 +4,10 @@
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/es/es/es/es/es/es/es/</link>
-    <atom:link href="http://yourdomain.com/es/es/es/es/es/es/es/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Mar 2016 11:53:14 -0700</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2016 11:53:14 -0700</lastBuildDate>
+    <link>http://yourdomain.com/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/</link>
+    <atom:link href="http://yourdomain.com/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 13 Mar 2016 15:20:25 -0700</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2016 15:20:25 -0700</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
@@ -27,8 +27,8 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Mar 2016 11:54:01 -0800</pubDate>
-        <link>http://yourdomain.com/es/es/es/es/es/es/es/jekyll/update/2016/03/07/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/es/es/es/es/es/es/es/jekyll/update/2016/03/07/welcome-to-jekyll.html</guid>
+        <link>http://yourdomain.com/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/jekyll/update/2016/03/07/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/es/jekyll/update/2016/03/07/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
