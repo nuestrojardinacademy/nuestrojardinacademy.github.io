@@ -796,7 +796,7 @@ msgid "We take pride in our diverse community and we encourage our families to s
 msgstr "Nos enorgullecemos de nuestra comunidad diversa y animamos a nuestras familias a compartir sus culturas y tradiciones en el salón de clases."
 
 msgid "Wednesday, March 16th"
-msgstr "miércoles, 16 de marzo"
+msgstr "Miércoles, 16 de marzo"
 
 #: page.php:197
 msgid "Welcome to <span class=\"nja-green\">Nuestro</span> Jardín"
