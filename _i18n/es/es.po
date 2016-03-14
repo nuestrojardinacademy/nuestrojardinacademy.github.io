@@ -266,6 +266,9 @@ msgstr "Día de los Muertos"
 msgid "Deposit and Fees:"
 msgstr "Depósitos y Cargos:"
 
+msgid "Director"
+msgstr "Directora"
+
 #: page-program.php:470
 msgid "Dismissal (3:00-5:00)"
 msgstr "Despedida (3:00-5:00)"
@@ -377,6 +380,9 @@ msgstr "Jornada:"
 #: page.php:275
 msgid "If you talk to a man in a language he understands, <br> that goes to his head. <br> <span class=\"color-green\">If you talk to him in his language,</span> <br>that goes to his heart."
 msgstr "Si hablas a un hombre en un lenguaje que comprende, <br> eso llega a su intelecto. <br> <span class=\"color-green\">Si le hablas en su lenguaje, </span> <br>eso llega a su corazón."
+
+msgid "Interested applicants, please send a cover letter and resume indicating clearly which position you are applying for (P/T or F/T) to Claudia Contreras-Peters, Director, via e-mail at <a href="mailto:nja.claudia@gmail.com">nja.claudia@gmail.com</a> or to:"
+msgstr "Si está interesado en postular, debe enviar una carta de presentación y currículum, indicando claramente la posición que solicita (tiempo completo o medio tiempo) a Claudia Contreras-Peters, Directora, por e-mail a nja.claudia@gmail.com o a la siguiente dirección:"
 
 #: page-program.php:517
 msgid "International Festival (February)"
