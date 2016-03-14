@@ -129,7 +129,7 @@ msgstr "Los postulantes deben ser bilingües; ADEMÁS deben ser hablantes nativo
 
 #: page-enrollment.php:62
 msgid "Apply"
-msgstr "Postule"
+msgstr "Postulación"
 
 #: page-program.php:134 page-program.php:184 page.php:130 page.php:180
 msgid "Apply Online"
@@ -485,7 +485,7 @@ msgstr "Nuestro Jardín Academy - Spanish Immersion Preschool | Portland, Oregó
 
 #: page-program.php:197
 msgid "Nuestro Jardín Academy believes in a well-rounded balanced educational approach to early childhood learning. We selected the best of many <a href=\"http://www.childcarenetworkofevanston.org/site/files/944/111817/381399/522710/Early_Childhood_Progam_Philosophies.pdf\">early childhood program philosophies</a>, such as Reggio Emilia, Montessori, Waldorf, and Play Based, and apply them to our teaching practices. "
-msgstr "Nuestro Jardín Academy promueve un enfoque educacional balanceado en la educación preescolar. Hemos seleccionado los mejores elementos de diversas filosofías educativas para la primera infancia <a href=\"http://www.childcarenetworkofevanston.org/site/files/944/111817/381399/522710/Early_Childhood_Progam_Philosophies.pdf\">early childhood program philosophies</a>, como Reggio Emilia, Montessori, Waldorf y Play Based (Enseñanza Lúdica), y las ponemos en práctica diariamente en el aula. "
+msgstr "Nuestro Jardín Academy promueve un enfoque educacional balanceado en la educación preescolar. Hemos seleccionado los mejores elementos de diversas <a href=\"http://www.childcarenetworkofevanston.org/site/files/944/111817/381399/522710/Early_Childhood_Progam_Philosophies.pdf\">filosofías educativas para la primera infancia</a>, como Reggio Emilia, Montessori, Waldorf y Play Based (Enseñanza Lúdica), y las ponemos en práctica diariamente en el aula. "
 
 #: page.php:247
 msgid "Nuestro Jardín Academy developed its very own curriculum to challenge and inspire preschool-aged children. It strives to balance academics with creative expression and play. Children are exposed to Spanish in the context of learning about relevant daily activities, nature, art, the alphabet, numbers, culture, and more. <span class=\"more-link\">(more)</span>"
@@ -677,7 +677,7 @@ msgstr "Nuestros maestros se enfocan en la producción del español de los niño
 
 #: page-enrollment.php:57
 msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! Our anticipated grand opening is expected to be summer, 2016. We are accepting applications for both Spring 2016 and for the 2016-17 school year starting in fall."
-msgstr "¡Gracias por su interés en Nuestro Jardín Academy, Spanish Immersion Preschool! Anticipamos nuestra gran apertura a principios de este verano. En este momento, estamos aceptando solicitudes para el año escolar 2016-17 school year que comienza en el otoño."
+msgstr "¡Gracias por su interés en Nuestro Jardín Academy, Spanish Immersion Preschool! Anticipamos nuestra gran apertura a principios de este verano. En este momento, estamos aceptando solicitudes para el año escolar 2016-17 que comienza en el otoño."
 
 #: page.php:225
 #, php-format
