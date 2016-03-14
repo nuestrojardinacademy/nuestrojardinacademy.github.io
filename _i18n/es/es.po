@@ -1,5 +1,33 @@
 msgid ""
-msgstr "Project-Id-Version: \nPOT-Creation-Date: 2016-03-05 10:59-0800\nPO-Revision-Date: 2016-03-05 11:04-0800\nLast-Translator: \nLanguage-Team: \nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nX-Generator: Poedit 1.8.7\nX-Poedit-Basepath: ..\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Poedit-KeywordsList: __;_e\nX-Poedit-SourceCharset: UTF-8\nX-Poedit-SearchPath-0: .\nX-Poedit-SearchPathExcluded-0: js\nX-Poedit-SearchPathExcluded-1: assets\nX-Poedit-SearchPathExcluded-2: inc\nX-Poedit-SearchPathExcluded-3: layouts\n"
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-03-05 10:59-0800\n"
+"PO-Revision-Date: 2016-03-13 18:52-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+"X-Poedit-SearchPathExcluded-2: inc\n"
+"X-Poedit-SearchPathExcluded-3: layouts\n"
+
+msgid "$11-$15 per hour depending on education and work experience"
+msgstr "$11-$15 por hora dependiendo del nivel de educación y experiencia previa "
+
+msgid "1 observed holiday in the summer"
+msgstr "1 día feriado durante el verano"
+
+msgid "1 week off in Spring"
+msgstr "1 semana libre durante la primavera"
 
 #: page-program.php:493
 msgid "1st Wednesday of each month"
@@ -8,6 +36,9 @@ msgstr "Primer miércoles de cada mes"
 #: page-enrollment.php:75
 msgid "2 days (T,Th)"
 msgstr "2 días (Ma,J)"
+
+msgid "2 weeks off in December"
+msgstr "2 semanas libres en diciembre"
 
 #: page-program.php:488
 msgid "2nd Wednesday of every other month"
@@ -25,9 +56,18 @@ msgstr "Tercer miércoles de cada mes"
 msgid "4 days (M-Th/T-F)"
 msgstr "4 días (L-J/Ma-V)"
 
+msgid "4 days of professional development/planning days before the school year begins"
+msgstr "4 días de desarrollo profesional/planeamiento antes de comenzar el año escolar "
+
+msgid "4 weeks off during the summer."
+msgstr "4 semanas libres durante el verano"
+
 #: page-enrollment.php:90
 msgid "5 days"
 msgstr "5 días"
+
+msgid "5 days of professional development/planning days throughout the school year"
+msgstr "5 días de desarrollo profesional/planeamiento durante el año escolar"
 
 #: page-enrollment.php:121
 #, php-format
@@ -38,6 +78,12 @@ msgstr "Se le dará 5% de descuento a cualquier hermano o hermana de otro u otra
 #, php-format
 msgid "5% credit given if tuition is paid in full prior to September 1."
 msgstr "Se le dará 5% de descuento si paga la colegiatura del año completo antes del 1 de septiembre."
+
+msgid "7 weeks off in a year"
+msgstr "7 semanas libres durante el año"
+
+msgid "8 observed holidays during the school year"
+msgstr "8 días feriados durante el año escolar"
 
 #: page-program.php:212 page.php:223
 msgid "90:10 Immersion Model"
@@ -55,13 +101,31 @@ msgstr "<span class=\"nja-green\">Puertas</span> Abiertas"
 msgid "<span class=\"nja-green\">Our</span> Philosophy"
 msgstr "<span class=\"nja-green\">Nuestra</span> Filosofía"
 
+msgid "A minimum of one year commitment is required. Both part-time and full-time new hires will be working under a contract."
+msgstr "Se pide un compromiso mínimo de un año. Todo empleado, ya sea de tiempo completo o medio tiempo, estará bajo contrato."
+
+msgid "AA Degree in early childhood education, elementary education, child development, or special education OR"
+msgstr "Titulado con un AA en educación de la primera infancia, educación primaria, desarrollo infantil o educación especial/diferencial. O"
+
+msgid "ADDITIONAL EXPECTATIONS:"
+msgstr "EXPECTATIVAS ADICIONALES:"
+
+msgid "Adhere to personnel policies as outlined in the Employee Handbook."
+msgstr "Adherirse a las normas de personal estipuladas en el Manual del Empleado."
+
 #: page-enrollment.php:126
 msgid "Advance Tuition Discount:"
 msgstr "Descuento por Pago Anual:"
 
+msgid "After 90 days of full-time employment (34+ hours a week):"
+msgstr "Después de 90 días de empleo por tiempo completo (34+ horas por semana):"
+
 #: page-program.php:500
 msgid "And dads could not be forgotten! They, too, will get some ‘me time’ with other Nuestro Jardín’s dads. Similarly to MNO, dads will decide on the events for each month at the beginning of each school year (dinner, movie, working out, book club, game night, etc.)"
 msgstr "¡Y no nos podríamos olvidar de los papás! Ellos, también, tendrán tiempo para ellos y podrán realizar actividades con otros padres de Nuestro Jardín. Tal como en el  grupo NPM, los padres decidirán en los  eventos a realizar cada mes al comienzo de cada año escolar (cena, película, hacer ejercicio, club de lectura, noche de juegos de mesa, etc.)"
+
+msgid "Applicant must be bilingual AND be a native Spanish speaker or have native-like fluency/proficiency"
+msgstr "Los postulantes deben ser bilingües; ADEMÁS deben ser hablantes nativos del español o deben tener la fluidez y dominio del idioma como un hispanohablante “nativo”."
 
 #: page-enrollment.php:62
 msgid "Apply"
@@ -71,9 +135,21 @@ msgstr "Postule"
 msgid "Apply Online"
 msgstr "Postule En Línea"
 
+msgid "Arrive to work on time; punctually attend and actively participate in all required activities, meetings, and trainings."
+msgstr "Llegar a tiempo al trabajo; asistir puntualmente y participar activament en todas la actividades, reuniones y entrenamientos que sean requeridos."
+
 #: page-program.php:338
 msgid "Arts & Craft <span style=\"font-size:10px;\">(by Giulian Frisoni)</span>"
 msgstr "Artes & Manualidades <span style=\"font-size:10px;”>(por Giulian Frisoni)</span>"
+
+msgid "Assist in creating, revising, and implementing lesson plans based on our Spanish immersion program’s goals and objectives."
+msgstr "Ayudar en la creación, revisión e implementación de planes de estudio basados en las metas y los objetivos de nuestro programa de inmersión en español."
+
+msgid "Assist in designing and maintaining a warm, nurturing, enriched, and challenging learning environment."
+msgstr "Ayudar en el diseño y la mantención de un ambiente de aprendizaje acogedor, de cariño, enriquecido y desafiante."
+
+msgid "Assist in the maintenance of a safe, healthy, and orderly classroom environment."
+msgstr "Ayudar en la mantención de un ambiente sano, seguro y de orden en el salón de clase. "
 
 #: page.php:259
 msgid "At Nuestro Jardín Academy:"
@@ -83,9 +159,36 @@ msgstr "En Nuestro Jardín Academy:"
 msgid "At Nuestro Jardín, we believe in the importance of raising cultural awareness in students, teaching diversity, and growing responsible global citizens. We help children understand, embrace, and respect differences and similarities among those in our community. To this end, we integrate culturally-rich activities in our every-day curriculum, and two Fridays per month, we celebrate Día del Patrimonio (Cultural Heritage Day) by immersing ourselves in a culture from a country or region around the world."
 msgstr "En Nuestro Jardín, creemos en la importancia de fomentar la conciencia cultural en los niños, de enseñar el concepto de diversidad y de crear ciudadanos globales responsables. Ayudamos a lo niños a entender, aceptar y respetar las diferencias y similitudes entre todos en nuestra comunidad. Con este propósito, integramos en nuestro currículo actividades que sean culturalmente ricas y durante dos viernes por mes, celebramos el Día del Patrimonio (Cultural Heritage Day). Ese día, nos sumergimos completamente en una cultura de un país o región del mundo."
 
+msgid "At least two years of experience working with young children and families in a daycare/ preschool program. OR"
+msgstr "Por lo menos dos años de experiencia trabajando con niños pequeños y familias en programas de cuidado para niños o centros preescolares. O"
+
+msgid "Be a respectful, cooperative, and reliable team member and participant in program activities."
+msgstr "Ser un integrante de equipo respetuoso, cooperador y fiable y ser partícipe en las actividades programáticas de nuestra escuela."
+
+msgid "Be able to read, speak, and write with native-like fluency and proficiency in Spanish."
+msgstr "Tener la habilidad de leer, hablar y escribir con fluidez similar a la de un hispanohablante “nativo”."
+
+msgid "Be available to substitute for other classes as needed."
+msgstr "Estar disponible para ser suplente en otras clases cuando sea necesario."
+
+msgid "Be familiar with, and adhere to, position-related policies and procedures as well as the program’s overarching objectives."
+msgstr "Familiarizarse con y adherirse a las normas y procedimientos relacionados con su puesto, al igual que con los objetivos principales de nuestro programa. "
+
+msgid "Be responsible and oversee the accomplishment of routine tasks with regard to the health, safety, and well-being of children, and maintain the program in accordance with the requirements of the Oregon Child Care Division."
+msgstr "Ser responsable y supervisar la realización de las tareas rutinarias/cotidianas en lo que se refiere a la seguridad, salud y bienestar de los niños y ayudar a mantener el programa conforme a los requisitos establecidos por el Oregon Child Care Division."
+
+msgid "CALENDAR INFORMATION:"
+msgstr "INFORMACIÓN DEL CALENDARIO:"
+
 #: page-program.php:153 page.php:149
 msgid "CENTRALLY LOCATED"
 msgstr "CENTRALMENTE UBICADA"
+
+msgid "COMPENSATION & BENEFITS:"
+msgstr "REMUNERACIÓN Y BENEFICIOS:"
+
+msgid "CONTACT:"
+msgstr "INFORMACIÓN DE CONTACTO:"
 
 #: page-program.php:339
 msgid "Ceramics in Mexico date back thousands of years before the Pre-Columbian period, when ceramic arts and pottery crafts developed with the first advanced civilizations and cultures of Mesoamerica. With one exception, pre-Hispanic wares were not glazed, but rather burnished and painted with colored fine clay slips. The potter's wheel was unknown as well; pieces were shaped by molding, coiling and other methods."
@@ -123,14 +226,29 @@ msgstr "Ya hace más de un año que Claudia ha estado trabajando en el proyecto 
 msgid "Claudia lives in NE Portland with her husband, two sons (one in kindergarten, the other in preschool), and cat, Cuchito."
 msgstr "Claudia vive en el noreste de Portland con su esposo, sus dos hijos (uno en kínder y el otro de edad preescolar) y su gato, Cuchito."
 
+msgid "Commitment:"
+msgstr "Compromiso:"
+
 #: page-program.php:488
 msgid "Community Night"
 msgstr "Noche de la Comunidad"
+
+msgid "Completion of 20 semester credits or 30 quarter credits of training at a college or university in Early childhood education, child development, elementary education, or special education AND at least one year of experience working with young children and families in a daycare/preschool program."
+msgstr "20 créditos de semestre o 30 de trimestre de entrenamiento en una escuela superior o universidad en educación de la primera infancia, educación primaria, desarrollo infantil o educación especial/diferencial. Y por lo menos un año de experiencia trabajando con niños pequeños y familias en programas de cuidado para niños o centros preescolares."
+
+msgid "Confidentiality:"
+msgstr "Confidencialidad:"
 
 #: template-parts/content.php:25
 #, php-format
 msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
 msgstr "Continuar leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "Create and manage a warm and challenging learning environment for students, incorporating appropriate activities which meet the needs of the group as well as those of individual children and families."
+msgstr "Crear y manejar un ambiente de aprendizaje acogedor y desafiante para los estudiantes, incorporando actividades apropiadas y atendiendo a las necesidades de la clase, de cada niño, y de cada familia. "
+
+msgid "Current First Aid/CPR card"
+msgstr "Tarjeta de Primeros Auxilios/RCP "
 
 #: page-program.php:498
 msgid "Dad’s Night Out (DNO)"
@@ -156,8 +274,8 @@ msgstr "Despedida (3:00-5:00)"
 msgid "During her years at San José Unified School District, Claudia worked under the supervision of <a href=\"http://atdle.org/about-us/meet-the-team/\" target=\"_blank\">Dr. Rosa Molina</a> a renowned bilingual and bilingual immersion advocate. Claudia worked at a Professional Development school where she grew fond of collaboration and professional development practices to further her growth as an educator. As a linguist, second language teacher, and second language learner herself, Claudia has a deep understanding of first and second language acquisition and learni"
 msgstr "Durante su práctica como maestra en el Distrito Unificado de San José, trabajó bajo la supervisión de la <a href=\"http://atdle.org/about-us/meet-the-team/\" target=\"_blank\">Dra. Rosa Molina</a> una reconocida defensora y experta en el campo del bilingüismo y de los programas de inmersión. Además cooperó en una escuela de Desarrollo Profesional en donde comenzó a interesarse en la colaboración y en las prácticas de desarrollo profesional para fortalecer su praxis como educadora.  Como lingüista, profesora de segundo idioma y aprendiz de un segundo idioma, Claudia tiene una fundación sólida en el ámbito de la adquisición y aprendizaje de la primera y segunda lengua."
 
-msgid "During her years at San José Unified School District, Claudia worked under the supervision of <a href=http://atdle.org/about-us/meet-the-team/ target=_blank>Dr. Rosa Molina</a> a renowned bilingual and bilingual immersion advocate. Claudia worked at a Professional Development school where she grew fond of collaboration and professional development practices to further her growth as an educator. As a linguist, second language teacher, and second language learner herself, Claudia has a deep understanding of first and second language acquisition and learni"
-msgstr ""
+msgid "ESSENTIAL FUNCTIONS:"
+msgstr "FUNCIONES ESENCIALES: "
 
 #: page.php:298
 msgid "Education researcher, Neville V. Scarfe said, “play is the highest form of research”. Children learn best when given adequate time to move their bodies. At Nuestro Jardín Academy, we strongly believe that a great deal of learning is happening during unstructured play time, and that there is a lot of value in it."
@@ -174,12 +292,18 @@ msgstr "Admisión"
 msgid "Enrollment & <span class=\"nja-green\">Tuition</span>"
 msgstr "Inscripciones & <span class=\"nja-green\">Matrícula</span>"
 
+msgid "Enrollment in Oregon Central Background Registry (can be done right after accepting employment)"
+msgstr "Registro en el Oregon Central Background Registry (esto puede ocurrir después de aceptar empleo) "
+
 msgid "Español"
 msgstr "English"
 
 #: page.php:266
 msgid "Everyone strives to build a community, involving students, teachers, and parents."
 msgstr "Todos nos esforzamos por formar una comunidad en la cual nuestros estudiantes, maestros y padres sean partícipes activos y hagan contribuciones positivas a nuestra comunidad."
+
+msgid "FULL AND PART TIME SPANISH PRESCHOOL TEACHER (NE Portland)"
+msgstr "MAESTROS PREESCOLARES DE ESPAÑOL - TIEMPO COMPLETO Y MEDIO TIEMPO (NE Portland)"
 
 #: page-program.php:513
 msgid "Fall Festival (October)"
@@ -196,6 +320,9 @@ msgstr "Danza flamenca"
 #: page-program.php:406
 msgid "Following our balanced approach, students spend part of the day in same-age groups and the other in mixed-age groups. The following schedule is an example of the daily schedule at Nuestro Jardín, but the order of subjects and activities will vary depending on the group your child is assigned."
 msgstr "Siguiendo nuestro enfoque balanceado, agrupamos a los estudiantes de acuerdo a su edad. Ellos pasan parte del día en grupos homogéneos y el resto en grupos heterogéneos. El siguiente horario es un ejemplo de las actividades realizadas en Nuestro Jardín, pero el orden de cada actividad varía dependiendo del grupo que su hijo sea asignado."
+
+msgid "Food Handlers Card"
+msgstr "Tarjeta de Manejo de Comida"
 
 #: page-program.php:247
 msgid "Fostering <span class=\"nja-green\">Cultural</span> Awareness"
@@ -216,6 +343,9 @@ msgstr "Frida Kahlo <span style=\"font-size:10px;”>(por Maria de Oro)</span>"
 #: page-enrollment.php:71
 msgid "Full Day"
 msgstr "Jornada Completa"
+
+msgid "Full-Time: 34-38 hours per week"
+msgstr "Tiempo Completo: 34-38 horas por semana"
 
 #: page-enrollment.php:104
 msgid "Full-day - 8:00 am to  5:00 pm"
@@ -241,16 +371,19 @@ msgstr "Inicio"
 msgid "Hours of Operation:"
 msgstr "Horario de Atención:"
 
+msgid "Hours:"
+msgstr "Jornada:"
+
 #: page.php:275
 msgid "If you talk to a man in a language he understands, <br> that goes to his head. <br> <span class=\"color-green\">If you talk to him in his language,</span> <br>that goes to his heart."
 msgstr "Si hablas a un hombre en un lenguaje que comprende, <br> eso llega a su intelecto. <br> <span class=\"color-green\">Si le hablas en su lenguaje, </span> <br>eso llega a su corazón."
 
-msgid "If you talk to a man in a language he understands, <br> that goes to his head. <br> <span class=color-green>If you talk to him in his language,</span> <br>that goes to his heart."
-msgstr ""
-
 #: page-program.php:517
 msgid "International Festival (February)"
 msgstr "Festival Internacional (febrero)"
+
+msgid "Interviews will start the week of March 14th, 2016"
+msgstr "Las entrevistas comenzarán la semana del 14 de marzo, 2016."
 
 #: page-enrollment.php:140
 msgid "It is very important to keep us up to date with changes to contact details (such as email address and phone numbers)."
@@ -259,6 +392,12 @@ msgstr "Por esta razón, es muy importante de que nos ayude a mantener su inform
 #: page.php:289
 msgid "It's amazing what children can learn if given the opportunity.  Without even knowing it, your child can start down the path of bilingualism.  They'll thank you later!"
 msgstr "Es increíble lo que pueden aprender los niños si se les ofrece la oportunidad de hacerlo. Sin saberlo, su hijo o hija podrá iniciar el camino hacia el bilingüismo. ¡Se lo agradecerán más adelante!"
+
+msgid "Job <span class=\"nja-green\">Opportunities</span>"
+msgstr "<span class=\"nja-green\">Oportunidades</span> de Empleo"
+
+msgid "Job Description:"
+msgstr "Descripción:"
 
 msgid "Jobs"
 msgstr "Empleos"
@@ -295,9 +434,15 @@ msgstr "Almuerzo (12:30-Despedida para los de Media Jornada)"
 msgid "Lunch:"
 msgstr "Almuerzo:"
 
+msgid "MINIMUM QUALIFICATIONS:"
+msgstr "REQUISITOS MÍNIMOS:"
+
 #: page-program.php:434
 msgid "Math/Science- Whole Group and Free Choice/Play"
 msgstr "Matemáticas/Ciencias- Instrucción al Grupo Entero y Libre Elección/Juego"
+
+msgid "Medical benefits"
+msgstr "Beneficios médicos "
 
 #: page-program.php:493
 msgid "Mom’s Night Out (MNO)"
@@ -327,9 +472,12 @@ msgstr "NUESTRO JARDÍN ACADEMY"
 msgid "Nap/Quiet Time"
 msgstr "Siesta/Descanso"
 
+msgid "New teachers must satisfactorily complete a training program before summer camp sessions and/or the new school year start."
+msgstr "Cualquier docente nuevo que se integre a nuestra escuela debe completar satisfactoriamente una capacitación antes de que comiencen los campamentos de verano y/o el nuevo año escolar."
+
 #: page-enrollment.php:112
 msgid "Newly enrolled families- last month’s tuition and a $120.00 one-time registration fee/materials fee (non-refundable)."
-msgstr "Familias Nuevas- arancel/cuota del último mes y cargo de registro/cargo para \nmateriales de $120.00 (no reembolsable)"
+msgstr "Familias Nuevas- arancel/cuota del último mes y cargo de registro/cargo para materiales de $120.00 (no reembolsable)"
 
 #: header.php:12
 msgid "Nuestro Jardín Academy - Spanish Immersion Preschool | Portland, Oregon"
@@ -343,15 +491,18 @@ msgstr "Nuestro Jardín Academy promueve un enfoque educacional balanceado en la
 msgid "Nuestro Jardín Academy developed its very own curriculum to challenge and inspire preschool-aged children. It strives to balance academics with creative expression and play. Children are exposed to Spanish in the context of learning about relevant daily activities, nature, art, the alphabet, numbers, culture, and more. <span class=\"more-link\">(more)</span>"
 msgstr "Nuestro Jardín Academy diseñó su propio currículo para desafiar e inspirar a los niños de edad preescolar. Procura  ofrecer un balance entre lo académico, la expresión creativa y el juego. El estudiante está expuesto al español en el contexto de aprender acerca de actividades diarias que sean relevantes, de la naturaleza, del arte, del alfabeto, de los números, de la cultura y mucho más. <span class=\"more-link\">(mas)</span>"
 
-msgid "Nuestro Jardín Academy developed its very own curriculum to challenge and inspire preschool-aged children. It strives to balance academics with creative expression and play. Children are exposed to Spanish in the context of learning about relevant daily activities, nature, art, the alphabet, numbers, culture, and more. <span class=more-link>(more)</span>"
-msgstr ""
-
 #: header.php:18
 msgid "Nuestro Jardín Academy is a new Spanish immersion preschool in Portland, OR, offering a high-quality program that fosters first and second language acquisition."
 msgstr "Nuestro Jardín Academy es una escuela preescolar de inmersión en español en Portland, Oregón, que ofrece un programa de calidad que fomenta la adquisición del primer y segundo idioma."
 
 msgid "Nuestro Jardín Academy is a true Spanish immersion preschool, serving children 3 to 5+ years old. We provide a high-quality, research-based program that fosters the acquisition of children's first and second language with a focus on developing the “whole child.”"
 msgstr "Nuestro Jardín Academy es una escuela de pre-kínder con un verdadero programa de inmersión en español, para niños de 3 a 5 años de edad. Proporcionamos un programa de calidad superior a base de investigación que fomenta la adquisición del primer y segundo idioma en los niños, enfocándonos en desarrollar y educar al  niño en su totalidad."
+
+msgid "Nuestro Jardín Academy mostly follows the Portland Public Schools Calendar:"
+msgstr "Nuestro Jardín Academy sigue principalmente el calendario de Portland Public Schools:"
+
+msgid "Nuestro Jardín Academy, a brand new Spanish immersion preschool in Portland, Oregon, is seeking full and part time Spanish-speaking preschool teachers to start up in late spring/beginning of summer 2016. Our preschool provides a high-quality, research-based program that fosters the acquisition of children's first and second language with a focus on developing the whole child. We believe in making this a unique language and cultural immersion experience for children, so we are looking for the perfect candidates to join our team. Our goal is for teachers to work in a fun, supportive, and collaborative environment. Teachers are one of the best assets to our program, so providing high-quality professional development in Spanish will help you become the best teacher you can be."
+msgstr "Nuestro Jardín Academy, un nuevo centro preescolar de inmersión en español en Portland, Oregón, está buscando maestros de español por tiempo completo y medio tiempo para fines de la primavera/comienzo del verano 2016. Nuestro centro preescolar se caracteriza en proporcionar un programa de alta calidad, a base de investigación, que fomenta la adquisición del primer y segundo idioma, con un enfoque en educar al niño en su totalidad.  Hacemos hincapié en hacer de ésta una experiencia cultural única de inmersión al idioma español para los niños en el entorno preescolar, y para esto necesitamos a los perfectos candidatos que deseen unirse a nuestro equipo. Nuestra meta es de que nuestros maestros trabajen en un ambiente que sea divertido, que proporcione apoyo y que sea colaborativo. El docente es una parte vital y de suma importancia en nuestro programa, entonces el poder proporcionarle desarrollo y capacitación personal de alta calidad en español, le ayudará a mejorar sus técnicas educativas y a surgir como maestro."
 
 #: page.php:209
 msgid "Nuestro Jardín believes in making this a unique language and cultural immersion experience for children in a preschool setting, where students not only get direct exposure to the language but also to the many different Spanish-speaking cultures in a nurturing, challenging, stimulating, and playful environment."
@@ -369,8 +520,14 @@ msgstr "Obviamente a los niños les encantará divertirse mientras sus padres ti
 msgid "One of the core beliefs at Nuestro Jardín is to build a community, bringing together students, parents, and teachers. Community Night is a time for all families to get together and get to know one another. It is also a time for parents and teachers to develop stronger partnerships and to discuss the latest teaching and parenting techniques used at Nuestro Jardín. After a family potluck, a parent meeting will follow."
 msgstr "Una de las convicciones fundamentales que tenemos en Nuestro Jardín es crear una comunidad, uniendo a los estudiantes, padres y maestros. La Noche de la Comunidad es un evento para que todas las familias se puedan reunir y conocerse (unas a las otras). También es una buena ocasión para que los padres, y maestros desarrollen alianzas más sólidas y relaciones de colaboración para discutir las técnicas más recientes utilizadas en Nuestro Jardín referentes a la enseñanza y crianza de los niños. Después de una cena al estilo ‘potluck’ (por contribución), se realizará una reunión para padres."
 
+msgid "One week of paid sick/personal days"
+msgstr "Una semana de licencia/días personales pagada"
+
 msgid "Open House on March 16th"
-msgstr ""
+msgstr "Puertas Abiertas: 16 de marzo"
+
+msgid "Open until filled"
+msgstr "Abierta hasta que se ocupen los puestos"
 
 #: page.php:190
 msgid "Opening Summer of 2016!"
@@ -388,20 +545,26 @@ msgstr "Nuestro Programa"
 msgid "Our Vision of a <strong class=\"color-green\">TRUE</strong> Spanish Immersion Program"
 msgstr "Nuestra Visión de un <strong class=\"color-green\">VERDADERO</strong> Programa de Inmersión en Español"
 
-msgid "Our Vision of a <strong class=color-green>TRUE</strong> Spanish Immersion Program"
-msgstr ""
-
 #: page.php:265
 msgid "Our bilingual teachers receive free and high-quality professional development in Spanish."
 msgstr "Nuestros maestros bilingües reciben capacitación profesional de un alto nivel de calidad, gratis y en español."
 
 #: page-enrollment.php:34
-msgid "Our space is under construction, so four informal family-friendly open houses will be held at the home of the Director of \n                        Nuestro Jardín. Open houses start at 6pm and last for one hour. Join us to learn what Nuestro Jardín, \n                        Spanish Immersion Preschool is all about. Light refreshments will be served."
-msgstr "Debido a que nuestro edificio está en construcción, realizaremos cuatro eventos informales de “Puertas Abiertas” para toda la familia que se realizarán en la residencia de la Directora de Nuestro Jardín. Los eventos de Puertas Abiertas comenzarán a las 6pm y tendrán una hora de duración. Los invitamos a acompañarnos y conocer más acerca de Nuestro Jardín, Spanish Immersion Preschool. Se servirán aperitivos ligeros."
+msgid "Our space is under construction, so five informal family-friendly open houses will be held at the home of the Director of Nuestro Jardín. Open houses start at 6pm and last for one hour. Join us to learn what Nuestro Jardín, Spanish Immersion Preschool is all about. Light refreshments will be served."
+msgstr "Debido a que nuestro edificio está en construcción, realizaremos cinco eventos informales de “Puertas Abiertas” para toda la familia que se realizarán en la residencia de la Directora de Nuestro Jardín. Los eventos de Puertas Abiertas comenzarán a las 6pm y tendrán una hora de duración. Los invitamos a acompañarnos y conocer más acerca de Nuestro Jardín, Spanish Immersion Preschool. Se servirán aperitivos ligeros."
 
 #: page-program.php:430 page-program.php:458
 msgid "Outside Play"
 msgstr "Recreo (en el Parque)"
+
+msgid "PREFERRED QUALIFICATIONS (not required but a plus):"
+msgstr "REQUISITOS DESEABLES (no necesarios, pero proveen una gran ventaja):"
+
+msgid "Part-Time: 20-30 hours per week"
+msgstr "Medio Tiempo: 20-30 horas por semana"
+
+msgid "Participate in professional development activities and complete continuing education requirements."
+msgstr "Participar en actividades de desarrollo y capacitación profesional y completar requisitos de educación continua."
 
 #: page.php:296
 msgid "Playing is Learning Too"
@@ -414,6 +577,21 @@ msgstr "Por favor tome nota de que habrá un incremento anual en la matrícula d
 msgid "Program"
 msgstr "Programa"
 
+msgid "Program Participation and Team Member:"
+msgstr "Participación y Trabajo en Equipo:"
+
+msgid "Project a professional work image"
+msgstr "Proyectar una imagen profesional en el trabajo."
+
+msgid "Provide and maintain a safe environment."
+msgstr "Proporcionar y mantener un ambiente de máxima seguridad. "
+
+msgid "Qualify under one of the following below:"
+msgstr "Cumplir con una de las siguientes calificaciones:"
+
+msgid "RESPONSIBILITIES:"
+msgstr "RESPONSABILIDADES: "
+
 #: template-parts/content-none.php:20
 #, php-format
 msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
@@ -423,9 +601,18 @@ msgstr "¿Listo para publicar tu primer artículo? <a href=\\”%1$s\\”>Comien
 msgid "Research has also shown that students in a 90:10 immersion program develop higher levels of bilingualism,  biliteracy, and cognitive skills when compared with English-only proficient students participating in other educational programs. Another benefit of students being in a dual immersion program is that they will develop very positive attitudes about students of other language and cultural backgrounds, and positive attitudes toward themselves as learners.  Consult the  <a href=\"http://www.cal.org/twi/\" target=\"_blank\">Center for Applied Linguistics</a> for specific research studies."
 msgstr "Otros estudios también han demostrado que los estudiantes en programas de 90:10 desarrollan niveles de bilingüismo, bi-alfabetismo y habilidades cognitivas muchos más altos que los estudiantes anglo-parlantes que han estado en otros programas educacionales. Los estudiantes en programas de doble inmersión tienen aún un beneficio adicional: uno actitudinal. Estos alumnos desarrollan actitudes positivas hacia los estudiantes que hablan otros idiomas y tienen otros orígenes culturales y también fortalecen actitudes positivas hacia sí mismos como aprendices. Consulte la página de <a href=\"http://www.cal.org/twi/\" target=\"_blank\">Center for Applied Linguistics</a> para más información y estudios específicos."
 
+msgid "Respect and maintain confidentiality of information regarding enrolled children and families, personnel issues, and other program operations as appropriate."
+msgstr "Respetar y mantener confidencialidad de toda información relacionada con los niños matriculados y sus familias, asuntos del personal y operaciones del programa como sea adecuado."
+
+msgid "Responsible for the overall supervision, planning, and management of the Spanish immersion preschool class:"
+msgstr "Responsable por la supervisión general, la planificación, y el manejo de la clase preescolar de inmersión al español:"
+
 #: page-enrollment.php:113
 msgid "Returning families - $60 annual materials fee due at the beginning of each school year in September."
-msgstr "Familias que regresan - cargo para materiales de $60 que debe ser pagado al\ncomienzo de cada año escolar en septiembre. "
+msgstr "Familias que regresan - cargo para materiales de $60 que debe ser pagado al comienzo de cada año escolar en septiembre. "
+
+msgid "Run for part of June, July, and part of August."
+msgstr "Ofrecido durante parte de junio, en julio y parte de agosto "
 
 #: page-program.php:383
 msgid "Salvador Dali"
@@ -438,6 +625,9 @@ msgstr "Egresó de San Jose State University, California con el grado de BA en L
 #: page-enrollment.php:118
 msgid "Sibling Discount:"
 msgstr "Descuento de Hermano:"
+
+msgid "Skills, expertise, or aptitude in:"
+msgstr "Habilidad, especialización, o aptitud en:"
 
 #: page-program.php:454
 msgid "Snack"
@@ -475,12 +665,15 @@ msgstr "Los estándares educativos sientan las bases de lo que el niño debe sab
 msgid "Summer Festival (End of Year Celebration- June)"
 msgstr "Festival del Verano (Celebración de Fin de Año- junio)"
 
+msgid "Summer camp sessions:"
+msgstr "Sesiones de Campamentos de Verano:"
+
+msgid "Teacher planning built into schedule"
+msgstr "La planificación está contemplada en el horario semanal de trabajo."
+
 #: page.php:263
 msgid "Teachers focus on children’s Spanish production to ensure students make actual progress in the <a href=\"http://www.colorincolorado.org/article/language-acquisition-overview\" target=\"_blank\">stages of second language acquisition</a> from the pre-production stage or “silent period” to early production and then to becoming speech emergent."
 msgstr "Nuestros maestros se enfocan en la producción del español de los niños para asegurarse de que estén realmente progresando en las <a href=\"http://www.colorincolorado.org/article/language-acquisition-overview\" target=\"_blank\">etapas de la adquisición de un segundo idioma</a> desde la etapa de preproducción o “básica”, a la de producción temprana, hasta el surgimiento del lenguaje."
-
-msgid "Teachers focus on children’s Spanish production to ensure students make actual progress in the <a href=http://www.colorincolorado.org/article/language-acquisition-overview target=_blank>stages of second language acquisition</a> from the pre-production stage or “silent period” to early production and then to becoming speech emergent."
-msgstr ""
 
 #: page-enrollment.php:57
 msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! Our anticipated grand opening is expected to be summer, 2016. We are accepting applications for both Spring 2016 and for the 2016-17 school year starting in fall."
@@ -490,9 +683,6 @@ msgstr "¡Gracias por su interés en Nuestro Jardín Academy, Spanish Immersion 
 #, php-format
 msgid "The 90:10 immersion model used at Nuestro Jardín immerses the student in Spanish 90% of the day. Extensive research has demonstrated that ... <span class=\"more-link\">(more)</span>"
 msgstr "En el modelo de inmersión 90:10 que usamos en Nuestro Jardín, los estudiantes están en contacto directo con el español 90% del día escolar. En extensas investigaciones, se ha demostrado de que ... <span class=\"more-link\">(mas)</span>"
-
-msgid "The 90:10 immersion model used at Nuestro Jardín immerses the student in Spanish 90% of the day. Extensive research has demonstrated that ... <span class=more-link>(more)</span>"
-msgstr ""
 
 #: page-program.php:214
 #, php-format
@@ -507,12 +697,12 @@ msgstr "El Regalo de un Segundo Idioma"
 msgid "The Guelaguetza, or Los lunes del cerro (Mondays on the Hill) is an annual indigenous cultural event in Mexico that takes place in the city of Oaxaca, capital of the state of Oaxaca, as well as in nearby villages. The celebration centers on traditional dancing in costume in groups, often gender-separated groups, as is traditional, and includes parades complete with indigenous walking bands, native food, and statewide artisanal crafts such as prehispanic-style textiles. Each costume (traje) and dance usually has a local indigenous historical and cultural meaning. Although the celebration is now an important tourist attraction, it also retains deep cultural importance for the peoples of the state and is important for the continuing survival of these cultures."
 msgstr "La Guelaguetza es una celebración que tiene lugar en la ciudad de Oaxaca de Juárez. La Guelaguetza forma parte de los cultos populares a la Virgen del Carmen, razón por la que se celebra los dos lunes más cercanos a la festividad católica de esta advocación Mariana (el 16 de julio). Otro nombre con que se conoce la Guelaguetza es el de “Los lunes del Cerro”, puesto que el corazón de la festividad es el cerro del Fortín, que domina el centro de la ciudad de Oaxaca. La palabra “guelaguetza” deriva del zapoteco guendalizaá, que significa “cooperar”, pero en su concepción más amplia es una actitud, una cualidad con la que se nace, un sentimiento por medio del cual el zapoteca ama a su prójimo, un sentimiento de hermandad, de compartir la naturaleza y la vida. En esta celebración participan grupos folclóricos de las ocho regiones del estado: La Costa, Cañada, Tuxtepec, Mixteca, Sierra Sur, Sierra Norte, Valles Centrales e Istmo."
 
+msgid "The following are also required for employment and must be obtained within 90 days after accepting the position."
+msgstr "Cumplir también con los siguientes requisitos, los cuales pueden ser obtenidos dentro de 90 días después de haber aceptado empleo. "
+
 #: page.php:236
 msgid "The whole child approach taken by Nuestro Jardín Academy ensures that each student is healthy, safe, engaged, supported, and challenged by ... <span class=\"more-link\">(more)</span>"
 msgstr "En Nuestro Jardín Academy nos enfocamos en educar al niño en su totalidad y en satisfacer las necesidades de afecto, cuidado, bienestar y desarrollo integral, además de desafiar al niño mediante ... <span class=\"more-link\">(mas)</span>"
-
-msgid "The whole child approach taken by Nuestro Jardín Academy ensures that each student is healthy, safe, engaged, supported, and challenged by ... <span class=more-link>(more)</span>"
-msgstr ""
 
 #: page-program.php:226
 msgid "The whole child approach taken by Nuestro Jardín Academy ensures that each student is healthy, safe, engaged, supported, and challenged by addressing students' needs through the shared responsibility of students, families, and the community."
@@ -532,10 +722,13 @@ msgstr "Jueves, 4 de febrero"
 
 #: page-enrollment.php:46
 msgid "To RSVP and get directions to the Director’s home, please send us an email (<a href=\"mailto:nja.contact@gmail.com?subject=Open House\">nja.contact@gmail.com</a>). Please write “Open House” on the subject line and include your name and a phone number you can be contacted at. Hope to see you there!"
-msgstr "Para confirmar su asistencia y obtener la dirección de la residencia de la Directora, por favor enviar un mensaje por correo electrónico a (<a href=\"mailto:nja.contact@gmail.com?subject=Puertas Abiertas\">nja.contact@gmail.com</a>). Por favor escriba “Puertas Abiertas” en la línea de asunto e incluya su nombre y número de teléfono al que se le pueda contactar.\n¡Esperamos verlos ahí!"
+msgstr "Para confirmar su asistencia y obtener la dirección de la residencia de la Directora, por favor enviar un mensaje por correo electrónico a (<a href=\"mailto:nja.contact@gmail.com?subject=Puertas Abiertas\">nja.contact@gmail.com</a>). Por favor escriba “Puertas Abiertas” en la línea de asunto e incluya su nombre y número de teléfono al que se le pueda contactar. ¡Esperamos verlos ahí!"
 
 msgid "Toggle navigation"
 msgstr ""
+
+msgid "Training:"
+msgstr "Capacitación:"
 
 #: page-program.php:450
 msgid "Transition"
@@ -557,9 +750,18 @@ msgstr "Martes, 16 de febrero"
 msgid "Tuesday, March 8th"
 msgstr "Martes, 8 de marzo"
 
+msgid "Tuition discount for any children attending Nuestro Jardín Academy"
+msgstr "Descuento en la colegiatura para los hijos que estén matriculados en Nuestro Jardín Academy"
+
 #: page-enrollment.php:65
 msgid "Tuition is due on the first of each month starting in September 2016."
 msgstr "La colegiatura anual se divide en 10 pagos iguales desde septiembre hasta junio. Los siguientes aranceles entran en vigencia el 1º de septiembre del 2016, la que deberá pagarse el primer día de cada mes."
+
+msgid "Two weeks paid vacation during Winter and Spring breaks"
+msgstr "Dos semanas de vacaciones pagadas durante las vacaciones de invierno y de primavera "
+
+msgid "Valid Oregon Driver’s License"
+msgstr "Licencia de conducir válida de Oregón"
 
 #: page-program.php:418
 msgid "Visual and Performing Arts - Whole Group and Free Choice/Play"
@@ -593,9 +795,12 @@ msgstr "Nuestra escuela, acepta a niños que han sido entrenados para ir al bañ
 msgid "We take pride in our diverse community and we encourage our families to share their culture and heritage in the classroom."
 msgstr "Nos enorgullecemos de nuestra comunidad diversa y animamos a nuestras familias a compartir sus culturas y tradiciones en el salón de clases."
 
+msgid "Wednesday, March 16th"
+msgstr "miércoles, 16 de marzo"
+
 #: page.php:197
-msgid "Welcome to <span class="nja-green">Nuestro</span> Jardín"
-msgstr "Bienvenido a <span class="nja-green">Nuestro</span> Jardín"
+msgid "Welcome to <span class=\"nja-green\">Nuestro</span> Jardín"
+msgstr "Bienvenido a <span class=\"nja-green\">Nuestro</span> Jardín"
 
 #: page-program.php:410
 msgid "Welcome- Free Choice - Mixed-Age Groups"
@@ -608,3 +813,13 @@ msgstr "Festival del Invierno (diciembre)"
 #: page-program.php:200
 msgid "With these theories and students’ learning styles in mind, the teachers at Nuestro Jardín use diverse teaching methodologies, integrating direct, inquiry-based instruction, and cooperative learning into everyday lessons. In addition, all activities throughout the day are geared to our diverse learners, and we make sure that all students’ learning styles are met (<a href=\"http://www.tecweb.org/styles/gardner.html\">http://www.tecweb.org/styles/gardner.html</a>)."
 msgstr "Considerando estas teorías, los maestros de Nuestro Jardín utilizan una diversidad de metodologías de aprendizaje mediante acciones pedagógicas integradoras como instrucción directa e indirecta, instrucción interactiva, independiente y experimental y el aprendizaje cooperativo. Además, cada actividad realizada durante el día está orientada a satisfacer las necesidades de nuestros estudiantes diversificados. (<a href=\"http://www.tecweb.org/styles/gardner.html\">http://www.tecweb.org/styles/gardner.html</a>)."
+
+msgid "second language teaching"
+msgstr "enseñanza de un segundo idioma"
+
+msgid "the performing arts (dance, music, drama)"
+msgstr "las artes escénicas (danza, música, teatro)"
+
+msgid "the visual arts"
+msgstr "las artes visuales"
+
