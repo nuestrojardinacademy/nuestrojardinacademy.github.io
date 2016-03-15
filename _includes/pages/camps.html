@@ -1,0 +1,108 @@
+<div id="scrollable-body"> 
+
+    <!--  Summer Camps Section -->
+    <section>
+        <div class="container">
+            <h2 class="title">{% trans "<span class="nja-green">Summer</span> Camps" %}</h2>
+            <p>
+                {% trans "We promise a fun-filled summer camp adventure for children 3 to 7 years old while learning Spanish. Offered for 8 weeks throughout the summer months, we will be offering weekly camps that will have your children singing and dancing, playing, doing arts and crafts, cooking, exploring, and learning about Latin American and Spanish cultures while learning Spanish. No prior Spanish experience required." %}
+            </p>
+            <p>
+                {% trans "You may choose up to 8 camps for full, half day, or a combination of both throughout the summer." %}
+            </p>
+            <p>
+                {% trans "For each camp, children will be divided into 3 age groups of 8-10 children each. While the theme is the same for all groups, activities and instruction will cater to each group's individual needs and language levels." %}
+            </p>
+
+            <ul>
+                <li>{% trans "3-4 year olds " %}</li>
+                <li>{% trans "4-5 year-olds" %}</li>
+                <li>{% trans "6-7 year-olds" %}</li>
+            </ul>
+
+            <div class="row" style="padding-top:20px;">
+                <div class="col-sm-3">
+                    <span style="font-weight: 400;">{% trans "Hours of Operation:" %}</span>
+                </div>
+                <div class="col-sm-9">
+                    {% trans "Full Day: 8:30-4:30 **" %}<br>
+                    {% trans "Half Day: 8:30-12:30" %} 
+                </div>
+                <div class="col-sm-12">
+                    {% trans "*  Flexible drop off time starting at 8:00, included for Full Day or Half Day Enrollment" %}<br>
+                    {% trans "** Extended care until 5 pm, available upon request for an extra $20 fee for the entire week ($16 for the week of July 5-8)" %} 
+                </div>
+            </div>
+            <div class="row" style="padding-top:20px;">
+                <div class="col-sm-3">
+                    <span style="font-weight: 400;">{% trans "Summer Camp Fees:" %}</span>
+                </div>
+                <div class="col-sm-9">
+                    {% trans "Full Day: $275 per week ($220 for July 5-8)" %}<br>
+                    {% trans "Half Day: $175 per week ($140 for July 5-8)" %} 
+                </div>
+            </div>
+            <div class="row" style="padding-top:5px;">
+                <div class="col-sm-3">
+                    {% trans "Special Discount for signing up for 4 weeks or more:" %}<br>
+                </div>
+                <div class="col-sm-9">
+                    {% trans "Full Day: $250 per week ($200 for July 5-8)" %}<br>
+                    {% trans "Half Day: $160 per week ($127 for July 5-8)" %} 
+                </div>
+            </div>
+
+            <div class="row" style="padding-top:20px;">
+                <div class="col-sm-12">
+                    <span style="font-weight: 400;">Sessions: (<a href="/assets/camps/Summer Camps_2016.pdf" target="_blank">Detailed class descriptions</a>)</span>
+                </div>
+                <div class="col-sm-12">
+                    {% trans "Session 1: June 13-17 - El Regreso de los Dinosaurios (Return of the Dinosaurs)" %}<br>
+                    {% trans "Session 2: June 20-24 - ¡Bichos, Bichos y más Bichos! (Bugs, Bugs, and more Bugs!)" %}<br>
+                    {% trans "Session 3: June 27- July 1 - Pintores españoles y latinoamericanos (Spanish and Latin American Painters" %}<br>
+                    {% trans "Session 4: July 5-8 (No camp July 4th) - ¡Ciencia Loca! (Mad Science!)" %}<br>
+                    {% trans "Session 5: July 11-15 - Música y Bailes de Latinoamérica: Explorando la Percusión y el Ritmo Latino (Music and Dances from Latin America: Exploring Percussion and Latin Rhythm)" %}<br>
+                    {% trans "Session 6: July 18-22 - Inventores, Creadores y Constructores (Inventors, Creators, and Builders)" %}<br>
+                    {% trans "Session 7: July 25-29 - ¡Juguemos en el Bosque! (Let's Play in the Woods!)" %}<br>
+                    {% trans "Session 8: August 1-5 - Cocina y Sabores Latinos  (Latin Cooking and Flavors)" %}
+                </div>
+            </div>
+
+            <a href="../campsignup" title="apply for our program"><div style="text-align: center; margin: 40px 0 40px 0;"><button class="btn-u btn-u-lg rounded-4x nja-bg-orange apply-btn" type="button">{% trans "Register" %}</button></div></a>  
+
+        </div>
+    </section>
+    <!--  End Camps Section -->
+
+    <!-- Google Map -->
+    <section id="contact" class="map">
+    </section><!---/map-->
+    <!-- End Google Map -->
+
+    {% include footer.html %}
+
+</div><!--/wrapper-->
+
+<!-- JS Global Compulsory -->           
+<script type="text/javascript" src="/assets/plugins/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/plugins/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<!-- JS Implementing Plugins -->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js"></script>
+<script type="text/javascript" src="/assets/plugins/gmap/gmap.js"></script>
+<script type="text/javascript" src="/assets/plugins/jquery.easing.min.js"></script>
+<script type="text/javascript" src="/assets/plugins/back-to-top.js"></script>
+<script type="text/javascript" src="/assets/plugins/smoothScroll.js"></script>
+<!-- JS Page Level -->           
+<script type="text/javascript" src="/assets/js/app.js"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        App.init();
+        App.initMap();
+    });
+</script>
+<!--[if lt IE 9]>
+    <script src="/assets/plugins/respond.js"></script>
+    <script src="/assets/plugins/html5shiv.js"></script>
+    <script src="/assets/plugins/placeholder-IE-fixes.js"></script>
+<![endif]-->

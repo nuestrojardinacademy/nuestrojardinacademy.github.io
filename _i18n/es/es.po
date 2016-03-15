@@ -1,27 +1,14 @@
 msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: 2016-03-05 10:59-0800\n"
-"PO-Revision-Date: 2016-03-13 18:52-0700\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: es\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7\n"
-"X-Poedit-Basepath: ..\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-KeywordsList: __;_e\n"
-"X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-SearchPath-0: .\n"
-"X-Poedit-SearchPathExcluded-0: js\n"
-"X-Poedit-SearchPathExcluded-1: assets\n"
-"X-Poedit-SearchPathExcluded-2: inc\n"
-"X-Poedit-SearchPathExcluded-3: layouts\n"
+msgstr "Project-Id-Version: \nPOT-Creation-Date: 2016-03-05 10:59-0800\nPO-Revision-Date: 2016-03-13 18:52-0700\nLast-Translator: \nLanguage-Team: \nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nX-Generator: Poedit 1.8.7\nX-Poedit-Basepath: ..\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Poedit-KeywordsList: __;_e\nX-Poedit-SourceCharset: UTF-8\nX-Poedit-SearchPath-0: .\nX-Poedit-SearchPathExcluded-0: js\nX-Poedit-SearchPathExcluded-1: assets\nX-Poedit-SearchPathExcluded-2: inc\nX-Poedit-SearchPathExcluded-3: layouts\n"
 
 msgid "$11-$15 per hour depending on education and work experience"
 msgstr "$11-$15 por hora dependiendo del nivel de educación y experiencia previa "
+
+msgid "*  Flexible drop off time starting at 8:00, included for Full Day or Half Day Enrollment"
+msgstr ""
+
+msgid "** Extended care until 5 pm, available upon request for an extra $20 fee for the entire week ($16 for the week of July 5-8)"
+msgstr ""
 
 msgid "1 observed holiday in the summer"
 msgstr "1 día feriado durante el verano"
@@ -48,6 +35,9 @@ msgstr "El segundo miércoles (cada dos meses)"
 msgid "3 days (M, W, F)"
 msgstr "3 días (L, Mi, V)"
 
+msgid "3-4 year olds "
+msgstr ""
+
 #: page-program.php:498
 msgid "3rd Wednesday of each month"
 msgstr "Tercer miércoles de cada mes"
@@ -61,6 +51,9 @@ msgstr "4 días de desarrollo profesional/planeamiento antes de comenzar el año
 
 msgid "4 weeks off during the summer."
 msgstr "4 semanas libres durante el verano"
+
+msgid "4-5 year-olds"
+msgstr ""
 
 #: page-enrollment.php:90
 msgid "5 days"
@@ -79,6 +72,9 @@ msgstr "Se le dará 5% de descuento a cualquier hermano o hermana de otro u otra
 msgid "5% credit given if tuition is paid in full prior to September 1."
 msgstr "Se le dará 5% de descuento si paga la colegiatura del año completo antes del 1 de septiembre."
 
+msgid "6-7 year-olds"
+msgstr ""
+
 msgid "7 weeks off in a year"
 msgstr "7 semanas libres durante el año"
 
@@ -88,6 +84,21 @@ msgstr "8 días feriados durante el año escolar"
 #: page-program.php:212 page.php:223
 msgid "90:10 Immersion Model"
 msgstr "Modelo de Inmersión 90:10 "
+
+msgid "<a href="camps" style="color:white">Summer, Summer, Summer Camps!</a>"
+msgstr ""
+
+msgid "<span class="nja-green">Events</span> at Nuestro Jardín"
+msgstr ""
+
+msgid "<span class="nja-green">Open</span> Houses"
+msgstr ""
+
+msgid "<span class="nja-green">Our</span> Philosophy"
+msgstr ""
+
+msgid "<span class="nja-green">Summer</span> Camps"
+msgstr ""
 
 #: page-program.php:486
 msgid "<span class=\"nja-green\">Events</span> at Nuestro Jardín"
@@ -137,6 +148,9 @@ msgstr "Postule En Línea"
 
 msgid "Arrive to work on time; punctually attend and actively participate in all required activities, meetings, and trainings."
 msgstr "Llegar a tiempo al trabajo; asistir puntualmente y participar activament en todas la actividades, reuniones y entrenamientos que sean requeridos."
+
+msgid "Arts & Craft <span style="font-size:10px;">(by Giulian Frisoni)</span>"
+msgstr ""
 
 #: page-program.php:338
 msgid "Arts & Craft <span style=\"font-size:10px;\">(by Giulian Frisoni)</span>"
@@ -190,9 +204,15 @@ msgstr "REMUNERACIÓN Y BENEFICIOS:"
 msgid "CONTACT:"
 msgstr "INFORMACIÓN DE CONTACTO:"
 
+msgid "Camps"
+msgstr ""
+
 #: page-program.php:339
 msgid "Ceramics in Mexico date back thousands of years before the Pre-Columbian period, when ceramic arts and pottery crafts developed with the first advanced civilizations and cultures of Mesoamerica. With one exception, pre-Hispanic wares were not glazed, but rather burnished and painted with colored fine clay slips. The potter's wheel was unknown as well; pieces were shaped by molding, coiling and other methods."
 msgstr "La cerámica en México data desde hace miles de años antes del periodo precolombino, cuando al arte de la cerámica y la alfarería se desarrollaron con las primeras civilizaciones avanzadas y las culturas de Mesoamérica. Con una excepción, la terracota prehispánica no era vidriada, sino más bien bruñida y pintada con la técnica de engobe, usando arcilla fina de colores. Aún no existía el torno de alfarero, en vez, las piezas eran enrolladas, modeladas y moldeadas."
+
+msgid "Ceramics in Mexico date back thousands of years before the Pre-Columbian period, when ceramic arts and pottery crafts developed with the first advanced civilizations and cultures of Mesoamerica. With one exception, pre-Hispanic wares were not glazed, but rather burnished and painted with colored fine clay slips. The potter\'s wheel was unknown as well; pieces were shaped by molding, coiling and other methods."
+msgstr ""
 
 #: page.php:262
 msgid "Children actively participate in classroom activities."
@@ -273,6 +293,9 @@ msgstr "Directora"
 msgid "Dismissal (3:00-5:00)"
 msgstr "Despedida (3:00-5:00)"
 
+msgid "During her years at San José Unified School District, Claudia worked under the supervision of <a href="http://atdle.org/about-us/meet-the-team/" target="_blank">Dr. Rosa Molina</a> a renowned bilingual and bilingual immersion advocate. Claudia worked at a Professional Development school where she grew fond of collaboration and professional development practices to further her growth as an educator. As a linguist, second language teacher, and second language learner herself, Claudia has a deep understanding of first and second language acquisition and learni"
+msgstr ""
+
 #: page.php:339
 msgid "During her years at San José Unified School District, Claudia worked under the supervision of <a href=\"http://atdle.org/about-us/meet-the-team/\" target=\"_blank\">Dr. Rosa Molina</a> a renowned bilingual and bilingual immersion advocate. Claudia worked at a Professional Development school where she grew fond of collaboration and professional development practices to further her growth as an educator. As a linguist, second language teacher, and second language learner herself, Claudia has a deep understanding of first and second language acquisition and learni"
 msgstr "Durante su práctica como maestra en el Distrito Unificado de San José, trabajó bajo la supervisión de la <a href=\"http://atdle.org/about-us/meet-the-team/\" target=\"_blank\">Dra. Rosa Molina</a> una reconocida defensora y experta en el campo del bilingüismo y de los programas de inmersión. Además cooperó en una escuela de Desarrollo Profesional en donde comenzó a interesarse en la colaboración y en las prácticas de desarrollo profesional para fortalecer su praxis como educadora.  Como lingüista, profesora de segundo idioma y aprendiz de un segundo idioma, Claudia tiene una fundación sólida en el ámbito de la adquisición y aprendizaje de la primera y segunda lengua."
@@ -290,6 +313,9 @@ msgstr "Clases de Enriquecimiento- Grupos de Edades Mixtas"
 
 msgid "Enrollment"
 msgstr "Admisión"
+
+msgid "Enrollment & <span class="nja-green">Tuition</span>"
+msgstr ""
 
 #: page-enrollment.php:55
 msgid "Enrollment & <span class=\"nja-green\">Tuition</span>"
@@ -327,6 +353,12 @@ msgstr "Siguiendo nuestro enfoque balanceado, agrupamos a los estudiantes de acu
 msgid "Food Handlers Card"
 msgstr "Tarjeta de Manejo de Comida"
 
+msgid "For each camp, children will be divided into 3 age groups of 8-10 children each. While the theme is the same for all groups, activities and instruction will cater to each group's individual needs and language levels."
+msgstr ""
+
+msgid "Fostering <span class="nja-green">Cultural</span> Awareness"
+msgstr ""
+
 #: page-program.php:247
 msgid "Fostering <span class=\"nja-green\">Cultural</span> Awareness"
 msgstr "Fomentando la<span class=\"nja-green\">Conciencia</span> Cultural"
@@ -339,6 +371,9 @@ msgstr "Fundadora / Directora"
 msgid "Free Choice/Play"
 msgstr "Libre Elección/Juego"
 
+msgid "Frida Kahlo <span style="font-size:10px;">(by Maria de Oro)</span>"
+msgstr ""
+
 #: page-program.php:368
 msgid "Frida Kahlo <span style=\"font-size:10px;\">(by Maria de Oro)</span>"
 msgstr "Frida Kahlo <span style=\"font-size:10px;”>(por Maria de Oro)</span>"
@@ -346,6 +381,15 @@ msgstr "Frida Kahlo <span style=\"font-size:10px;”>(por Maria de Oro)</span>"
 #: page-enrollment.php:71
 msgid "Full Day"
 msgstr "Jornada Completa"
+
+msgid "Full Day: $250 per week ($200 for July 5-8)"
+msgstr ""
+
+msgid "Full Day: $275 per week ($220 for July 5-8)"
+msgstr ""
+
+msgid "Full Day: 8:30-4:30 **"
+msgstr ""
 
 msgid "Full-Time: 34-38 hours per week"
 msgstr "Tiempo Completo: 34-38 horas por semana"
@@ -362,6 +406,15 @@ msgstr "Festival La Guelaguetza"
 msgid "Half Day"
 msgstr "Media Jornada"
 
+msgid "Half Day: $160 per week ($127 for July 5-8)"
+msgstr ""
+
+msgid "Half Day: $175 per week ($140 for July 5-8)"
+msgstr ""
+
+msgid "Half Day: 8:30-12:30"
+msgstr ""
+
 #: page-enrollment.php:103
 msgid "Half-day - 8:00 am to 12:30 pm"
 msgstr "Media Jornada - 8:00 am a 12:30 pm"
@@ -376,6 +429,9 @@ msgstr "Horario de Atención:"
 
 msgid "Hours:"
 msgstr "Jornada:"
+
+msgid "If you talk to a man in a language he understands, <br> that goes to his head. <br> <span class="color-green">If you talk to him in his language,</span> <br>that goes to his heart."
+msgstr ""
 
 #: page.php:275
 msgid "If you talk to a man in a language he understands, <br> that goes to his head. <br> <span class=\"color-green\">If you talk to him in his language,</span> <br>that goes to his heart."
@@ -398,6 +454,9 @@ msgstr "Por esta razón, es muy importante de que nos ayude a mantener su inform
 #: page.php:289
 msgid "It's amazing what children can learn if given the opportunity.  Without even knowing it, your child can start down the path of bilingualism.  They'll thank you later!"
 msgstr "Es increíble lo que pueden aprender los niños si se les ofrece la oportunidad de hacerlo. Sin saberlo, su hijo o hija podrá iniciar el camino hacia el bilingüismo. ¡Se lo agradecerán más adelante!"
+
+msgid "Job <span class="nja-green">Opportunities</span>"
+msgstr ""
 
 msgid "Job <span class=\"nja-green\">Opportunities</span>"
 msgstr "<span class=\"nja-green\">Oportunidades</span> de Empleo"
@@ -489,9 +548,15 @@ msgstr "Familias Nuevas- arancel/cuota del último mes y cargo de registro/cargo
 msgid "Nuestro Jardín Academy - Spanish Immersion Preschool | Portland, Oregon"
 msgstr "Nuestro Jardín Academy - Spanish Immersion Preschool | Portland, Oregón"
 
+msgid "Nuestro Jardín Academy believes in a well-rounded balanced educational approach to early childhood learning. We selected the best of many <a href="http://www.childcarenetworkofevanston.org/site/files/944/111817/381399/522710/Early_Childhood_Progam_Philosophies.pdf">early childhood program philosophies</a>, such as Reggio Emilia, Montessori, Waldorf, and Play Based, and apply them to our teaching practices. "
+msgstr ""
+
 #: page-program.php:197
 msgid "Nuestro Jardín Academy believes in a well-rounded balanced educational approach to early childhood learning. We selected the best of many <a href=\"http://www.childcarenetworkofevanston.org/site/files/944/111817/381399/522710/Early_Childhood_Progam_Philosophies.pdf\">early childhood program philosophies</a>, such as Reggio Emilia, Montessori, Waldorf, and Play Based, and apply them to our teaching practices. "
 msgstr "Nuestro Jardín Academy promueve un enfoque educacional balanceado en la educación preescolar. Hemos seleccionado los mejores elementos de diversas <a href=\"http://www.childcarenetworkofevanston.org/site/files/944/111817/381399/522710/Early_Childhood_Progam_Philosophies.pdf\">filosofías educativas para la primera infancia</a>, como Reggio Emilia, Montessori, Waldorf y Play Based (Enseñanza Lúdica), y las ponemos en práctica diariamente en el aula. "
+
+msgid "Nuestro Jardín Academy developed its very own curriculum to challenge and inspire preschool-aged children. It strives to balance academics with creative expression and play. Children are exposed to Spanish in the context of learning about relevant daily activities, nature, art, the alphabet, numbers, culture, and more. <span class="more-link">(more)</span>"
+msgstr ""
 
 #: page.php:247
 msgid "Nuestro Jardín Academy developed its very own curriculum to challenge and inspire preschool-aged children. It strives to balance academics with creative expression and play. Children are exposed to Spanish in the context of learning about relevant daily activities, nature, art, the alphabet, numbers, culture, and more. <span class=\"more-link\">(more)</span>"
@@ -546,6 +611,9 @@ msgstr "Nuestro Currículo"
 #: page-old.php:98 page-old.php:101
 msgid "Our Program"
 msgstr "Nuestro Programa"
+
+msgid "Our Vision of a <strong class="color-green">TRUE</strong> Spanish Immersion Program"
+msgstr ""
 
 #: page.php:258
 msgid "Our Vision of a <strong class=\"color-green\">TRUE</strong> Spanish Immersion Program"
@@ -603,6 +671,12 @@ msgstr "RESPONSABILIDADES: "
 msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr "¿Listo para publicar tu primer artículo? <a href=\\”%1$s\\”>Comienza aquí</a>."
 
+msgid "Register"
+msgstr ""
+
+msgid "Research has also shown that students in a 90:10 immersion program develop higher levels of bilingualism,  biliteracy, and cognitive skills when compared with English-only proficient students participating in other educational programs. Another benefit of students being in a dual immersion program is that they will develop very positive attitudes about students of other language and cultural backgrounds, and positive attitudes toward themselves as learners.  Consult the  <a href="http://www.cal.org/twi/" target="_blank">Center for Applied Linguistics</a> for specific research studies."
+msgstr ""
+
 #: page-program.php:217
 msgid "Research has also shown that students in a 90:10 immersion program develop higher levels of bilingualism,  biliteracy, and cognitive skills when compared with English-only proficient students participating in other educational programs. Another benefit of students being in a dual immersion program is that they will develop very positive attitudes about students of other language and cultural backgrounds, and positive attitudes toward themselves as learners.  Consult the  <a href=\"http://www.cal.org/twi/\" target=\"_blank\">Center for Applied Linguistics</a> for specific research studies."
 msgstr "Otros estudios también han demostrado que los estudiantes en programas de 90:10 desarrollan niveles de bilingüismo, bi-alfabetismo y habilidades cognitivas muchos más altos que los estudiantes anglo-parlantes que han estado en otros programas educacionales. Los estudiantes en programas de doble inmersión tienen aún un beneficio adicional: uno actitudinal. Estos alumnos desarrollan actitudes positivas hacia los estudiantes que hablan otros idiomas y tienen otros orígenes culturales y también fortalecen actitudes positivas hacia sí mismos como aprendices. Consulte la página de <a href=\"http://www.cal.org/twi/\" target=\"_blank\">Center for Applied Linguistics</a> para más información y estudios específicos."
@@ -623,6 +697,30 @@ msgstr "Ofrecido durante parte de junio, en julio y parte de agosto "
 #: page-program.php:383
 msgid "Salvador Dali"
 msgstr "Salvador Dalí"
+
+msgid "Session 1: June 13-17 - El Regreso de los Dinosaurios (Return of the Dinosaurs)"
+msgstr ""
+
+msgid "Session 2: June 20-24 - ¡Bichos, Bichos y más Bichos! (Bugs, Bugs, and more Bugs!)"
+msgstr ""
+
+msgid "Session 3: June 27- July 1 - Pintores españoles y latinoamericanos (Spanish and Latin American Painters"
+msgstr ""
+
+msgid "Session 4: July 5-8 (No camp July 4th) - ¡Ciencia Loca! (Mad Science!)"
+msgstr ""
+
+msgid "Session 5: July 11-15 - Música y Bailes de Latinoamérica: Explorando la Percusión y el Ritmo Latino (Music and Dances from Latin America: Exploring Percussion and Latin Rhythm)"
+msgstr ""
+
+msgid "Session 6: July 18-22 - Inventores, Creadores y Constructores (Inventors, Creators, and Builders)"
+msgstr ""
+
+msgid "Session 7: July 25-29 - ¡Juguemos en el Bosque! (Let's Play in the Woods!)"
+msgstr ""
+
+msgid "Session 8: August 1-5 - Cocina y Sabores Latinos  (Latin Cooking and Flavors)"
+msgstr ""
 
 #: page.php:342
 msgid "She received a BA degree in Linguistics with a minor in Spanish and a TESOL (teaching English to Speakers of Other Languages) Certificate from San Jose State University. Later, she obtained her Teaching Credential from The National Hispanic University. Once in Oregon, she received a Master’s Degree in TESOL from Portland State University and also obtained her Oregon Teaching License."
@@ -659,6 +757,9 @@ msgstr "El español es más que un idioma"
 msgid "Spanish is more than just a language"
 msgstr "El español es más que un idioma"
 
+msgid "Special Discount for signing up for 4 weeks or more:"
+msgstr ""
+
 #: page-program.php:519
 msgid "Spring Festival (April)"
 msgstr "Festival de la Primavera (abril)"
@@ -666,6 +767,9 @@ msgstr "Festival de la Primavera (abril)"
 #: page-program.php:235
 msgid "Standards set the basis for what children should know and be able to do based on their age and developmental level. Nuestro Jardín’s standards have been carefully created and are backed by solid research in early childhood and second language learning. Our curriculum was created to develop the whole child and allow teachers to collaborate and teach to a common goal. Our thematic approach adopts a monthly theme that is culturally relevant and personally emerges from students to enrich Nuestro Jardín Academy’s curriculum."
 msgstr "Los estándares educativos sientan las bases de lo que el niño debe saber y saber hacer en cada área y nivel de acuerdo a su edad y nivel de desarrollo. Los estándares de Nuestro Jardín han sido cuidadosamente diseñados y son respaldados por investigaciones sólidas en las áreas de la primera infancia y del aprendizaje y adquisición de una segunda lengua. Nuestro currículo balanceado, basado en estándares educativos ha sido  diseñado para educar al niño en su totalidad y permitirle a los maestros colaborar y enseñar teniendo un objetivo en común. En nuestro planteamiento temático, adoptamos un tema mensual que sea culturalmente relevante y que surja de los estudiantes para así aún más enriquecer nuestro currículo."
+
+msgid "Summer Camp Fees:"
+msgstr ""
 
 #: page-program.php:521
 msgid "Summer Festival (End of Year Celebration- June)"
@@ -677,6 +781,9 @@ msgstr "Sesiones de Campamentos de Verano:"
 msgid "Teacher planning built into schedule"
 msgstr "La planificación está contemplada en el horario semanal de trabajo."
 
+msgid "Teachers focus on children’s Spanish production to ensure students make actual progress in the <a href="http://www.colorincolorado.org/article/language-acquisition-overview" target="_blank">stages of second language acquisition</a> from the pre-production stage or “silent period” to early production and then to becoming speech emergent."
+msgstr ""
+
 #: page.php:263
 msgid "Teachers focus on children’s Spanish production to ensure students make actual progress in the <a href=\"http://www.colorincolorado.org/article/language-acquisition-overview\" target=\"_blank\">stages of second language acquisition</a> from the pre-production stage or “silent period” to early production and then to becoming speech emergent."
 msgstr "Nuestros maestros se enfocan en la producción del español de los niños para asegurarse de que estén realmente progresando en las <a href=\"http://www.colorincolorado.org/article/language-acquisition-overview\" target=\"_blank\">etapas de la adquisición de un segundo idioma</a> desde la etapa de preproducción o “básica”, a la de producción temprana, hasta el surgimiento del lenguaje."
@@ -684,6 +791,9 @@ msgstr "Nuestros maestros se enfocan en la producción del español de los niño
 #: page-enrollment.php:57
 msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! Our anticipated grand opening is expected to be summer, 2016. We are accepting applications for both Spring 2016 and for the 2016-17 school year starting in fall."
 msgstr "¡Gracias por su interés en Nuestro Jardín Academy, Spanish Immersion Preschool! Anticipamos nuestra gran apertura a principios de este verano. En este momento, estamos aceptando solicitudes para el año escolar 2016-17 que comienza en el otoño."
+
+msgid "The 90:10 immersion model used at Nuestro Jardín immerses the student in Spanish 90% of the day. Extensive research has demonstrated that ... <span class="more-link">(more)</span>"
+msgstr ""
 
 #: page.php:225
 #, php-format
@@ -706,6 +816,9 @@ msgstr "La Guelaguetza es una celebración que tiene lugar en la ciudad de Oaxac
 msgid "The following are also required for employment and must be obtained within 90 days after accepting the position."
 msgstr "Cumplir también con los siguientes requisitos, los cuales pueden ser obtenidos dentro de 90 días después de haber aceptado empleo. "
 
+msgid "The whole child approach taken by Nuestro Jardín Academy ensures that each student is healthy, safe, engaged, supported, and challenged by ... <span class="more-link">(more)</span>"
+msgstr ""
+
 #: page.php:236
 msgid "The whole child approach taken by Nuestro Jardín Academy ensures that each student is healthy, safe, engaged, supported, and challenged by ... <span class=\"more-link\">(more)</span>"
 msgstr "En Nuestro Jardín Academy nos enfocamos en educar al niño en su totalidad y en satisfacer las necesidades de afecto, cuidado, bienestar y desarrollo integral, además de desafiar al niño mediante ... <span class=\"more-link\">(mas)</span>"
@@ -725,6 +838,9 @@ msgstr "Jueves, 25 de febrero"
 #: page-enrollment.php:39
 msgid "Thursday, February 4th"
 msgstr "Jueves, 4 de febrero"
+
+msgid "To RSVP and get directions to the Director’s home, please send us an email (<a href="mailto:nja.contact@gmail.com?subject=Open House">nja.contact@gmail.com</a>). Please write “Open House” on the subject line and include your name and a phone number you can be contacted at. Hope to see you there!"
+msgstr ""
 
 #: page-enrollment.php:46
 msgid "To RSVP and get directions to the Director’s home, please send us an email (<a href=\"mailto:nja.contact@gmail.com?subject=Open House\">nja.contact@gmail.com</a>). Please write “Open House” on the subject line and include your name and a phone number you can be contacted at. Hope to see you there!"
@@ -785,6 +901,9 @@ msgstr "También ayudamos a los niños a entender quiénes son en el contexto de
 msgid "We do not charge a fee for families to get in our wait list. Interested families just need to fill out a wait list application. Your child’s place is determined by the date we receive your wait list form. However, siblings of children currently enrolled or who have been enrolled  in our school in the past are given priority. Families are notified via phone and email when a space is available for their child. Parents will have 48 hours to notify us of their decision, complete the enrollment forms, and pay the deposit and fees. We will regularly assess openings available and use the wait list to inform families when availability exists."
 msgstr "No le cobramos a las familias por apuntarse en nuestra lista de espera. Toda familia que esté interesada, sólo necesita llenar una solicitud. La ubicación de su hijo o hija en la lista de espera es determinado por la fecha en que recibimos su formulario de solicitud.  Sin embargo, los hermanos de los estudiantes que estén actualmente matriculados o hayan sido alumnos de nuestra escuela, tendrán prioridad de ingreso. Se les notificará a cada familia por teléfono y por correo electrónico cuando haya vacante disponible para su hijo o hija. Los padres tendrán 48 horas para notificarnos de su decisión, completar todos los formularios de inscripción y pagar el depósito y los cargos. Evaluaremos periódicamente las vacantes y utilizaremos la lista de espera para informarles a las familias cuando haya disponibilidad. "
 
+msgid "We promise a fun-filled summer camp adventure for children 3 to 7 years old while learning Spanish. Offered for 8 weeks throughout the summer months, we will be offering weekly camps that will have your children singing and dancing, playing, doing arts and crafts, cooking, exploring, and learning about Latin American and Spanish cultures while learning Spanish. No prior Spanish experience required."
+msgstr ""
+
 #: page-program.php:474
 msgid "We provide two healthy natural or organic snacks to children daily."
 msgstr "Nosotros proporcionamos dos meriendas naturales u orgánicos diariamente."
@@ -804,6 +923,9 @@ msgstr "Nos enorgullecemos de nuestra comunidad diversa y animamos a nuestras fa
 msgid "Wednesday, March 16th"
 msgstr "Miércoles, 16 de marzo"
 
+msgid "Welcome to <span class="nja-green">Nuestro</span> Jardín"
+msgstr ""
+
 #: page.php:197
 msgid "Welcome to <span class=\"nja-green\">Nuestro</span> Jardín"
 msgstr "Bienvenido a <span class=\"nja-green\">Nuestro</span> Jardín"
@@ -816,9 +938,15 @@ msgstr "Bienvenidos- Libre Elección- Grupos de Edades Mixtas"
 msgid "Winter Festival (December)"
 msgstr "Festival del Invierno (diciembre)"
 
+msgid "With these theories and students’ learning styles in mind, the teachers at Nuestro Jardín use diverse teaching methodologies, integrating direct, inquiry-based instruction, and cooperative learning into everyday lessons. In addition, all activities throughout the day are geared to our diverse learners, and we make sure that all students’ learning styles are met (<a href="http://www.tecweb.org/styles/gardner.html">http://www.tecweb.org/styles/gardner.html</a>)."
+msgstr ""
+
 #: page-program.php:200
 msgid "With these theories and students’ learning styles in mind, the teachers at Nuestro Jardín use diverse teaching methodologies, integrating direct, inquiry-based instruction, and cooperative learning into everyday lessons. In addition, all activities throughout the day are geared to our diverse learners, and we make sure that all students’ learning styles are met (<a href=\"http://www.tecweb.org/styles/gardner.html\">http://www.tecweb.org/styles/gardner.html</a>)."
 msgstr "Considerando estas teorías, los maestros de Nuestro Jardín utilizan una diversidad de metodologías de aprendizaje mediante acciones pedagógicas integradoras como instrucción directa e indirecta, instrucción interactiva, independiente y experimental y el aprendizaje cooperativo. Además, cada actividad realizada durante el día está orientada a satisfacer las necesidades de nuestros estudiantes diversificados. (<a href=\"http://www.tecweb.org/styles/gardner.html\">http://www.tecweb.org/styles/gardner.html</a>)."
+
+msgid "You may choose up to 8 camps for full, half day, or a combination of both throughout the summer."
+msgstr ""
 
 msgid "second language teaching"
 msgstr "enseñanza de un segundo idioma"
@@ -828,4 +956,3 @@ msgstr "las artes escénicas (danza, música, teatro)"
 
 msgid "the visual arts"
 msgstr "las artes visuales"
-
