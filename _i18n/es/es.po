@@ -5,10 +5,10 @@ msgid "$11-$15 per hour depending on education and work experience"
 msgstr "$11-$15 por hora dependiendo del nivel de educación y experiencia previa "
 
 msgid "*  Flexible drop off time starting at 8:00, included for Full Day or Half Day Enrollment"
-msgstr ""
+msgstr "*  Ofrecemos un horario flexible para venir a dejar a sus hijos desde las 8:00, incluida en la matrícula de jornada completa y media jornada."
 
 msgid "** Extended care until 5 pm, available upon request for an extra $20 fee for the entire week ($16 for the week of July 5-8)"
-msgstr ""
+msgstr "** Ofrecemos jornada prolongada hasta las 5 pm, disponible con previa solicitud por un costo de $20 extra durante la semana completa ($16 para la semana del 5-8 julio)"
 
 msgid "1 observed holiday in the summer"
 msgstr "1 día feriado durante el verano"
@@ -35,8 +35,8 @@ msgstr "El segundo miércoles (cada dos meses)"
 msgid "3 days (M, W, F)"
 msgstr "3 días (L, Mi, V)"
 
-msgid "3-4 year olds "
-msgstr ""
+msgid "3-4 year olds"
+msgstr "3-4 años"
 
 #: page-program.php:498
 msgid "3rd Wednesday of each month"
@@ -53,7 +53,7 @@ msgid "4 weeks off during the summer."
 msgstr "4 semanas libres durante el verano"
 
 msgid "4-5 year-olds"
-msgstr ""
+msgstr "4-5 años"
 
 #: page-enrollment.php:90
 msgid "5 days"
@@ -73,7 +73,7 @@ msgid "5% credit given if tuition is paid in full prior to September 1."
 msgstr "Se le dará 5% de descuento si paga la colegiatura del año completo antes del 1 de septiembre."
 
 msgid "6-7 year-olds"
-msgstr ""
+msgstr "6-7 años"
 
 msgid "7 weeks off in a year"
 msgstr "7 semanas libres durante el año"
@@ -86,7 +86,7 @@ msgid "90:10 Immersion Model"
 msgstr "Modelo de Inmersión 90:10 "
 
 msgid "<a href="camps" style="color:white">Summer, Summer, Summer Camps!</a>"
-msgstr ""
+msgstr "<a href="camps" style="color:white">¡Campamentos de Verano!</a>"
 
 msgid "<span class="nja-green">Events</span> at Nuestro Jardín"
 msgstr ""
@@ -98,7 +98,7 @@ msgid "<span class="nja-green">Our</span> Philosophy"
 msgstr ""
 
 msgid "<span class="nja-green">Summer</span> Camps"
-msgstr ""
+msgstr "Campamentos de <span class="nja-green">Verano</span>"
 
 #: page-program.php:486
 msgid "<span class=\"nja-green\">Events</span> at Nuestro Jardín"
@@ -205,7 +205,7 @@ msgid "CONTACT:"
 msgstr "INFORMACIÓN DE CONTACTO:"
 
 msgid "Camps"
-msgstr ""
+msgstr "Campamentos"
 
 #: page-program.php:339
 msgid "Ceramics in Mexico date back thousands of years before the Pre-Columbian period, when ceramic arts and pottery crafts developed with the first advanced civilizations and cultures of Mesoamerica. With one exception, pre-Hispanic wares were not glazed, but rather burnished and painted with colored fine clay slips. The potter's wheel was unknown as well; pieces were shaped by molding, coiling and other methods."
@@ -286,6 +286,9 @@ msgstr "Día de los Muertos"
 msgid "Deposit and Fees:"
 msgstr "Depósitos y Cargos:"
 
+msgid "Detailed class descriptions"
+msgstr "Descripción detallada de clases"
+
 msgid "Director"
 msgstr "Directora"
 
@@ -354,7 +357,7 @@ msgid "Food Handlers Card"
 msgstr "Tarjeta de Manejo de Comida"
 
 msgid "For each camp, children will be divided into 3 age groups of 8-10 children each. While the theme is the same for all groups, activities and instruction will cater to each group's individual needs and language levels."
-msgstr ""
+msgstr "Para cada campamento, dividiremos a los niños de acuerdo a sus edades en 3 grupos de 8 a 10 cada uno. Mientras el tema será el mismo para todos los grupos, las actividades e instrucción atenderán a las necesidades individuales de cada grupo y a los distintos niveles del idioma de cada campista."
 
 msgid "Fostering <span class="nja-green">Cultural</span> Awareness"
 msgstr ""
@@ -383,13 +386,13 @@ msgid "Full Day"
 msgstr "Jornada Completa"
 
 msgid "Full Day: $250 per week ($200 for July 5-8)"
-msgstr ""
+msgstr "Jornada Completa: $250 por semana ($200 para el 5-8 julio)"
 
 msgid "Full Day: $275 per week ($220 for July 5-8)"
-msgstr ""
+msgstr "Jornada Completa: $275 por semana ($220 para el 5-8 julio)"
 
 msgid "Full Day: 8:30-4:30 **"
-msgstr ""
+msgstr "Jornada Completa: 8:30-4:30 **"
 
 msgid "Full-Time: 34-38 hours per week"
 msgstr "Tiempo Completo: 34-38 horas por semana"
@@ -407,13 +410,13 @@ msgid "Half Day"
 msgstr "Media Jornada"
 
 msgid "Half Day: $160 per week ($127 for July 5-8)"
-msgstr ""
+msgstr "Media Jornada: $160 por semana ($127 para el 5-8 julio)"
 
 msgid "Half Day: $175 per week ($140 for July 5-8)"
-msgstr ""
+msgstr "Media Jornada: $175 por semana ($140 para el 5-8 julio)"
 
 msgid "Half Day: 8:30-12:30"
-msgstr ""
+msgstr "Media Jornada: 8:30-12:30"
 
 #: page-enrollment.php:103
 msgid "Half-day - 8:00 am to 12:30 pm"
@@ -672,7 +675,7 @@ msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr "¿Listo para publicar tu primer artículo? <a href=\\”%1$s\\”>Comienza aquí</a>."
 
 msgid "Register"
-msgstr ""
+msgstr "Regístrese"
 
 msgid "Research has also shown that students in a 90:10 immersion program develop higher levels of bilingualism,  biliteracy, and cognitive skills when compared with English-only proficient students participating in other educational programs. Another benefit of students being in a dual immersion program is that they will develop very positive attitudes about students of other language and cultural backgrounds, and positive attitudes toward themselves as learners.  Consult the  <a href="http://www.cal.org/twi/" target="_blank">Center for Applied Linguistics</a> for specific research studies."
 msgstr ""
@@ -699,28 +702,31 @@ msgid "Salvador Dali"
 msgstr "Salvador Dalí"
 
 msgid "Session 1: June 13-17 - El Regreso de los Dinosaurios (Return of the Dinosaurs)"
-msgstr ""
+msgstr "Sesión 1: 13-17 junio - El Regreso de los Dinosaurios (Return of the Dinosaurs)"
 
 msgid "Session 2: June 20-24 - ¡Bichos, Bichos y más Bichos! (Bugs, Bugs, and more Bugs!)"
-msgstr ""
+msgstr "Sesión 2: 20-24 junio - ¡Bichos, Bichos y más Bichos! (Bugs, Bugs, and more Bugs!)"
 
 msgid "Session 3: June 27- July 1 - Pintores españoles y latinoamericanos (Spanish and Latin American Painters"
-msgstr ""
+msgstr "Sesión 3: 27 junio- 1 julio - Pintores españoles y latinoamericanos (Spanish and Latin American Painters"
 
 msgid "Session 4: July 5-8 (No camp July 4th) - ¡Ciencia Loca! (Mad Science!)"
-msgstr ""
+msgstr "Sesión 4: 5-8 julio (cerrado el  4 de julio) - ¡Ciencia Loca! (Mad Science!)"
 
 msgid "Session 5: July 11-15 - Música y Bailes de Latinoamérica: Explorando la Percusión y el Ritmo Latino (Music and Dances from Latin America: Exploring Percussion and Latin Rhythm)"
-msgstr ""
+msgstr "Sesión 5: 11-15 julio - Música y Bailes de Latinoamérica: Explorando la Percusión y el Ritmo Latino (Music and Dances from Latin America: Exploring Percussion and Latin Rhythm)"
 
 msgid "Session 6: July 18-22 - Inventores, Creadores y Constructores (Inventors, Creators, and Builders)"
-msgstr ""
+msgstr "Sesión 6: 18-22 julio - Inventores, Creadores y Constructores (Inventors, Creators, and Builders)"
 
 msgid "Session 7: July 25-29 - ¡Juguemos en el Bosque! (Let's Play in the Woods!)"
-msgstr ""
+msgstr "Sesión 7: 25-29 julio - ¡Juguemos en el Bosque! (Let's Play in the Woods!)"
 
 msgid "Session 8: August 1-5 - Cocina y Sabores Latinos  (Latin Cooking and Flavors)"
-msgstr ""
+msgstr "Sesión 8: 1-5 agosto - Cocina y Sabores Latinos  (Latin Cooking and Flavors)"
+
+msgid "Sessions:"
+msgstr "Sesiónes"
 
 #: page.php:342
 msgid "She received a BA degree in Linguistics with a minor in Spanish and a TESOL (teaching English to Speakers of Other Languages) Certificate from San Jose State University. Later, she obtained her Teaching Credential from The National Hispanic University. Once in Oregon, she received a Master’s Degree in TESOL from Portland State University and also obtained her Oregon Teaching License."
@@ -758,7 +764,7 @@ msgid "Spanish is more than just a language"
 msgstr "El español es más que un idioma"
 
 msgid "Special Discount for signing up for 4 weeks or more:"
-msgstr ""
+msgstr "Descuento Especial por inscribirse para 4 campamentos o más:"
 
 #: page-program.php:519
 msgid "Spring Festival (April)"
@@ -769,7 +775,7 @@ msgid "Standards set the basis for what children should know and be able to do b
 msgstr "Los estándares educativos sientan las bases de lo que el niño debe saber y saber hacer en cada área y nivel de acuerdo a su edad y nivel de desarrollo. Los estándares de Nuestro Jardín han sido cuidadosamente diseñados y son respaldados por investigaciones sólidas en las áreas de la primera infancia y del aprendizaje y adquisición de una segunda lengua. Nuestro currículo balanceado, basado en estándares educativos ha sido  diseñado para educar al niño en su totalidad y permitirle a los maestros colaborar y enseñar teniendo un objetivo en común. En nuestro planteamiento temático, adoptamos un tema mensual que sea culturalmente relevante y que surja de los estudiantes para así aún más enriquecer nuestro currículo."
 
 msgid "Summer Camp Fees:"
-msgstr ""
+msgstr "Cuotas:"
 
 #: page-program.php:521
 msgid "Summer Festival (End of Year Celebration- June)"
@@ -902,7 +908,7 @@ msgid "We do not charge a fee for families to get in our wait list. Interested f
 msgstr "No le cobramos a las familias por apuntarse en nuestra lista de espera. Toda familia que esté interesada, sólo necesita llenar una solicitud. La ubicación de su hijo o hija en la lista de espera es determinado por la fecha en que recibimos su formulario de solicitud.  Sin embargo, los hermanos de los estudiantes que estén actualmente matriculados o hayan sido alumnos de nuestra escuela, tendrán prioridad de ingreso. Se les notificará a cada familia por teléfono y por correo electrónico cuando haya vacante disponible para su hijo o hija. Los padres tendrán 48 horas para notificarnos de su decisión, completar todos los formularios de inscripción y pagar el depósito y los cargos. Evaluaremos periódicamente las vacantes y utilizaremos la lista de espera para informarles a las familias cuando haya disponibilidad. "
 
 msgid "We promise a fun-filled summer camp adventure for children 3 to 7 years old while learning Spanish. Offered for 8 weeks throughout the summer months, we will be offering weekly camps that will have your children singing and dancing, playing, doing arts and crafts, cooking, exploring, and learning about Latin American and Spanish cultures while learning Spanish. No prior Spanish experience required."
-msgstr ""
+msgstr "Prometemos una aventura de campamento con mucha diversión para niños de 3 a 7 años mientras aprenden español. Por 8 semanas, durante los meses de verano, estaremos ofreciendo campamentos semanales que tendrán a sus hijos cantando y bailando, jugando, haciendo artes y manualidades, cocinando, explorando y aprendiendo de las culturas de Latinoamérica y España, a la misma vez que aprenden español. No se requiere experiencia previa con el español."
 
 #: page-program.php:474
 msgid "We provide two healthy natural or organic snacks to children daily."
@@ -946,7 +952,7 @@ msgid "With these theories and students’ learning styles in mind, the teachers
 msgstr "Considerando estas teorías, los maestros de Nuestro Jardín utilizan una diversidad de metodologías de aprendizaje mediante acciones pedagógicas integradoras como instrucción directa e indirecta, instrucción interactiva, independiente y experimental y el aprendizaje cooperativo. Además, cada actividad realizada durante el día está orientada a satisfacer las necesidades de nuestros estudiantes diversificados. (<a href=\"http://www.tecweb.org/styles/gardner.html\">http://www.tecweb.org/styles/gardner.html</a>)."
 
 msgid "You may choose up to 8 camps for full, half day, or a combination of both throughout the summer."
-msgstr ""
+msgstr "Puede elegir hasta 8 campamentos de jornada completa, media jornada combinación de ambas durante el verano. "
 
 msgid "second language teaching"
 msgstr "enseñanza de un segundo idioma"
