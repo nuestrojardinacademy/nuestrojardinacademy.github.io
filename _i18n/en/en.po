@@ -598,6 +598,9 @@ msgstr ""
 msgid "Summer Camp Fees:"
 msgstr ""
 
+msgid "Summer Camps_2016.pdf"
+msgstr ""
+
 msgid "Summer Festival (End of Year Celebration- June)"
 msgstr ""
 

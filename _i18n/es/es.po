@@ -386,10 +386,10 @@ msgid "Full Day"
 msgstr "Jornada Completa"
 
 msgid "Full Day: $250 per week ($200 for July 5-8)"
-msgstr "Jornada Completa: $250 por semana ($200 para el 5-8 julio)"
+msgstr "Jornada Completa: $250 por semana ($200 por la semana del 5-8 julio)"
 
 msgid "Full Day: $275 per week ($220 for July 5-8)"
-msgstr "Jornada Completa: $275 por semana ($220 para el 5-8 julio)"
+msgstr "Jornada Completa: $275 por semana ($220 por la semana del 5-8 julio)"
 
 msgid "Full Day: 8:30-4:30 **"
 msgstr "Jornada Completa: 8:30-4:30 **"
@@ -410,10 +410,10 @@ msgid "Half Day"
 msgstr "Media Jornada"
 
 msgid "Half Day: $160 per week ($127 for July 5-8)"
-msgstr "Media Jornada: $160 por semana ($127 para el 5-8 julio)"
+msgstr "Media Jornada: $160 por semana ($127 por la semana del 5-8 julio)"
 
 msgid "Half Day: $175 per week ($140 for July 5-8)"
-msgstr "Media Jornada: $175 por semana ($140 para el 5-8 julio)"
+msgstr "Media Jornada: $175 por semana ($140 por la semana del 5-8 julio)"
 
 msgid "Half Day: 8:30-12:30"
 msgstr "Media Jornada: 8:30-12:30"
@@ -776,6 +776,9 @@ msgstr "Los estándares educativos sientan las bases de lo que el niño debe sab
 
 msgid "Summer Camp Fees:"
 msgstr "Cuotas:"
+
+msgid "Summer Camps_2016.pdf"
+msgstr "Summer Camps_Sp_2016.pdf"
 
 #: page-program.php:521
 msgid "Summer Festival (End of Year Celebration- June)"
