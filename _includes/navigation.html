@@ -51,49 +51,19 @@
                 <ul id="menu-english_menu" class="nav navbar-nav">
                     {% capture locale_es %}{{ page.path | slice,0,3 }}{% endcapture %}
                     {% if locale_es == 'es/' %}
-                        <li class="menu-item">
-                            <a href="/es/">{% trans "Home" %}</a>
-                        </li>
-                        <li  class="menu-item">
-                            <a href="/es/camps/">{% trans "Camps" %}</a>
-                        </li>
-                        <li  class="menu-item">
-                            <a href="/es/apply/">{% trans "Apply" %}</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="/es/program/">{% trans "Program" %}</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="/es/enrollment/">{% trans "Enrollment" %}</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="/es/jobs/">{% trans "Jobs" %}</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="/">{% trans "Español" %}</a>
-                        </li>
+                        {% for link in site.data.nav_links.links_es %}
+                            {% capture href %}/{{locale_es}}{{link.href}}{% endcapture %}
+                            <li class="menu-item{% if page.url == href and forloop.last == false %} current_page_item{% endif %}">
+                                <a href="/{% if forloop.last == false %}es/{% endif %}{{link.href}}">{{link.text}}</a>
+                            </li>
+                        {% endfor %}
                     {% else %}
-                        <li class="menu-item">
-                            <a href="/">{% trans "Home" %}</a>
-                        </li>
-                        <li  class="menu-item">
-                            <a href="/camps/">{% trans "Camps" %}</a>
-                        </li>
-                        <li  class="menu-item">
-                            <a href="/apply/">{% trans "Apply" %}</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="/program/">{% trans "Program" %}</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="/enrollment/">{% trans "Enrollment" %}</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="/jobs/">{% trans "Jobs" %}</a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="/es/">{% trans "Español" %}</a>
-                        </li>
+                        {% for link in site.data.nav_links.links %}
+                            {% capture href %}/{{link.href}}{% endcapture %}
+                            <li class="menu-item{% if page.url == href and forloop.last == false %} current_page_item{% endif %}">
+                                <a href="/{% if forloop.last == true %}es/{% endif %}{{link.href}}">{{link.text}}</a>
+                            </li>
+                        {% endfor %}
                     {% endif %}
                 </ul>
             </div>        
