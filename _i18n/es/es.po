@@ -20,6 +20,9 @@ msgstr "1 semana libre durante la primavera"
 msgid "1st Wednesday of each month"
 msgstr "Primer miércoles de cada mes"
 
+msgid "days"
+msgstr "días"
+
 #: page-enrollment.php:75
 msgid "2 days (T,Th)"
 msgstr "2 días (Ma,J)"
