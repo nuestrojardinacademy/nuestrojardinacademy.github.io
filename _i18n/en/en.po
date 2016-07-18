@@ -1,9 +1,6 @@
 msgid "$11-$15 per hour depending on education and work experience"
 msgstr ""
 
-msgid "*  Flexible drop off time starting at 8:00, included for Full Day or Half Day Enrollment"
-msgstr ""
-
 msgid "** Extended care until 5 pm, available upon request for an extra $20 fee for the entire week ($16 for the week of July 5-8)"
 msgstr ""
 

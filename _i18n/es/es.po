@@ -4,11 +4,8 @@ msgstr "Project-Id-Version: \nPOT-Creation-Date: 2016-03-05 10:59-0800\nPO-Revis
 msgid "$11-$15 per hour depending on education and work experience"
 msgstr "$11-$15 por hora dependiendo del nivel de educación y experiencia previa "
 
-msgid "*  Flexible drop off time starting at 8:00, included for Full Day or Half Day Enrollment"
-msgstr "*  Ofrecemos un horario flexible para venir a dejar a sus hijos desde las 8:00, incluida en la matrícula de jornada completa y media jornada."
-
-msgid "** Extended care until 5 pm, available upon request for an extra $20 fee for the entire week ($16 for the week of July 5-8)"
-msgstr "** Ofrecemos jornada prolongada hasta las 5 pm, disponible con previa solicitud por un costo de $20 extra durante la semana completa ($16 para la semana del 5-8 julio)"
+msgid "** Extended care available upon request. $4 per half hour."
+msgstr "** Ofrecemos jornada prolongada disponible con previa solicitud. $4 por medio hora."
 
 msgid "1 observed holiday in the summer"
 msgstr "1 día feriado durante el verano"
