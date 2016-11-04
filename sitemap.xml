@@ -25,10 +25,10 @@
 <loc>http://www.nuestrojardinacademy.com/enrollment/</loc>
 </url>
 <url>
-<loc>http://www.nuestrojardinacademy.com/es/</loc>
+<loc>http://www.nuestrojardinacademy.com/</loc>
 </url>
 <url>
-<loc>http://www.nuestrojardinacademy.com/</loc>
+<loc>http://www.nuestrojardinacademy.com/es/</loc>
 </url>
 <url>
 <loc>http://www.nuestrojardinacademy.com/es/jobs/</loc>
@@ -41,5 +41,11 @@
 </url>
 <url>
 <loc>http://www.nuestrojardinacademy.com/program/</loc>
+</url>
+<url>
+<loc>http://www.nuestrojardinacademy.com/es/staff/</loc>
+</url>
+<url>
+<loc>http://www.nuestrojardinacademy.com/staff/</loc>
 </url>
 </urlset>
