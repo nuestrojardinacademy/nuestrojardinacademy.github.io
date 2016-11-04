@@ -1,0 +1,20 @@
+links: [
+    {href: '', text: 'home'}, 
+    {href: 'camps/', text: 'camps'}, 
+    {href: 'apply/', text: 'apply'}, 
+    {href: 'program/', text: 'program'}, 
+    {href: 'enrollment/', text: 'enrollment'}, 
+    {href: 'staff/', text: 'teachers'}, 
+    {href: 'jobs/', text: 'jobs'}, 
+    {href: '', text: 'español'}
+]
+links_es: [
+    {href: '', text: 'inicio'}, 
+    {href: 'camps/', text: 'campamentos'}, 
+    {href: 'apply/', text: 'postulación'}, 
+    {href: 'program/', text: 'programa'}, 
+    {href: 'enrollment/', text: 'admisión'}, 
+    {href: 'staff/', text: 'maestros'}, 
+    {href: 'jobs/', text: 'empleos'}, 
+    {href: '', text: 'english'}
+]

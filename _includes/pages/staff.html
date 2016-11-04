@@ -1,0 +1,55 @@
+<div id="scrollable-body"> 
+
+    <!--  Open House Section -->
+    <section id="openhouse">
+        <div class="container">
+            <h2 class="title">{% trans "Our <span class="nja-green">Teachers</span>" %}</h2>
+            <p>
+                {% trans "The teachers at Nuestro Jardín are passionate about providing the opportunity for children to learn the Spanish language in a warm, caring, safe and secure environment.  We strive to provide an active learning environment where children will learn trust, self-expression and self worth. We understand the importance of focusing on the whole child (the social, emotional, cognitive, and physical aspects) to ensure children reach their full potential. Each teacher at Nuestro Jardín brings with them many years of personal and professional experience that contribute to the climate and culture of our Spanish immersion program. We dedicate ourselves to enrich and support the experiences of our students each and every day." %}
+            </p>
+            <div class="container-fluid">
+                {% include staff/claudia_contreras.html %}
+                {% include staff/lisset_oneill.html %}
+                {% include staff/daisy_batiz.html %}
+                {% include staff/yelenis_tamayo.html %}
+                {% include staff/ayesha_franco.html %}
+            </div>
+        </div>
+    </section>
+    <!--  Open House Section -->
+
+
+    <!-- Google Map -->
+    <section id="contact" class="map">
+    </section><!---/map-->
+    <!-- End Google Map -->
+
+    {% include footer.html %}
+
+</div><!--/wrapper-->
+
+{% include scripts.html %}
+
+<!-- JS Global Compulsory -->           
+<script type="text/javascript" src="/assets/plugins/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/plugins/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<!-- JS Implementing Plugins -->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js"></script>
+<script type="text/javascript" src="/assets/plugins/gmap/gmap.js"></script>
+<script type="text/javascript" src="/assets/plugins/jquery.easing.min.js"></script>
+<script type="text/javascript" src="/assets/plugins/back-to-top.js"></script>
+<script type="text/javascript" src="/assets/plugins/smoothScroll.js"></script>
+<!-- JS Page Level -->           
+<script type="text/javascript" src="/assets/js/app.js"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        App.init();
+        App.initMap();
+    });
+</script>
+<!--[if lt IE 9]>
+    <script src="/assets/plugins/respond.js"></script>
+    <script src="/assets/plugins/html5shiv.js"></script>
+    <script src="/assets/plugins/placeholder-IE-fixes.js"></script>
+<![endif]-->

@@ -1,7 +1,7 @@
 msgid "$11-$15 per hour depending on education and work experience"
 msgstr ""
 
-msgid "** Extended care until 5 pm, available upon request for an extra $20 fee for the entire week ($16 for the week of July 5-8)"
+msgid "** Extended care available upon request. $4 per half hour."
 msgstr ""
 
 msgid "1 observed holiday in the summer"
