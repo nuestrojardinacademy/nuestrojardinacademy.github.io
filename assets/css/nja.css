@@ -13,7 +13,7 @@
 
 }
 
-body, div, p, h1, h2, h3, h4, h5, h6 {
+body, div, p, h1, h2, h3, h4, h5, h6, {
     font-family: 'europa' !important;
 }
 
@@ -30,6 +30,12 @@ body {
     top:50px; 
     bottom:0px; 
     width:100%;
+}
+
+blockquote p {
+    font-size: 18px;
+    font-weight: 300;
+    font-style: italic;
 }
 
 section {
@@ -280,7 +286,7 @@ li.current_page_item > a {
     /*background-color: rgb(255, 132, 0);*/
     text-align: center;
     color: #F1F1F1;
-    font-size: 3vw;
+    font-size: 2.5vw;
     font-weight: 400;
     padding: 1vh;
     letter-spacing: 7px;
@@ -288,7 +294,7 @@ li.current_page_item > a {
 
 @media (max-width: 768px) {
     .splash-header {
-        font-size: 3.5vw;
+        font-size: 3vw;
     }
 
     .logo-header {
