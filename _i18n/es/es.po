@@ -646,8 +646,8 @@ msgid "Playing is Learning Too"
 msgstr "Jugando También se Aprende"
 
 #: page-enrollment.php:134
-msgid "Please note that a 3-5% tuition increase will be assessed each year"
-msgstr "Por favor tome nota de que habrá un incremento anual en la matrícula de 3-5% al comienzo de cada año escolar."
+msgid "Please note that a 4-7% tuition increase will be assessed each year"
+msgstr "Por favor tome nota de que habrá un incremento anual en la matrícula de 4-7% al comienzo de cada año escolar."
 
 msgid "Program"
 msgstr "Programa"
