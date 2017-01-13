@@ -162,13 +162,13 @@ h1:after, h2:after {
     background: inherit;
 }
 
-.team-v7-img {
+.team-v7 {
     -webkit-filter: grayscale(70%);
     filter: grayscale(70%);
     transition: all .3s;
 }
 
-.team-v7-img:hover {
+.team-v7:hover {
     -webkit-filter: grayscale(0%);
     filter: grayscale(0%);
     transition: all .3s;
