@@ -39,7 +39,7 @@ blockquote p {
 }
 
 section {
-  padding: 30px 0 20px 0;
+    padding: 30px 0 30px 0;
 }
 
 a.alt-link {
@@ -255,7 +255,7 @@ li.current_page_item > a {
 
 .content-lg {
     padding-top: 30px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 
 .logo-header {
