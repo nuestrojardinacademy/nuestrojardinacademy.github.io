@@ -853,6 +853,9 @@ msgstr "Festival del Verano (Celebración de Fin de Año- junio)"
 msgid "Summer camp sessions:"
 msgstr "Sesiones de Campamentos de Verano:"
 
+msgid "Summer program enrollment will start in March, and a separate waitlist application form will be posted in February."
+msgstr ""
+
 msgid "Sunday, December 11th"
 msgstr ""
 
@@ -1006,8 +1009,8 @@ msgid "We see children as unique individuals who come with unique strengths and 
 msgstr "Vemos al niño como un individuo único, con cualidades, virtudes y  con diversas necesidades. Acogemos esta diversidad y aprovechamos este potencial y lo que cada niño pueda aportar. Nos sumergiremos en su mundo de fascinación mientras ellos se sumergen en el mundo de aprender  significativamente otro idioma."
 
 #: page-enrollment.php:60
-msgid "We serve toilet trained children who are 3 to 5+ years of age. If you are interested in our program, we suggest you consider getting on our wait list. As we are a new preschool, class enrollment will be filled on a first-come, first-served basis. Families will be informed about enrollment for the following school year at the end of March. Summer program enrollment will start in March."
-msgstr "Nuestra escuela, acepta a niños que han sido entrenados para ir al baño desde los 3 hasta los 5  años de edad. Si está interesado en nuestro programa, le sugerimos que considere inscribirse en nuestra lista de espera, llenando una solicitud en línea. Por ser una nueva escuela, los cupos de matrículas serán otorgados en el orden que se reciban. A fines de marzo, se les informará a las familias de las matrículas para el próximo año escolar. Las inscripciones para el programa de verano comenzarán en marzo."
+msgid "We serve toilet trained children who are 3 to 5 years of age. If you are interested in our program, we suggest you consider getting on our wait list. Families will be informed about enrollment at the end of March."
+msgstr "Nuestra escuela, acepta a niños que han sido entrenados para ir al baño desde los 3 hasta los 5  años de edad. Si está interesado en nuestro programa, le sugerimos que considere inscribirse en nuestra lista de espera. A fines de marzo, se les informará a las familias de las matrículas para el próximo año escolar. Las inscripciones para el programa de verano comenzarán en marzo."
 
 #: page-program.php:255
 msgid "We take pride in our diverse community and we encourage our families to share their culture and heritage in the classroom."

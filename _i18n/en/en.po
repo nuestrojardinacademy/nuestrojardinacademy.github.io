@@ -682,6 +682,9 @@ msgstr ""
 msgid "Summer camp sessions:"
 msgstr ""
 
+msgid "Summer program enrollment will start in March, and a separate waitlist application form will be posted in February."
+msgstr ""
+
 msgid "Sunday, December 11th"
 msgstr ""
 
@@ -796,7 +799,7 @@ msgstr ""
 msgid "We see children as unique individuals who come with unique strengths and needs. We embrace this diversity and will tap into what children have to offer. We will immerse ourselves in their world of wonderment while they are immersed in the world of language learning, and together we’ll travel the path of discovery, learning, and excitement!"
 msgstr ""
 
-msgid "We serve toilet trained children who are 3 to 5+ years of age. If you are interested in our program, we suggest you consider getting on our wait list. As we are a new preschool, class enrollment will be filled on a first-come, first-served basis. Families will be informed about enrollment for the following school year at the end of March. Summer program enrollment will start in March."
+msgid "We serve toilet trained children who are 3 to 5 years of age. If you are interested in our program, we suggest you consider getting on our wait list. Families will be informed about enrollment at the end of March."
 msgstr ""
 
 msgid "We take pride in our diverse community and we encourage our families to share their culture and heritage in the classroom."
