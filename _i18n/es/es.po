@@ -17,9 +17,6 @@ msgstr "1 semana libre durante la primavera"
 msgid "1st Wednesday of each month"
 msgstr "Primer miércoles de cada mes"
 
-msgid "days"
-msgstr "días"
-
 #: page-enrollment.php:75
 msgid "2 days (T,Th)"
 msgstr "2 días (Ma,J)"
@@ -115,6 +112,9 @@ msgstr "<span class=\"nja-green\">Nuestra</span> Filosofía"
 msgid "A minimum of one year commitment is required. Both part-time and full-time new hires will be working under a contract."
 msgstr "Se pide un compromiso mínimo de un año. Todo empleado, ya sea de tiempo completo o medio tiempo, estará bajo contrato."
 
+msgid "A one year state or nationally recognized credential related to preschool-age care OR"
+msgstr ""
+
 msgid "AA Degree in early childhood education, elementary education, child development, or special education OR"
 msgstr "Titulado con un AA en educación de la primera infancia, educación primaria, desarrollo infantil o educación especial/diferencial. O"
 
@@ -165,6 +165,12 @@ msgstr "Ayudar en el diseño y la mantención de un ambiente de aprendizaje acog
 msgid "Assist in the maintenance of a safe, healthy, and orderly classroom environment."
 msgstr "Ayudar en la mantención de un ambiente sano, seguro y de orden en el salón de clase. "
 
+msgid "Assistant Teacher"
+msgstr ""
+
+msgid "Assistant: Qualify under one of the following below:"
+msgstr ""
+
 #: page.php:259
 msgid "At Nuestro Jardín Academy:"
 msgstr "En Nuestro Jardín Academy:"
@@ -173,8 +179,14 @@ msgstr "En Nuestro Jardín Academy:"
 msgid "At Nuestro Jardín, we believe in the importance of raising cultural awareness in students, teaching diversity, and growing responsible global citizens. We help children understand, embrace, and respect differences and similarities among those in our community. To this end, we integrate culturally-rich activities in our every-day curriculum, and two Fridays per month, we celebrate Día del Patrimonio (Cultural Heritage Day) by immersing ourselves in a culture from a country or region around the world."
 msgstr "En Nuestro Jardín, creemos en la importancia de fomentar la conciencia cultural en los niños, de enseñar el concepto de diversidad y de crear ciudadanos globales responsables. Ayudamos a lo niños a entender, aceptar y respetar las diferencias y similitudes entre todos en nuestra comunidad. Con este propósito, integramos en nuestro currículo actividades que sean culturalmente ricas y durante dos viernes por mes, celebramos el Día del Patrimonio (Cultural Heritage Day). Ese día, nos sumergimos completamente en una cultura de un país o región del mundo."
 
+msgid "At least one year of qualifying teaching experience, with at least one year as a teacher, in a Certified Child Care Center or comparable group care program, in the care of preschool-age children"
+msgstr ""
+
 msgid "At least two years of experience working with young children and families in a daycare/ preschool program. OR"
 msgstr "Por lo menos dos años de experiencia trabajando con niños pequeños y familias en programas de cuidado para niños o centros preescolares. O"
+
+msgid "Ayesha Franco was born and raised in México City and she has been working with children for over 9 years. She started working with infants for 3 years at a Migrant Head Start, and later on she began gaining experience working with preschoolers. She also worked at Wildwood Nature School teaching Spanish. Ayesha loves to share her language, traditions, music, etc. in other words, her culture, with others, especially with children. She finds it rewarding every time a child gets excited about her culture and wants to learn more about it. "
+msgstr ""
 
 msgid "Be a respectful, cooperative, and reliable team member and participant in program activities."
 msgstr "Ser un integrante de equipo respetuoso, cooperador y fiable y ser partícipe en las actividades programáticas de nuestra escuela."
@@ -190,6 +202,12 @@ msgstr "Familiarizarse con y adherirse a las normas y procedimientos relacionado
 
 msgid "Be responsible and oversee the accomplishment of routine tasks with regard to the health, safety, and well-being of children, and maintain the program in accordance with the requirements of the Oregon Child Care Division."
 msgstr "Ser responsable y supervisar la realización de las tareas rutinarias/cotidianas en lo que se refiere a la seguridad, salud y bienestar de los niños y ayudar a mantener el programa conforme a los requisitos establecidos por el Oregon Child Care Division."
+
+msgid "Before joining Nuestro Jardín, Lisset worked at the Oregon Episcopal School here in Portland and at the Mission Dolores Academy in San Francisco. She is excited to be teaching at our school and is looking forward to meeting the children and parents of our new community."
+msgstr ""
+
+msgid "Bilingual Spanish speaker"
+msgstr ""
 
 msgid "CALENDAR INFORMATION:"
 msgstr "INFORMACIÓN DEL CALENDARIO:"
@@ -253,6 +271,15 @@ msgstr "Compromiso:"
 msgid "Community Night"
 msgstr "Noche de la Comunidad"
 
+msgid "Compensation: Starting at $11-$17, depending on experience and education"
+msgstr ""
+
+msgid "Completion of 10 credits (semester system) or 15 credits (quarter system) of training at a college or university in early childhood education, child development,  elementary education, or special education AND At least six months of qualifying teaching experience in a Certified Child Care Center or comparable group care program, in the care of preschool-age children"
+msgstr ""
+
+msgid "Completion of 20 credits (semester system) or 30 credits (quarter system) of training at a college or university in early childhood education, child development,  elementary education, or special education OR"
+msgstr ""
+
 msgid "Completion of 20 semester credits or 30 quarter credits of training at a college or university in Early childhood education, child development, elementary education, or special education AND at least one year of experience working with young children and families in a daycare/preschool program."
 msgstr "20 créditos de semestre o 30 de trimestre de entrenamiento en una escuela superior o universidad en educación de la primera infancia, educación primaria, desarrollo infantil o educación especial/diferencial. Y por lo menos un año de experiencia trabajando con niños pequeños y familias en programas de cuidado para niños o centros preescolares."
 
@@ -266,6 +293,9 @@ msgstr "Continuar leyendo %s <span class=\"meta-nav\">&rarr;</span>"
 
 msgid "Create and manage a warm and challenging learning environment for students, incorporating appropriate activities which meet the needs of the group as well as those of individual children and families."
 msgstr "Crear y manejar un ambiente de aprendizaje acogedor y desafiante para los estudiantes, incorporando actividades apropiadas y atendiendo a las necesidades de la clase, de cada niño, y de cada familia. "
+
+msgid "Create and manage a warm, and challenging learning environment for students, incorporating appropriate activities which meet the needs of the group as well as those of individual children and families."
+msgstr ""
 
 msgid "Current First Aid/CPR card"
 msgstr "Tarjeta de Primeros Auxilios/RCP "
@@ -292,10 +322,15 @@ msgstr "Descripción detallada de clases"
 msgid "Director"
 msgstr "Directora"
 
+msgid "Director and Colibríes’ Teacher"
+msgstr ""
+
 #: page-program.php:470
 msgid "Dismissal (3:00-5:00)"
 msgstr "Despedida (3:00-5:00)"
 
+msgid "During her years at San José Unified School District, Claudia worked under the supervision of <a href="http://atdle.org/about-us/meet-the-team/" target="_blank">Dr. Rosa Molina</a> a renowned bilingual and bilingual immersion advocate. Claudia worked at a Professional Development school where she grew fond of collaboration and professional development practices to further her growth as an educator. As a linguist, second language teacher, and second language learner herself, Claudia has a deep understanding of first and second language acquisition and learning."
+msgstr ""
 
 #: page.php:339
 msgid "During her years at San José Unified School District, Claudia worked under the supervision of <a href=\"http://atdle.org/about-us/meet-the-team/\" target=\"_blank\">Dr. Rosa Molina</a> a renowned bilingual and bilingual immersion advocate. Claudia worked at a Professional Development school where she grew fond of collaboration and professional development practices to further her growth as an educator. As a linguist, second language teacher, and second language learner herself, Claudia has a deep understanding of first and second language acquisition and learning."
@@ -303,6 +338,9 @@ msgstr "Durante su práctica como maestra en el Distrito Unificado de San José,
 
 msgid "ESSENTIAL FUNCTIONS:"
 msgstr "FUNCIONES ESENCIALES: "
+
+msgid "Education and/or Experience:"
+msgstr ""
 
 #: page.php:298
 msgid "Education researcher, Neville V. Scarfe said, “play is the highest form of research”. Children learn best when given adequate time to move their bodies. At Nuestro Jardín Academy, we strongly believe that a great deal of learning is happening during unstructured play time, and that there is a lot of value in it."
@@ -334,6 +372,9 @@ msgstr "Todos nos esforzamos por formar una comunidad en la cual nuestros estudi
 
 msgid "FULL AND PART TIME SPANISH PRESCHOOL TEACHER (NE Portland)"
 msgstr "MAESTROS PREESCOLARES DE ESPAÑOL - TIEMPO COMPLETO Y MEDIO TIEMPO (NE Portland)"
+
+msgid "FULL-TIME AND PART-TIME SPANISH PRESCHOOL TEACHERS AND ASSISTANTS (NE 16th and Sandy)"
+msgstr ""
 
 #: page-program.php:513
 msgid "Fall Festival (October)"
@@ -399,6 +440,9 @@ msgstr "Tiempo Completo: 34-38 horas por semana"
 msgid "Full-day - 8:00 am to  5:00 pm"
 msgstr "Jornada Completa - 8:00 am a  5:00 pm"
 
+msgid "Gorriones and Petirrojos’ Teacher and Substitute Director"
+msgstr ""
+
 #: page-program.php:323
 msgid "Guelaguetza Celebrations"
 msgstr "Festival La Guelaguetza"
@@ -437,6 +481,9 @@ msgstr ""
 #: page.php:275
 msgid "If you talk to a man in a language he understands, <br> that goes to his head. <br> <span class=\"color-green\">If you talk to him in his language,</span> <br>that goes to his heart."
 msgstr "Si hablas a un hombre en un lenguaje que comprende, <br> eso llega a su intelecto. <br> <span class=\"color-green\">Si le hablas en su lenguaje, </span> <br>eso llega a su corazón."
+
+msgid "Interested applicants, please send a cover letter and resume <strong>indicating clearly whether you are applying for the part-time/full-time position, or teacher/assistant position</strong> to Claudia Contreras-Peters, Director, via e-mail at <a href="mailto:nja.claudia@gmail.com">nja.claudia@gmail.com</a>"
+msgstr ""
 
 msgid "Interested applicants, please send a cover letter and resume indicating clearly which position you are applying for (P/T or F/T) to Claudia Contreras-Peters, Director, via e-mail at <a href="mailto:nja.claudia@gmail.com">nja.claudia@gmail.com</a> or to:"
 msgstr "Si está interesado en postular, debe enviar una carta de presentación y currículum, indicando claramente la posición que solicita (tiempo completo o medio tiempo) a Claudia Contreras-Peters, Directora, por e-mail a nja.claudia@gmail.com o a la siguiente dirección:"
@@ -492,6 +539,12 @@ msgstr "El poder entender y aprender acerca de la <span> cultura </span> que hay
 msgid "Learning and understanding the culture behind the language can make learning <strong>fun.</strong>"
 msgstr "El poder entender y aprender acerca de la cultura que hay detrás de un idioma hace el aprendizaje más <strong>ameno y divertido.</strong>"
 
+msgid "Lisset O’Neill is a Spanish and Art teacher from Lima, Peru. She obtained a B.A. in Mass Media and Communications from the University of Lima and an M.F.A. in Cinema from San Francisco State University. For over 10 years she was a freelance Filmmaker and Photographer working for nonprofits, start-ups and technology companies in the San Francisco Bay Area. After a life-changing volunteer experience in the Andes of Peru, she discovered her love of teaching, and ever since, she has been sharing her language and her love for the arts with children here in the U.S."
+msgstr ""
+
+msgid "Lisset is a resourceful, imaginative, fun, and passionate teaching professional. Her focal point of expertise is implementing a child-centered, interactive and communicative approach to the pedagogy of Spanish language acquisition. In her classes, children learn through all their senses using concrete objects. Words are not just heard, they are seen, touched, tasted, and smelled. Latin culture comes to life through music, storytelling and traditional games. With this approach the learning process becomes fun and engaging, thus making the language easier to assimilate. Her approach to teaching art is based on the idea that art is about exploration. She supports children in creating artwork that reflects their own interests, ideas, discoveries and inventions."
+msgstr ""
+
 #: page-program.php:438
 msgid "Lunch (12:30-12:40 - Half Day Dismissal)"
 msgstr "Almuerzo (12:30-Despedida para los de Media Jornada)"
@@ -542,8 +595,8 @@ msgid "New teachers must satisfactorily complete a training program before summe
 msgstr "Cualquier docente nuevo que se integre a nuestra escuela debe completar satisfactoriamente una capacitación antes de que comiencen los campamentos de verano y/o el nuevo año escolar."
 
 #: page-enrollment.php:112
-msgid "Newly enrolled families- last month’s tuition and a $120.00 one-time registration fee/materials fee (non-refundable)."
-msgstr "Familias Nuevas- arancel/cuota del último mes y cargo de registro/cargo para materiales de $120.00 (no reembolsable)"
+msgid "Newly enrolled families- last month’s tuition and a $180.00 one-time registration fee/materials fee (non-refundable)."
+msgstr "Familias Nuevas- arancel/cuota del último mes y cargo de registro/cargo para materiales de $180.00 (no reembolsable)"
 
 #: header.php:12
 msgid "Nuestro Jardín Academy - Spanish Immersion Preschool | Portland, Oregon"
@@ -573,6 +626,9 @@ msgstr "Nuestro Jardín Academy es una escuela de pre-kínder con un verdadero p
 msgid "Nuestro Jardín Academy mostly follows the Portland Public Schools Calendar:"
 msgstr "Nuestro Jardín Academy sigue principalmente el calendario de Portland Public Schools:"
 
+msgid "Nuestro Jardín Academy, a brand new Spanish Immersion preschool, is seeking full-time and part-time Spanish-speaking/bilingual preschool teachers and assistants beginning in August 2016. Our preschool provides a high-quality immersion program with an emergent curriculum, which responds to children’s needs and interests. We believe in making this a unique language and cultural immersion experience for children, and so it’s extremely important that candidates be flexible, show initiative, and be able to adapt to the ever-changing needs of our children."
+msgstr ""
+
 msgid "Nuestro Jardín Academy, a brand new Spanish immersion preschool in Portland, Oregon, is seeking full and part time Spanish-speaking preschool teachers to start up in late spring/beginning of summer 2016. Our preschool provides a high-quality, research-based program that fosters the acquisition of children's first and second language with a focus on developing the whole child. We believe in making this a unique language and cultural immersion experience for children, so we are looking for the perfect candidates to join our team. Our goal is for teachers to work in a fun, supportive, and collaborative environment. Teachers are one of the best assets to our program, so providing high-quality professional development in Spanish will help you become the best teacher you can be."
 msgstr "Nuestro Jardín Academy, un nuevo centro preescolar de inmersión en español en Portland, Oregón, está buscando maestros de español por tiempo completo y medio tiempo para fines de la primavera/comienzo del verano 2016. Nuestro centro preescolar se caracteriza en proporcionar un programa de alta calidad, a base de investigación, que fomenta la adquisición del primer y segundo idioma, con un enfoque en educar al niño en su totalidad.  Hacemos hincapié en hacer de ésta una experiencia cultural única de inmersión al idioma español para los niños en el entorno preescolar, y para esto necesitamos a los perfectos candidatos que deseen unirse a nuestro equipo. Nuestra meta es de que nuestros maestros trabajen en un ambiente que sea divertido, que proporcione apoyo y que sea colaborativo. El docente es una parte vital y de suma importancia en nuestro programa, entonces el poder proporcionarle desarrollo y capacitación personal de alta calidad en español, le ayudará a mejorar sus técnicas educativas y a surgir como maestro."
 
@@ -598,12 +654,21 @@ msgstr "Una semana de licencia/días personales pagada"
 msgid "Open House on March 16th"
 msgstr "Puertas Abiertas: 16 de marzo"
 
+msgid "Open House on Sunday, February 12th"
+msgstr "Puertas Abiertas: 12 de febrero"
+
+msgid "Open houses start at 2pm and last for one hour. Join us to learn what Nuestro Jardín, Spanish Immersion Preschool is all about."
+msgstr ""
+
 msgid "Open until filled"
 msgstr "Abierta hasta que se ocupen los puestos"
 
 #: page.php:190
 msgid "Opening Summer of 2016!"
 msgstr "¡Gran Apertura: Verano 2016!"
+
+msgid "Our <span class="nja-green">Teachers</span>"
+msgstr ""
 
 #: page-program.php:233 page.php:245
 msgid "Our Curriculum"
@@ -685,12 +750,12 @@ msgstr "Otros estudios también han demostrado que los estudiantes en programas 
 msgid "Respect and maintain confidentiality of information regarding enrolled children and families, personnel issues, and other program operations as appropriate."
 msgstr "Respetar y mantener confidencialidad de toda información relacionada con los niños matriculados y sus familias, asuntos del personal y operaciones del programa como sea adecuado."
 
-msgid "Responsible for the overall supervision, planning, and management of the Spanish immersion preschool class:"
+msgid "Responsible for the overall supervision, planning, and management of a Spanish immersion preschool class:"
 msgstr "Responsable por la supervisión general, la planificación, y el manejo de la clase preescolar de inmersión al español:"
 
 #: page-enrollment.php:113
-msgid "Returning families - $60 annual materials fee due at the time of re-enrollment in March."
-msgstr "Familias que regresan - cargo para materiales de $60 que debe ser pagado al momento de las reinscripciones en marzo. "
+msgid "Returning families - $90 annual materials fee due at the time of re-enrollment in March."
+msgstr "Familias que regresan - cargo para materiales de $90 que debe ser pagado al momento de las reinscripciones en marzo. "
 
 msgid "Run for part of June, July, and part of August."
 msgstr "Ofrecido durante parte de junio, en julio y parte de agosto "
@@ -725,6 +790,9 @@ msgstr "Sesión 8: 1-5 agosto - Cocina y Sabores Latinos  (Latin Cooking and Fla
 
 msgid "Sessions:"
 msgstr "Sesiónes"
+
+msgid "She is happy to work at Nuestro Jardín Academy not just because she can speak her first language, but because she strongly believes that this kind of school gives children the opportunity not only to become bilingual but more importantly, to open their minds and hearts to other cultures.  By learning about other cultures, children can appreciate the diversity of this colorful country."
+msgstr ""
 
 #: page.php:342
 msgid "She received a BA degree in Linguistics with a minor in Spanish and a TESOL (teaching English to Speakers of Other Languages) Certificate from San Jose State University. Later, she obtained her Teaching Credential from The National Hispanic University. Once in Oregon, she received a Master’s Degree in TESOL from Portland State University and also obtained her Oregon Teaching License."
@@ -785,8 +853,17 @@ msgstr "Festival del Verano (Celebración de Fin de Año- junio)"
 msgid "Summer camp sessions:"
 msgstr "Sesiones de Campamentos de Verano:"
 
+msgid "Sunday, December 11th"
+msgstr ""
+
+msgid "Sunday, February 12th"
+msgstr ""
+
 msgid "Teacher planning built into schedule"
 msgstr "La planificación está contemplada en el horario semanal de trabajo."
+
+msgid "Teacher: Qualify under one of the following below:"
+msgstr ""
 
 msgid "Teachers focus on children’s Spanish production to ensure students make actual progress in the <a href="http://www.colorincolorado.org/article/language-acquisition-overview" target="_blank">stages of second language acquisition</a> from the pre-production stage or “silent period” to early production and then to becoming speech emergent."
 msgstr ""
@@ -794,6 +871,9 @@ msgstr ""
 #: page.php:263
 msgid "Teachers focus on children’s Spanish production to ensure students make actual progress in the <a href=\"http://www.colorincolorado.org/article/language-acquisition-overview\" target=\"_blank\">stages of second language acquisition</a> from the pre-production stage or “silent period” to early production and then to becoming speech emergent."
 msgstr "Nuestros maestros se enfocan en la producción del español de los niños para asegurarse de que estén realmente progresando en las <a href=\"http://www.colorincolorado.org/article/language-acquisition-overview\" target=\"_blank\">etapas de la adquisición de un segundo idioma</a> desde la etapa de preproducción o “básica”, a la de producción temprana, hasta el surgimiento del lenguaje."
+
+msgid "Teacher’s Assistant"
+msgstr ""
 
 #: page-enrollment.php:57
 msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! We are excieted to be accepting applications now for the 2017-2018 school year starting this fall."
@@ -822,6 +902,9 @@ msgstr "La Guelaguetza es una celebración que tiene lugar en la ciudad de Oaxac
 
 msgid "The following are also required for employment and must be obtained within 90 days after accepting the position."
 msgstr "Cumplir también con los siguientes requisitos, los cuales pueden ser obtenidos dentro de 90 días después de haber aceptado empleo. "
+
+msgid "The teachers at Nuestro Jardín are passionate about providing the opportunity for children to learn the Spanish language in a warm, caring, safe and secure environment.  We strive to provide an active learning environment where children will learn trust, self-expression and self worth. We understand the importance of focusing on the whole child (the social, emotional, cognitive, and physical aspects) to ensure children reach their full potential. Each teacher at Nuestro Jardín brings with them many years of personal and professional experience that contribute to the climate and culture of our Spanish immersion program. We dedicate ourselves to enrich and support the experiences of our students each and every day."
+msgstr ""
 
 msgid "The whole child approach taken by Nuestro Jardín Academy ensures that each student is healthy, safe, engaged, supported, and challenged by ... <span class="more-link">(more)</span>"
 msgstr ""
@@ -881,6 +964,9 @@ msgstr "Martes, 8 de marzo"
 
 msgid "Tuition discount for any children attending Nuestro Jardín Academy"
 msgstr "Descuento en la colegiatura para los hijos que estén matriculados en Nuestro Jardín Academy"
+
+msgid "Tuition discount for children attending Nuestro Jardín Academy"
+msgstr ""
 
 #: page-enrollment.php:65
 msgid "Tuition is due on the first of each month starting in September 2017."
@@ -952,8 +1038,14 @@ msgstr ""
 msgid "With these theories and students’ learning styles in mind, the teachers at Nuestro Jardín use diverse teaching methodologies, integrating direct, inquiry-based instruction, and cooperative learning into everyday lessons. In addition, all activities throughout the day are geared to our diverse learners, and we make sure that all students’ learning styles are met (<a href=\"http://www.tecweb.org/styles/gardner.html\">http://www.tecweb.org/styles/gardner.html</a>)."
 msgstr "Considerando estas teorías, los maestros de Nuestro Jardín utilizan una diversidad de metodologías de aprendizaje mediante acciones pedagógicas integradoras como instrucción directa e indirecta, instrucción interactiva, independiente y experimental y el aprendizaje cooperativo. Además, cada actividad realizada durante el día está orientada a satisfacer las necesidades de nuestros estudiantes diversificados. (<a href=\"http://www.tecweb.org/styles/gardner.html\">http://www.tecweb.org/styles/gardner.html</a>)."
 
+msgid "Yelenis is a school psychologist from Cuba. She has a BA in Education and a MA in School Psychology from Universidad Pedagógica de Santiago de Cuba. Yelenis has over 21 years of experience working with children and university students. She is a talented singer and a fabulous cook and a great salsa dancer. Yelenis compassion for children and beautiful smile are a wonderful addition to Nuestro Jardín’s team."
+msgstr ""
+
 msgid "You may choose up to 8 camps for full, half day, or a combination of both throughout the summer."
 msgstr "Puede elegir hasta 8 campamentos de jornada completa, media jornada combinación de ambas durante el verano. "
+
+msgid "days"
+msgstr "días"
 
 msgid "second language teaching"
 msgstr "enseñanza de un segundo idioma"

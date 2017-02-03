@@ -41,7 +41,7 @@ module Jekyll
       puts "Building site for default language: \"#{self.config['lang']}\" to: " + self.dest
       self.load_translations
       process_org
-      #self.save_missing_translations
+      self.save_missing_translations
       
       languages.drop(1).each do |lang|
 
@@ -53,7 +53,7 @@ module Jekyll
         puts "Building site for language: \"#{self.config['lang']}\" to: " + self.dest + "/" + lang
         self.load_translations
         process_org
-        #self.save_missing_translations
+        self.save_missing_translations
 
         # reset variables for next language
         #self.dest = dest_org
