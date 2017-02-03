@@ -403,7 +403,7 @@ msgstr ""
 msgid "Mom’s Night Out (MNO)"
 msgstr ""
 
-msgid "Monthly Tuition 2016-2017 School Year"
+msgid "Monthly Tuition 2017-2018 School Year"
 msgstr ""
 
 msgid "Most festivals and celebrations at Nuestro Jardín coincide with the change of seasons. These festivals and celebrations give us all a chance to embrace and learn about each other’s cultures and traditions and customs around the world."
@@ -487,7 +487,7 @@ msgstr ""
 msgid "Playing is Learning Too"
 msgstr ""
 
-msgid "Please note that a 4-7% tuition increase will be assessed each year"
+msgid "Please note that a 6-9% tuition increase will be assessed each year"
 msgstr ""
 
 msgid "Program"
@@ -610,7 +610,7 @@ msgstr ""
 msgid "Teachers focus on children’s Spanish production to ensure students make actual progress in the <a href="http://www.colorincolorado.org/article/language-acquisition-overview" target="_blank">stages of second language acquisition</a> from the pre-production stage or “silent period” to early production and then to becoming speech emergent."
 msgstr ""
 
-msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! Our anticipated grand opening is expected to be summer, 2016. We are accepting applications for both Spring 2016 and for the 2016-17 school year starting in fall."
+msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! We are excieted to be accepting applications now for the 2017-2018 school year starting this fall."
 msgstr ""
 
 msgid "The 90:10 immersion model used at Nuestro Jardín immerses the student in Spanish 90% of the day. Extensive research has demonstrated that ... <span class="more-link">(more)</span>"
@@ -670,7 +670,7 @@ msgstr ""
 msgid "Tuition discount for any children attending Nuestro Jardín Academy"
 msgstr ""
 
-msgid "Tuition is due on the first of each month starting in September 2016."
+msgid "Tuition is due on the first of each month starting in September 2017."
 msgstr ""
 
 msgid "Two weeks paid vacation during Winter and Spring breaks"

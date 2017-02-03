@@ -515,8 +515,8 @@ msgid "Mom’s Night Out (MNO)"
 msgstr "Noche para Mamá (NPM)"
 
 #: page-enrollment.php:64
-msgid "Monthly Tuition 2016-2017 School Year"
-msgstr "Colegiatura Mensual Año Escolar 2016-2017"
+msgid "Monthly Tuition 2017-2018 School Year"
+msgstr "Colegiatura Mensual Año Escolar 2017-2018"
 
 #: page-program.php:510
 msgid "Most festivals and celebrations at Nuestro Jardín coincide with the change of seasons. These festivals and celebrations give us all a chance to embrace and learn about each other’s cultures and traditions and customs around the world."
@@ -646,8 +646,8 @@ msgid "Playing is Learning Too"
 msgstr "Jugando También se Aprende"
 
 #: page-enrollment.php:134
-msgid "Please note that a 4-7% tuition increase will be assessed each year"
-msgstr "Por favor tome nota de que habrá un incremento anual en la matrícula de 4-7% al comienzo de cada año escolar."
+msgid "Please note that a 6-9% tuition increase will be assessed each year"
+msgstr "Por favor tome nota de que habrá un incremento anual en la matrícula de 6-9% al comienzo de cada año escolar."
 
 msgid "Program"
 msgstr "Programa"
@@ -796,8 +796,8 @@ msgid "Teachers focus on children’s Spanish production to ensure students make
 msgstr "Nuestros maestros se enfocan en la producción del español de los niños para asegurarse de que estén realmente progresando en las <a href=\"http://www.colorincolorado.org/article/language-acquisition-overview\" target=\"_blank\">etapas de la adquisición de un segundo idioma</a> desde la etapa de preproducción o “básica”, a la de producción temprana, hasta el surgimiento del lenguaje."
 
 #: page-enrollment.php:57
-msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! Our anticipated grand opening is expected to be summer, 2016. We are accepting applications for both Spring 2016 and for the 2016-17 school year starting in fall."
-msgstr "¡Gracias por su interés en Nuestro Jardín Academy, Spanish Immersion Preschool! Anticipamos nuestra gran apertura a principios de este verano. En este momento, estamos aceptando solicitudes para el año escolar 2016-17 que comienza en el otoño."
+msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! We are excieted to be accepting applications now for the 2017-2018 school year starting this fall."
+msgstr "¡Gracias por su interés en Nuestro Jardín Academy, Spanish Immersion Preschool! En este momento, estamos aceptando solicitudes para el año escolar 2017-2018 que comienza en el otoño."
 
 msgid "The 90:10 immersion model used at Nuestro Jardín immerses the student in Spanish 90% of the day. Extensive research has demonstrated that ... <span class="more-link">(more)</span>"
 msgstr ""
@@ -883,8 +883,8 @@ msgid "Tuition discount for any children attending Nuestro Jardín Academy"
 msgstr "Descuento en la colegiatura para los hijos que estén matriculados en Nuestro Jardín Academy"
 
 #: page-enrollment.php:65
-msgid "Tuition is due on the first of each month starting in September 2016."
-msgstr "La colegiatura anual se divide en 10 pagos iguales desde septiembre hasta junio. Los siguientes aranceles entran en vigencia el 1º de septiembre del 2016, la que deberá pagarse el primer día de cada mes."
+msgid "Tuition is due on the first of each month starting in September 2017."
+msgstr "La colegiatura anual se divide en 10 pagos iguales desde septiembre hasta junio. Los siguientes aranceles entran en vigencia el 1º de septiembre del 2017, la que deberá pagarse el primer día de cada mes."
 
 msgid "Two weeks paid vacation during Winter and Spring breaks"
 msgstr "Dos semanas de vacaciones pagadas durante las vacaciones de invierno y de primavera "
