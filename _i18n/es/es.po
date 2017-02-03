@@ -876,7 +876,7 @@ msgid "Teacher’s Assistant"
 msgstr ""
 
 #: page-enrollment.php:57
-msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! We are excieted to be accepting applications now for the 2017-2018 school year starting this fall."
+msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! We are excited to be accepting applications now for the 2017-2018 school year starting this fall."
 msgstr "¡Gracias por su interés en Nuestro Jardín Academy, Spanish Immersion Preschool! En este momento, estamos aceptando solicitudes para el año escolar 2017-2018 que comienza en el otoño."
 
 msgid "The 90:10 immersion model used at Nuestro Jardín immerses the student in Spanish 90% of the day. Extensive research has demonstrated that ... <span class="more-link">(more)</span>"
