@@ -5,20 +5,12 @@
         <div class="container">
             <h2 class="title">{% trans "<span class="nja-green">Summer</span> Camps" %}</h2>
             <p>
-                {% trans "We promise a fun-filled summer camp adventure for children 3 to 7 years old while learning Spanish. Offered for 8 weeks throughout the summer months, we will be offering weekly camps that will have your children singing and dancing, playing, doing arts and crafts, cooking, exploring, and learning about Latin American and Spanish cultures while learning Spanish. No prior Spanish experience required." %}
+                {% trans "We promise a fun-filled summer camp adventure for children 3 to 5 years old while learning Spanish. Offered for 8 weeks throughout the summer months, we will be offering weekly camps in which children will be able to connect with the outdoors and environment they are surrounded by. Our themes will revolve around science, art, and movement within nature and the environment while learning Spanish!" %}
             </p>
+            
             <p>
-                {% trans "You may choose up to 8 camps for full, half day, or a combination of both throughout the summer." %}
+                {% trans "Camps run week through week, so you may register for one or all eight weeks of summer camp. No prior Spanish experience required." %}
             </p>
-            <p>
-                {% trans "For each camp, children will be divided into 3 age groups of 8-10 children each. While the theme is the same for all groups, activities and instruction will cater to each group's individual needs and language levels." %}
-            </p>
-
-            <ul>
-                <li>{% trans "3-4 year olds" %}</li>
-                <li>{% trans "4-5 year-olds" %}</li>
-                <li>{% trans "6-7 year-olds" %}</li>
-            </ul>
 
             <div class="row" style="padding-top:20px;">
                 <div class="col-sm-3">
@@ -29,7 +21,7 @@
                     {% trans "Half Day: 8:30-12:30" %} 
                 </div>
                 <div class="col-sm-12">
-                    {% trans "** Extended care available upon request. $4 per half hour." %} 
+                    {% trans "** Extended care until 5 pm available upon request for an extra $25 fee for the entire week ($20 for the week of July 3-7)" %} 
                 </div>
             </div>
             <div class="row" style="padding-top:20px;">
@@ -44,54 +36,38 @@
                                 <div class="col-xs-4">{% trans "Full Day" %}</div>
                                 <div class="col-xs-4">{% trans "Half Day" %}</div>
                             </div>
-                            <div class="row">
-                                <div class="col-xs-4" style="font-weight: 400;">2 {% trans "days" %}</div>
-                                <div class="col-xs-4">$110</div>
-                                <div class="col-xs-4">$70</div>
-                            </div>
-                            <div class="row" style="background: #EFEFEF;">
-                                <div class="col-xs-4" style="font-weight: 400;">3 {% trans "days" %}</div>
-                                <div class="col-xs-4">$164</div>
-                                <div class="col-xs-4">$105</div>
-                            </div>
-                            <div class="row">
-                                <div class="col-xs-4" style="font-weight: 400;">4 {% trans "days" %}</div>
-                                <div class="col-xs-4">$220</div>
-                                <div class="col-xs-4">$140</div>
-                            </div>
                             <div class="row" style="background: #EFEFEF;">
                                 <div class="col-xs-4" style="font-weight: 400;">5 {% trans "days" %}</div>
-                                <div class="col-xs-4">$275</div>
-                                <div class="col-xs-4">$175</div>
+                                <div class="col-xs-4">$310 ($248 for July 3-7)</div>
+                                <div class="col-xs-4">$210 ($168 for July 3-7)</div>
+                            </div>
+                            <div class="row" style="background: #e6f5cb;">
+                                <div class="col-xs-4" style="font-weight: 400;">{% trans "10% Discount for signing up in March" %}</div>
+                                <div class="col-xs-4">$279 ($224 for July 3-7)</div>
+                                <div class="col-xs-4">$189 ($151 for July 3-7)</div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="row" style="padding-top:5px;">
-                <div class="col-sm-3">
-                    {% trans "Special Discount for signing up for 4 weeks or more:" %}<br>
-                </div>
-                <div class="col-sm-9">
-                    {% trans "Full Day: $250 per week ($200 for July 5-8)" %}<br>
-                    {% trans "Half Day: $160 per week ($127 for July 5-8)" %} 
-                </div>
-            </div>
-
             <div class="row" style="padding-top:20px;">
                 <div class="col-sm-12">
-                    <span style="font-weight: 400;">{% trans "Sessions:" %} (<a href='/assets/camps/{% trans "Summer Camps_2016.pdf" %}' target="_blank">{% trans "Detailed class descriptions" %}</a>)</span>
+                    {% trans "Detailed class descriptions" %}
                 </div>
                 <div class="col-sm-12">
-                    {% trans "Session 1: June 13-17 - El Regreso de los Dinosaurios (Return of the Dinosaurs)" %}<br>
-                    {% trans "Session 2: June 20-24 - ¡Bichos, Bichos y más Bichos! (Bugs, Bugs, and more Bugs!)" %}<br>
-                    {% trans "Session 3: June 27- July 1 - Pintores españoles y latinoamericanos (Spanish and Latin American Painters" %}<br>
-                    {% trans "Session 4: July 5-8 (No camp July 4th) - ¡Ciencia Loca! (Mad Science!)" %}<br>
-                    {% trans "Session 5: July 11-15 - Música y Bailes de Latinoamérica: Explorando la Percusión y el Ritmo Latino (Music and Dances from Latin America: Exploring Percussion and Latin Rhythm)" %}<br>
-                    {% trans "Session 6: July 18-22 - Inventores, Creadores y Constructores (Inventors, Creators, and Builders)" %}<br>
-                    {% trans "Session 7: July 25-29 - ¡Juguemos en el Bosque! (Let's Play in the Woods!)" %}<br>
-                    {% trans "Session 8: August 1-5 - Cocina y Sabores Latinos  (Latin Cooking and Flavors)" %}
+                    <p>
+                        <strong>{% trans "The Wonders of Nature – Weeks 1-4" %}</strong>
+                    </p>
+                    <p>
+                        {% trans "Children will explore the connections between nature and art through movement, crafts and outdoor play. Natural materials such as seeds, flowers, rocks and sticks will be used to create original works of art that reflect children’s ideas and experiences. The curriculum will emerge based upon shared interests of the children. The goal of the camp is to inspire a love and appreciation for the natural world." %}
+                    </p>
+                    <p>
+                        <strong>{% trans "Our Environment and Us – Weeks 5-8" %}</strong>
+                    </p>
+                    <p>
+                        {% trans "Children will explore ways to connect to our environment and each other through daily walks around our community, movement, arts, crafts, and outdoor play. The outdoors will become a science lab where children will use natural materials to represent their ideas. Each week will be focused on a specific theme, based on shared interests of the children. The goal of the camp is twofold: to instill children's curiosity for the outdoors and to discover their own ways to connect to their environment." %}
+                    </p>
                 </div>
             </div>
 

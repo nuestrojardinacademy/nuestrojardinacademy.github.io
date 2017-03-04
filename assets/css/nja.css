@@ -111,10 +111,10 @@ h1:after, h2:after {
 
 .apply-btn{
     width: 200px;
-    border-radius: 15px !important;
+    border-radius: 3px !important;
     border: solid #BDBDBD 1px;
     color: #F1F1F1;
-    text-transform: lowercase;
+    text-transform: uppercase;
 }
 
 /*TRY THIS*/

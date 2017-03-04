@@ -4,14 +4,17 @@ msgstr "Project-Id-Version: \nPOT-Creation-Date: 2016-03-05 10:59-0800\nPO-Revis
 msgid "$11-$17 per hour depending on education and work experience"
 msgstr "$11-$17 por hora dependiendo del nivel de educación y experiencia previa "
 
-msgid "** Extended care available upon request. $4 per half hour."
-msgstr "** Ofrecemos jornada prolongada disponible con previa solicitud. $4 por medio hora."
+msgid "** Extended care until 5 pm available upon request for an extra $25 fee for the entire week ($20 for the week of July 3-7)"
+msgstr "** Ofrecemos jornada prolongada disponible con previa solicitud. $25 por semana."
 
 msgid "1 observed holiday in the summer"
 msgstr "1 día feriado durante el verano"
 
 msgid "1 week off in Spring"
 msgstr "1 semana libre durante la primavera"
+
+msgid "10% Discount for signing up in March"
+msgstr ""
 
 #: page-program.php:493
 msgid "1st Wednesday of each month"
@@ -225,6 +228,9 @@ msgstr "INFORMACIÓN DE CONTACTO:"
 msgid "Camps"
 msgstr "Campamentos"
 
+msgid "Camps run week through week, so you may register for one or all eight weeks of summer camp. No prior Spanish experience required."
+msgstr ""
+
 #: page-program.php:339
 msgid "Ceramics in Mexico date back thousands of years before the Pre-Columbian period, when ceramic arts and pottery crafts developed with the first advanced civilizations and cultures of Mesoamerica. With one exception, pre-Hispanic wares were not glazed, but rather burnished and painted with colored fine clay slips. The potter's wheel was unknown as well; pieces were shaped by molding, coiling and other methods."
 msgstr "La cerámica en México data desde hace miles de años antes del periodo precolombino, cuando al arte de la cerámica y la alfarería se desarrollaron con las primeras civilizaciones avanzadas y las culturas de Mesoamérica. Con una excepción, la terracota prehispánica no era vidriada, sino más bien bruñida y pintada con la técnica de engobe, usando arcilla fina de colores. Aún no existía el torno de alfarero, en vez, las piezas eran enrolladas, modeladas y moldeadas."
@@ -247,6 +253,12 @@ msgstr "Los niños se benefician de nuestro programa bien planteado, basado en i
 #: page-program.php:478
 msgid "Children bring a lunch from home. We encourage parents to prepare healthy lunches that best meet their children’s unique dietary needs."
 msgstr "Cada niño trae almuerzo de su casa. Animamos a los padres a prepararles a sus hijos un almuerzo saludable que cumpla con sus necesidades dietéticas."
+
+msgid "Children will explore the connections between nature and art through movement, crafts and outdoor play. Natural materials such as seeds, flowers, rocks and sticks will be used to create original works of art that reflect children’s ideas and experiences. The curriculum will emerge based upon shared interests of the children. The goal of the camp is to inspire a love and appreciation for the natural world."
+msgstr ""
+
+msgid "Children will explore ways to connect to our environment and each other through daily walks around our community, movement, arts, crafts, and outdoor play. The outdoors will become a science lab where children will use natural materials to represent their ideas. Each week will be focused on a specific theme, based on shared interests of the children. The goal of the camp is twofold: to instill children's curiosity for the outdoors and to discover their own ways to connect to their environment."
+msgstr ""
 
 #: page.php:333
 msgid "Claudia Contreras-Peters was born and raised in Santiago, Chile, and at an early age, she was interested in (or obsessed with) languages. In 1992, she took a trip to California to “visit her aunt and practice her English.” She made a decision to stay in the United States and attend college in California.  But that trip became the trip of her life, in that those 3 months became 24 years!"
@@ -430,6 +442,9 @@ msgstr "Jornada Completa: $250 por semana ($200 por la semana del 5-8 julio)"
 msgid "Full Day: $275 per week ($220 for July 5-8)"
 msgstr "Jornada Completa: $275 por semana ($220 por la semana del 5-8 julio)"
 
+msgid "Full Day: $279 per week ($224 for July 3-7)"
+msgstr ""
+
 msgid "Full Day: 8:30-4:30 **"
 msgstr "Jornada Completa: 8:30-4:30 **"
 
@@ -456,6 +471,9 @@ msgstr "Media Jornada: $160 por semana ($127 por la semana del 5-8 julio)"
 
 msgid "Half Day: $175 per week ($140 for July 5-8)"
 msgstr "Media Jornada: $175 por semana ($140 por la semana del 5-8 julio)"
+
+msgid "Half Day: $189 per week ($151 for July 3-7)"
+msgstr ""
 
 msgid "Half Day: 8:30-12:30"
 msgstr "Media Jornada: 8:30-12:30"
@@ -674,6 +692,9 @@ msgstr ""
 msgid "Our Curriculum"
 msgstr "Nuestro Currículo"
 
+msgid "Our Environment and Us – Weeks 5-8"
+msgstr ""
+
 #: page-old.php:98 page-old.php:101
 msgid "Our Program"
 msgstr "Nuestro Programa"
@@ -829,8 +850,17 @@ msgstr "El español es más que un idioma"
 msgid "Spanish is more than just a language"
 msgstr "El español es más que un idioma"
 
+msgid "Special 10% Discount for signing up in March"
+msgstr ""
+
+msgid "Special 10% Discount for signing up in March:"
+msgstr ""
+
 msgid "Special Discount for signing up for 4 weeks or more:"
 msgstr "Descuento Especial por inscribirse para 4 campamentos o más:"
+
+msgid "Special Discount for signing up in March:"
+msgstr ""
 
 #: page-program.php:519
 msgid "Spring Festival (April)"
@@ -902,6 +932,9 @@ msgstr "El Regalo de un Segundo Idioma"
 #: page-program.php:324
 msgid "The Guelaguetza, or Los lunes del cerro (Mondays on the Hill) is an annual indigenous cultural event in Mexico that takes place in the city of Oaxaca, capital of the state of Oaxaca, as well as in nearby villages. The celebration centers on traditional dancing in costume in groups, often gender-separated groups, as is traditional, and includes parades complete with indigenous walking bands, native food, and statewide artisanal crafts such as prehispanic-style textiles. Each costume (traje) and dance usually has a local indigenous historical and cultural meaning. Although the celebration is now an important tourist attraction, it also retains deep cultural importance for the peoples of the state and is important for the continuing survival of these cultures."
 msgstr "La Guelaguetza es una celebración que tiene lugar en la ciudad de Oaxaca de Juárez. La Guelaguetza forma parte de los cultos populares a la Virgen del Carmen, razón por la que se celebra los dos lunes más cercanos a la festividad católica de esta advocación Mariana (el 16 de julio). Otro nombre con que se conoce la Guelaguetza es el de “Los lunes del Cerro”, puesto que el corazón de la festividad es el cerro del Fortín, que domina el centro de la ciudad de Oaxaca. La palabra “guelaguetza” deriva del zapoteco guendalizaá, que significa “cooperar”, pero en su concepción más amplia es una actitud, una cualidad con la que se nace, un sentimiento por medio del cual el zapoteca ama a su prójimo, un sentimiento de hermandad, de compartir la naturaleza y la vida. En esta celebración participan grupos folclóricos de las ocho regiones del estado: La Costa, Cañada, Tuxtepec, Mixteca, Sierra Sur, Sierra Norte, Valles Centrales e Istmo."
+
+msgid "The Wonders of Nature – Weeks 1-4"
+msgstr ""
 
 msgid "The following are also required for employment and must be obtained within 90 days after accepting the position."
 msgstr "Cumplir también con los siguientes requisitos, los cuales pueden ser obtenidos dentro de 90 días después de haber aceptado empleo. "
@@ -996,6 +1029,9 @@ msgstr "También ayudamos a los niños a entender quiénes son en el contexto de
 #: page-enrollment.php:138
 msgid "We do not charge a fee for families to get in our wait list. Interested families just need to fill out a wait list application. Your child’s place is determined by the date we receive your wait list form. However, siblings of children currently enrolled or who have been enrolled  in our school in the past are given priority. Families are notified via phone and email when a space is available for their child. Parents will have 48 hours to notify us of their decision, complete the enrollment forms, and pay the deposit and fees. We will regularly assess openings available and use the wait list to inform families when availability exists."
 msgstr "No le cobramos a las familias por apuntarse en nuestra lista de espera. Toda familia que esté interesada, sólo necesita llenar una solicitud. La ubicación de su hijo o hija en la lista de espera es determinado por la fecha en que recibimos su formulario de solicitud.  Sin embargo, los hermanos de los estudiantes que estén actualmente matriculados o hayan sido alumnos de nuestra escuela, tendrán prioridad de ingreso. Se les notificará a cada familia por teléfono y por correo electrónico cuando haya vacante disponible para su hijo o hija. Los padres tendrán 48 horas para notificarnos de su decisión, completar todos los formularios de inscripción y pagar el depósito y los cargos. Evaluaremos periódicamente las vacantes y utilizaremos la lista de espera para informarles a las familias cuando haya disponibilidad. "
+
+msgid "We promise a fun-filled summer camp adventure for children 3 to 5 years old while learning Spanish. Offered for 8 weeks throughout the summer months, we will be offering weekly camps in which children will be able to connect with the outdoors and environment they are surrounded by. Our themes will revolve around science, art, and movement within nature and the environment while learning Spanish!"
+msgstr ""
 
 msgid "We promise a fun-filled summer camp adventure for children 3 to 7 years old while learning Spanish. Offered for 8 weeks throughout the summer months, we will be offering weekly camps that will have your children singing and dancing, playing, doing arts and crafts, cooking, exploring, and learning about Latin American and Spanish cultures while learning Spanish. No prior Spanish experience required."
 msgstr "Prometemos una aventura de campamento con mucha diversión para niños de 3 a 7 años mientras aprenden español. Por 8 semanas, durante los meses de verano, estaremos ofreciendo campamentos semanales que tendrán a sus hijos cantando y bailando, jugando, haciendo artes y manualidades, cocinando, explorando y aprendiendo de las culturas de Latinoamérica y España, a la misma vez que aprenden español. No se requiere experiencia previa con el español."

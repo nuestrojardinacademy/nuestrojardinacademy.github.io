@@ -4,13 +4,16 @@ msgstr ""
 msgid "$11-$17 per hour depending on education and work experience"
 msgstr ""
 
-msgid "** Extended care available upon request. $4 per half hour."
+msgid "** Extended care until 5 pm available upon request for an extra $25 fee for the entire week ($20 for the week of July 3-7)"
 msgstr ""
 
 msgid "1 observed holiday in the summer"
 msgstr ""
 
 msgid "1 week off in Spring"
+msgstr ""
+
+msgid "10% Discount for signing up in March"
 msgstr ""
 
 msgid "1st Wednesday of each month"
@@ -193,6 +196,9 @@ msgstr ""
 msgid "Camps"
 msgstr ""
 
+msgid "Camps run week through week, so you may register for one or all eight weeks of summer camp. No prior Spanish experience required."
+msgstr ""
+
 msgid "Ceramics in Mexico date back thousands of years before the Pre-Columbian period, when ceramic arts and pottery crafts developed with the first advanced civilizations and cultures of Mesoamerica. With one exception, pre-Hispanic wares were not glazed, but rather burnished and painted with colored fine clay slips. The potter\'s wheel was unknown as well; pieces were shaped by molding, coiling and other methods."
 msgstr ""
 
@@ -206,6 +212,12 @@ msgid "Children benefit from our well thought-out, research-based, integrated, a
 msgstr ""
 
 msgid "Children bring a lunch from home. We encourage parents to prepare healthy lunches that best meet their children’s unique dietary needs."
+msgstr ""
+
+msgid "Children will explore the connections between nature and art through movement, crafts and outdoor play. Natural materials such as seeds, flowers, rocks and sticks will be used to create original works of art that reflect children’s ideas and experiences. The curriculum will emerge based upon shared interests of the children. The goal of the camp is to inspire a love and appreciation for the natural world."
+msgstr ""
+
+msgid "Children will explore ways to connect to our environment and each other through daily walks around our community, movement, arts, crafts, and outdoor play. The outdoors will become a science lab where children will use natural materials to represent their ideas. Each week will be focused on a specific theme, based on shared interests of the children. The goal of the camp is twofold: to instill children's curiosity for the outdoors and to discover their own ways to connect to their environment."
 msgstr ""
 
 msgid "Claudia Contreras-Peters was born and raised in Santiago, Chile, and at an early age, she was interested in (or obsessed with) languages. In 1992, she took a trip to California to “visit her aunt and practice her English.” She made a decision to stay in the United States and attend college in California.  But that trip became the trip of her life, in that those 3 months became 24 years!"
@@ -352,6 +364,9 @@ msgstr ""
 msgid "Full Day: $275 per week ($220 for July 5-8)"
 msgstr ""
 
+msgid "Full Day: $279 per week ($224 for July 3-7)"
+msgstr ""
+
 msgid "Full Day: 8:30-4:30 **"
 msgstr ""
 
@@ -374,6 +389,9 @@ msgid "Half Day: $160 per week ($127 for July 5-8)"
 msgstr ""
 
 msgid "Half Day: $175 per week ($140 for July 5-8)"
+msgstr ""
+
+msgid "Half Day: $189 per week ($151 for July 3-7)"
 msgstr ""
 
 msgid "Half Day: 8:30-12:30"
@@ -538,6 +556,9 @@ msgstr ""
 msgid "Our Curriculum"
 msgstr ""
 
+msgid "Our Environment and Us – Weeks 5-8"
+msgstr ""
+
 msgid "Our Vision of a <strong class="color-green">TRUE</strong> Spanish Immersion Program"
 msgstr ""
 
@@ -661,7 +682,16 @@ msgstr ""
 msgid "Spanish is more than just a language"
 msgstr ""
 
+msgid "Special 10% Discount for signing up in March"
+msgstr ""
+
+msgid "Special 10% Discount for signing up in March:"
+msgstr ""
+
 msgid "Special Discount for signing up for 4 weeks or more:"
+msgstr ""
+
+msgid "Special Discount for signing up in March:"
 msgstr ""
 
 msgid "Spring Festival (April)"
@@ -716,6 +746,9 @@ msgid "The Gift of a Second Language"
 msgstr ""
 
 msgid "The Guelaguetza, or Los lunes del cerro (Mondays on the Hill) is an annual indigenous cultural event in Mexico that takes place in the city of Oaxaca, capital of the state of Oaxaca, as well as in nearby villages. The celebration centers on traditional dancing in costume in groups, often gender-separated groups, as is traditional, and includes parades complete with indigenous walking bands, native food, and statewide artisanal crafts such as prehispanic-style textiles. Each costume (traje) and dance usually has a local indigenous historical and cultural meaning. Although the celebration is now an important tourist attraction, it also retains deep cultural importance for the peoples of the state and is important for the continuing survival of these cultures."
+msgstr ""
+
+msgid "The Wonders of Nature – Weeks 1-4"
 msgstr ""
 
 msgid "The following are also required for employment and must be obtained within 90 days after accepting the position."
@@ -788,6 +821,9 @@ msgid "We also help children understand who they are in the context of their rac
 msgstr ""
 
 msgid "We do not charge a fee for families to get in our wait list. Interested families just need to fill out a wait list application. Your child’s place is determined by the date we receive your wait list form. However, siblings of children currently enrolled or who have been enrolled  in our school in the past are given priority. Families are notified via phone and email when a space is available for their child. Parents will have 48 hours to notify us of their decision, complete the enrollment forms, and pay the deposit and fees. We will regularly assess openings available and use the wait list to inform families when availability exists."
+msgstr ""
+
+msgid "We promise a fun-filled summer camp adventure for children 3 to 5 years old while learning Spanish. Offered for 8 weeks throughout the summer months, we will be offering weekly camps in which children will be able to connect with the outdoors and environment they are surrounded by. Our themes will revolve around science, art, and movement within nature and the environment while learning Spanish!"
 msgstr ""
 
 msgid "We promise a fun-filled summer camp adventure for children 3 to 7 years old while learning Spanish. Offered for 8 weeks throughout the summer months, we will be offering weekly camps that will have your children singing and dancing, playing, doing arts and crafts, cooking, exploring, and learning about Latin American and Spanish cultures while learning Spanish. No prior Spanish experience required."
