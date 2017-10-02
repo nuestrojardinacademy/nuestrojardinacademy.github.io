@@ -18,3 +18,40 @@ links_es: [
     #{href: 'jobs/', text: 'empleos'}, 
     {href: '', text: 'english'}
 ]
+staff_pages: [{
+        name: 'Claudia Contreras Peters', 
+        position: 'Director and Colibríes’ Teacher',
+        image: 'claudia_contreras.jpg', 
+        bio: 'staff/claudia_contreras.html'
+    },{
+        name: 'Lisset O’Neill', 
+        position: 'Gorriones and Petirrojos’ Teacher and Substitute Director',
+        image: 'lisset_oneill.jpg', 
+        bio: 'staff/lisset_oneill.html'
+    },{
+        name: 'Erica Ryan', 
+        position: 'Assistant Teacher ',
+        image: 'erica_ryan.jpg', 
+        bio: 'staff/erica_ryan.html'
+    },{
+        name: 'Berenice Galicia', 
+        position: 'Colibríes Co-Teacher',
+        image: 'berenice_galicia.jpg', 
+        bio: 'staff/berenice_galicia.html'
+    },{
+        name: 'Laura Willets', 
+        position: 'Colibríes Co-Teacher',
+        image: 'laura_willets.jpg', 
+        bio: 'staff/laura_willets.html'
+    },{
+        name: 'Camila Pérez Araya', 
+        position: 'Afternoon Teacher',
+        image: 'camila_perez.jpg', 
+        bio: 'staff/camila_perez.html'
+    },{
+        name: 'Peggy Whipple', 
+        position: 'Teacher’s Assistant',
+        image: 'peggy_whipple.jpg', 
+        bio: 'staff/peggy_whipple.html'
+    }
+]

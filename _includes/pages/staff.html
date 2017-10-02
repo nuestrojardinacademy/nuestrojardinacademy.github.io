@@ -8,10 +8,25 @@
                 {% trans "The teachers at Nuestro Jardín are passionate about providing the opportunity for children to learn the Spanish language in a warm, caring, safe and secure environment.  We strive to provide an active learning environment where children will learn trust, self-expression and self worth. We understand the importance of focusing on the whole child (the social, emotional, cognitive, and physical aspects) to ensure children reach their full potential. Each teacher at Nuestro Jardín brings with them many years of personal and professional experience that contribute to the climate and culture of our Spanish immersion program. We dedicate ourselves to enrich and support the experiences of our students each and every day." %}
             </p>
             <div class="container-fluid">
-                {% include staff/claudia_contreras.html %}
-                {% include staff/lisset_oneill.html %}
-                {% include staff/ayesha_franco.html %}
-                {% include staff/yelenis_tamayo.html %}
+                {% for staff in site.data.nav_links.staff_pages %}
+                    {% assign loopindex = forloop.index|modulo:2 == 0%}
+                    <div class="row team-v7 no-gutter equal-height-columns">
+                        {% if loopindex == 0 %}<div class="col-md-6 col-md-push-6 team-arrow-left">{% else %}<div class="col-md-6 team-arrow-right">{% endif %}
+                            <div class="dp-table">
+                                <div class="equal-height-column dp-table-cell team-v7-in">
+                                    <span class="team-v7-name">{{staff.name}}</span>
+                                    <span class="team-v7-position">{{staff.position}}</span>
+                                    <div style="max-height: 360px; overflow-y: scroll; overflow-x:hidden;">
+                                        {% include {{staff.bio}} %}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {% if loopindex == 0 %}<div class="col-md-6 col-md-pull-6 team-v7-img">{% else %}<div class="col-md-6 team-v7-img">{% endif %}
+                            <img class="img-responsive full-width equal-height-column" src="/assets/nja-img/teachers/{{staff.image}}" alt="">
+                        </div>
+                    </div>
+                {% endfor %}
             </div>
         </div>
     </section>

@@ -209,6 +209,9 @@ msgstr "Ser responsable y supervisar la realización de las tareas rutinarias/co
 msgid "Before joining Nuestro Jardín, Lisset worked at the Oregon Episcopal School here in Portland and at the Mission Dolores Academy in San Francisco. She is excited to be teaching at our school and is looking forward to meeting the children and parents of our new community."
 msgstr ""
 
+msgid "Before working for the Department of Education in Puerto Rico, she worked on several federal proposals to support students in Puerto Rico. She helped develop innovative strategies to improve students’ academic achievement, such as the Universidad Interamericana’s program to improve academic performance and drop out rates in students who lived in public housing in Puerto Rico."
+msgstr ""
+
 msgid "Bilingual Spanish speaker"
 msgstr ""
 
@@ -319,6 +322,9 @@ msgstr "Noche para Papá (NPP)"
 #: page-program.php:404
 msgid "Daily Schedule"
 msgstr "Horario Diario"
+
+msgid "Daisy Batiz was born and raised in Ponce, Puerto Rico. Her passion for being an educator started at an early age. In 2011, she obtained a Bachelor’s Degree in Special Education with a focus on Autism from the Universidad Interamericana in Ponce, Puerto Rico.  Daisy has also started her studies to earn her Master’s Degree in Special Education and Mild Disabilities at the Caribbean University at Ponce, PR."
+msgstr ""
 
 #: page-program.php:353
 msgid "Day of the Dead"
@@ -815,6 +821,9 @@ msgstr "Sesiónes"
 msgid "She is happy to work at Nuestro Jardín Academy not just because she can speak her first language, but because she strongly believes that this kind of school gives children the opportunity not only to become bilingual but more importantly, to open their minds and hearts to other cultures.  By learning about other cultures, children can appreciate the diversity of this colorful country."
 msgstr ""
 
+msgid "She is very happy to be part of Nuestro Jardín, as it will provide her with an enriching experience in a Spanish immersion program."
+msgstr ""
+
 #: page.php:342
 msgid "She received a BA degree in Linguistics with a minor in Spanish and a TESOL (teaching English to Speakers of Other Languages) Certificate from San Jose State University. Later, she obtained her Teaching Credential from The National Hispanic University. Once in Oregon, she received a Master’s Degree in TESOL from Portland State University and also obtained her Oregon Teaching License."
 msgstr "Egresó de San Jose State University, California con el grado de BA en Lingüística con  mención en español y también obtuvo su certificado de TESOL para enseñar inglés como  segundo idioma. Un tiempo después, recibió el título y credencial de Enseñanza Primaria y Bilingüe de National Hispanic University para enseñar kinder a 5º grado. Ya instalada en Oregon, obtuvo su Master’s en Portland State University en TESOL y recibió su licencia para enseñar español, inglés como segundo idioma, y para trabajar en programas bilingües en Oregon."
@@ -1094,3 +1103,6 @@ msgstr "las artes escénicas (danza, música, teatro)"
 
 msgid "the visual arts"
 msgstr "las artes visuales"
+
+msgid "{staff.position}"
+msgstr ""
