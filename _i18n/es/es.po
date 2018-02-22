@@ -4,6 +4,12 @@ msgstr "Project-Id-Version: \nPOT-Creation-Date: 2016-03-05 10:59-0800\nPO-Revis
 msgid "$11-$17 per hour depending on education and work experience"
 msgstr "$11-$17 por hora dependiendo del nivel de educación y experiencia previa "
 
+msgid "* Flexible Drop-off is available starting at 8:00 am. "
+msgstr ""
+
+msgid "* Full Day: 8:30-4:00"
+msgstr ""
+
 msgid "** Extended care until 5 pm available upon request for an extra $25 fee for the entire week ($20 for the week of July 3-7)"
 msgstr "** Ofrecemos jornada prolongada disponible con previa solicitud. $25 por semana."
 
@@ -99,6 +105,9 @@ msgstr ""
 
 msgid "<span class="nja-green">Summer</span> Camps"
 msgstr "Campamentos de <span class="nja-green">Verano</span>"
+
+msgid "<span class='nja-green'>Summer</span> Camps"
+msgstr ""
 
 #: page-program.php:486
 msgid "<span class=\"nja-green\">Events</span> at Nuestro Jardín"
@@ -234,6 +243,9 @@ msgstr "Campamentos"
 msgid "Camps run week through week, so you may register for one or all eight weeks of summer camp. No prior Spanish experience required."
 msgstr ""
 
+msgid "Camps run week to week, so you may register for one or all eight weeks of summer camp. No prior Spanish experience required."
+msgstr ""
+
 #: page-program.php:339
 msgid "Ceramics in Mexico date back thousands of years before the Pre-Columbian period, when ceramic arts and pottery crafts developed with the first advanced civilizations and cultures of Mesoamerica. With one exception, pre-Hispanic wares were not glazed, but rather burnished and painted with colored fine clay slips. The potter's wheel was unknown as well; pieces were shaped by molding, coiling and other methods."
 msgstr "La cerámica en México data desde hace miles de años antes del periodo precolombino, cuando al arte de la cerámica y la alfarería se desarrollaron con las primeras civilizaciones avanzadas y las culturas de Mesoamérica. Con una excepción, la terracota prehispánica no era vidriada, sino más bien bruñida y pintada con la técnica de engobe, usando arcilla fina de colores. Aún no existía el torno de alfarero, en vez, las piezas eran enrolladas, modeladas y moldeadas."
@@ -278,6 +290,12 @@ msgstr "Ya hace más de un año que Claudia ha estado trabajando en el proyecto 
 #: page.php:348
 msgid "Claudia lives in NE Portland with her husband, two sons (one in kindergarten, the other in preschool), and cat, Cuchito."
 msgstr "Claudia vive en el noreste de Portland con su esposo, sus dos hijos (uno en kínder y el otro de edad preescolar) y su gato, Cuchito."
+
+msgid "Clay"
+msgstr ""
+
+msgid "Collage"
+msgstr ""
 
 msgid "Commitment:"
 msgstr "Compromiso:"
@@ -324,6 +342,9 @@ msgid "Daily Schedule"
 msgstr "Horario Diario"
 
 msgid "Daisy Batiz was born and raised in Ponce, Puerto Rico. Her passion for being an educator started at an early age. In 2011, she obtained a Bachelor’s Degree in Special Education with a focus on Autism from the Universidad Interamericana in Ponce, Puerto Rico.  Daisy has also started her studies to earn her Master’s Degree in Special Education and Mild Disabilities at the Caribbean University at Ponce, PR."
+msgstr ""
+
+msgid "Dancing"
 msgstr ""
 
 #: page-program.php:353
@@ -388,6 +409,15 @@ msgstr "English"
 msgid "Everyone strives to build a community, involving students, teachers, and parents."
 msgstr "Todos nos esforzamos por formar una comunidad en la cual nuestros estudiantes, maestros y padres sean partícipes activos y hagan contribuciones positivas a nuestra comunidad."
 
+msgid "Explore a rich classroom environment filled with a variety of blocks, loose parts, sensorial tables, and children's literature."
+msgstr ""
+
+msgid "Explore the artistic possibilities of objects found in nature such as branches, flowers, rocks, and shells."
+msgstr ""
+
+msgid "Explore the qualities of fruits and vegetables to print, dye, build, cook, and create art."
+msgstr ""
+
 msgid "FULL AND PART TIME SPANISH PRESCHOOL TEACHER (NE Portland)"
 msgstr "MAESTROS PREESCOLARES DE ESPAÑOL - TIEMPO COMPLETO Y MEDIO TIEMPO (NE Portland)"
 
@@ -412,6 +442,9 @@ msgstr "Siguiendo nuestro enfoque balanceado, agrupamos a los estudiantes de acu
 
 msgid "Food Handlers Card"
 msgstr "Tarjeta de Manejo de Comida"
+
+msgid "For 7 weeks throughout the summer months, we will be offering Spanish Immersion Camps with an emphasis on Visual and Performing Arts. The curriculum and themes will emerge based on shared interests of the children. Children will be exposed to lots of materials found in their natural environment and will be encouraged to create with them!"
+msgstr ""
 
 msgid "For each camp, children will be divided into 3 age groups of 8-10 children each. While the theme is the same for all groups, activities and instruction will cater to each group's individual needs and language levels."
 msgstr "Para cada campamento, dividiremos a los niños de acuerdo a sus edades en 3 grupos de 8 a 10 cada uno. Mientras el tema será el mismo para todos los grupos, las actividades e instrucción atenderán a las necesidades individuales de cada grupo y a los distintos niveles del idioma de cada campista."
@@ -449,6 +482,15 @@ msgid "Full Day: $275 per week ($220 for July 5-8)"
 msgstr "Jornada Completa: $275 por semana ($220 por la semana del 5-8 julio)"
 
 msgid "Full Day: $279 per week ($224 for July 3-7)"
+msgstr ""
+
+msgid "Full Day: 8:30*-4:00"
+msgstr ""
+
+msgid "Full Day: 8:30-4:00 *"
+msgstr ""
+
+msgid "Full Day: 8:30-4:00 **"
 msgstr ""
 
 msgid "Full Day: 8:30-4:30 **"
@@ -492,6 +534,9 @@ msgstr "Media Jornada - 8:00 am a 12:30 pm"
 msgid "Home"
 msgstr "Inicio"
 
+msgid "Hours of Operation/Fees:"
+msgstr ""
+
 #: page-enrollment.php:100
 msgid "Hours of Operation:"
 msgstr "Horario de Atención:"
@@ -505,6 +550,9 @@ msgstr ""
 #: page.php:275
 msgid "If you talk to a man in a language he understands, <br> that goes to his head. <br> <span class=\"color-green\">If you talk to him in his language,</span> <br>that goes to his heart."
 msgstr "Si hablas a un hombre en un lenguaje que comprende, <br> eso llega a su intelecto. <br> <span class=\"color-green\">Si le hablas en su lenguaje, </span> <br>eso llega a su corazón."
+
+msgid "Improvisation"
+msgstr ""
 
 msgid "Interested applicants, please send a cover letter and resume <strong>indicating clearly whether you are applying for the part-time/full-time position, or teacher/assistant position</strong> to Claudia Contreras-Peters, Director, via e-mail at <a href="mailto:nja.claudia@gmail.com">nja.claudia@gmail.com</a>"
 msgstr ""
@@ -587,6 +635,9 @@ msgstr "Matemáticas/Ciencias- Instrucción al Grupo Entero y Libre Elección/Ju
 msgid "Medical benefits"
 msgstr "Beneficios médicos "
 
+msgid "Mixed media"
+msgstr ""
+
 #: page-program.php:493
 msgid "Mom’s Night Out (MNO)"
 msgstr "Noche para Mamá (NPM)"
@@ -664,6 +715,9 @@ msgstr "Nuestro Jardín hace hincapié en hacer de ésta una experiencia única 
 msgid "Nurturing the Whole Child"
 msgstr "Educando al niño en su Totalidad"
 
+msgid "Observational Drawing"
+msgstr ""
+
 #: page-program.php:505
 msgid "Of course children would love to have some fun while their parents get a child-free night out. A movie, crafts, and stories! We can do all these and more during this event. Open to toilet-trained children 3-8 years old. Children are welcome to wear their pajamas. Availability is limited."
 msgstr "Obviamente a los niños les encantará divertirse mientras sus padres tienen una noche libre sin ellos. ¡Una película, arte y cuentos! Podemos hacer eso y mucho más durante este evento. Para niños de 3 a 8 años que ya saben usar el baño solos. Pueden venir en pijamas. El cupo es limitado."
@@ -724,14 +778,26 @@ msgstr "Debido a que nuestro edificio está en construcción, realizaremos cinco
 msgid "Outside Play"
 msgstr "Recreo (en el Parque)"
 
+msgid "PERFORMING ARTS FOCUS"
+msgstr ""
+
 msgid "PREFERRED QUALIFICATIONS (not required but a plus):"
 msgstr "REQUISITOS DESEABLES (no necesarios, pero proveen una gran ventaja):"
+
+msgid "Painting"
+msgstr ""
 
 msgid "Part-Time: 20-30 hours per week"
 msgstr "Medio Tiempo: 20-30 horas por semana"
 
 msgid "Participate in professional development activities and complete continuing education requirements."
 msgstr "Participar en actividades de desarrollo y capacitación profesional y completar requisitos de educación continua."
+
+msgid "Performing arts focus:"
+msgstr ""
+
+msgid "Play outdoor water games."
+msgstr ""
 
 #: page.php:296
 msgid "Playing is Learning Too"
@@ -740,6 +806,9 @@ msgstr "Jugando También se Aprende"
 #: page-enrollment.php:134
 msgid "Please note that a 6-9% tuition increase will be assessed each year"
 msgstr "Por favor tome nota de que habrá un incremento anual en la matrícula de 6-9% al comienzo de cada año escolar."
+
+msgid "Printmaking"
+msgstr ""
 
 msgid "Program"
 msgstr "Programa"
@@ -787,6 +856,9 @@ msgstr "Familias que regresan - cargo para materiales de $90 que debe ser pagado
 msgid "Run for part of June, July, and part of August."
 msgstr "Ofrecido durante parte de junio, en julio y parte de agosto "
 
+msgid "SUMMER CAMPS AT NUESTRO JARDÍN ARE FOR PRESCHOOL-AGED CHILDREN (3-5 YEARS OLD)"
+msgstr ""
+
 #: page-program.php:383
 msgid "Salvador Dali"
 msgstr "Salvador Dalí"
@@ -815,6 +887,9 @@ msgstr "Sesión 7: 25-29 julio - ¡Juguemos en el Bosque! (Let's Play in the Woo
 msgid "Session 8: August 1-5 - Cocina y Sabores Latinos  (Latin Cooking and Flavors)"
 msgstr "Sesión 8: 1-5 agosto - Cocina y Sabores Latinos  (Latin Cooking and Flavors)"
 
+msgid "Sessions"
+msgstr ""
+
 msgid "Sessions:"
 msgstr "Sesiónes"
 
@@ -832,6 +907,9 @@ msgstr "Egresó de San Jose State University, California con el grado de BA en L
 msgid "Sibling Discount:"
 msgstr "Descuento de Hermano:"
 
+msgid "Singing in Spanish"
+msgstr ""
+
 msgid "Skills, expertise, or aptitude in:"
 msgstr "Habilidad, especialización, o aptitud en:"
 
@@ -847,9 +925,15 @@ msgstr "Meriendas:"
 msgid "Spanish Guitar"
 msgstr "guitarra española"
 
+msgid "Spanish Immersion <span class='nja-green'>Summer</span> Camps"
+msgstr ""
+
 #: page-program.php:118 page.php:114
 msgid "Spanish Immersion Preschool"
 msgstr "Spanish Immersion Preschool"
+
+msgid "Spanish Immersion<span class='nja-green'>Summer</span> Camps"
+msgstr ""
 
 #: page.php:305
 msgid "Spanish is More Than Just a Language"
@@ -966,6 +1050,9 @@ msgstr "En Nuestro Jardín Academy nos enfocamos en educar al niño en su totali
 msgid "This is the time for all moms at Nuestro Jardín to get out and get some ‘me time’ with other moms. At the beginning of each school year, the group will decide on the events for each month (dinner, movie, dancing, working out, book club, etc.)"
 msgstr "Esta es una ocasión para que todas las mamás de Nuestro Jardín puedan tener tiempo para ellas mismas y con otras madres. Al comienzo de cada año escolar, el grupo decidirá en los  eventos a realizar cada mes (cena, película, ir a bailar, hacer ejercicio, club de lectura, etc.)"
 
+msgid "Throughout the summer, children will:"
+msgstr ""
+
 #: page-enrollment.php:41
 msgid "Thursday, February 25th"
 msgstr "Jueves, 25 de febrero"
@@ -1020,12 +1107,18 @@ msgstr "La colegiatura anual se divide en 10 pagos iguales desde septiembre hast
 msgid "Two weeks paid vacation during Winter and Spring breaks"
 msgstr "Dos semanas de vacaciones pagadas durante las vacaciones de invierno y de primavera "
 
+msgid "VISUAL ARTS FOCUS"
+msgstr ""
+
 msgid "Valid Oregon Driver’s License"
 msgstr "Licencia de conducir válida de Oregón"
 
 #: page-program.php:418
 msgid "Visual and Performing Arts - Whole Group and Free Choice/Play"
 msgstr "Artes Visuales y Escénicas- Instrucción al Grupo Entero y Libre Elección/Juego"
+
+msgid "Visual arts focus:"
+msgstr ""
 
 #: page-enrollment.php:138
 msgid "WAIT LIST – How it works:"

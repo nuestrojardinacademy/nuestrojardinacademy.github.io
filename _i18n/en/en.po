@@ -1,19 +1,16 @@
-msgid "$11-$15 per hour depending on education and work experience"
-msgstr ""
-
 msgid "$11-$17 per hour depending on education and work experience"
 msgstr ""
 
-msgid "** Extended care until 5 pm available upon request for an extra $25 fee for the entire week ($20 for the week of July 3-7)"
+msgid "* Flexible Drop-off is available starting at 8:00 am. "
+msgstr ""
+
+msgid "* Full Day: 8:30-4:00"
 msgstr ""
 
 msgid "1 observed holiday in the summer"
 msgstr ""
 
 msgid "1 week off in Spring"
-msgstr ""
-
-msgid "10% Discount for signing up in March"
 msgstr ""
 
 msgid "1st Wednesday of each month"
@@ -31,25 +28,13 @@ msgstr ""
 msgid "3 days (M, W, F)"
 msgstr ""
 
-msgid "3-4 year olds"
-msgstr ""
-
-msgid "3-4 year olds "
-msgstr ""
-
 msgid "3rd Wednesday of each month"
-msgstr ""
-
-msgid "4 days (M-Th/T-F)"
 msgstr ""
 
 msgid "4 days of professional development/planning days before the school year begins"
 msgstr ""
 
 msgid "4 weeks off during the summer."
-msgstr ""
-
-msgid "4-5 year-olds"
 msgstr ""
 
 msgid "5 days"
@@ -62,9 +47,6 @@ msgid "5% credit given if more than one child is enrolled during the same school
 msgstr ""
 
 msgid "5% credit given if tuition is paid in full prior to September 1."
-msgstr ""
-
-msgid "6-7 year-olds"
 msgstr ""
 
 msgid "7 weeks off in a year"
@@ -88,19 +70,13 @@ msgstr ""
 msgid "<span class="nja-green">Our</span> Philosophy"
 msgstr ""
 
-msgid "<span class="nja-green">Summer</span> Camps"
-msgstr ""
-
-msgid "A minimum of one year commitment is required. Both part-time and full-time new hires will be working under a contract."
+msgid "<span class='nja-green'>Summer</span> Camps"
 msgstr ""
 
 msgid "A one year state or nationally recognized credential related to preschool-age care OR"
 msgstr ""
 
 msgid "AA Degree in early childhood education, elementary education, child development, or special education OR"
-msgstr ""
-
-msgid "ADDITIONAL EXPECTATIONS:"
 msgstr ""
 
 msgid "Adhere to personnel policies as outlined in the Employee Handbook."
@@ -115,16 +91,10 @@ msgstr ""
 msgid "And dads could not be forgotten! They, too, will get some ‘me time’ with other Nuestro Jardín’s dads. Similarly to MNO, dads will decide on the events for each month at the beginning of each school year (dinner, movie, working out, book club, game night, etc.)"
 msgstr ""
 
-msgid "Applicant must be bilingual AND be a native Spanish speaker or have native-like fluency/proficiency"
-msgstr ""
-
 msgid "Apply"
 msgstr ""
 
 msgid "Apply Online"
-msgstr ""
-
-msgid "Arrive to work on time; punctually attend and actively participate in all required activities, meetings, and trainings."
 msgstr ""
 
 msgid "Arts & Craft <span style="font-size:10px;">(by Giulian Frisoni)</span>"
@@ -137,9 +107,6 @@ msgid "Assist in designing and maintaining a warm, nurturing, enriched, and chal
 msgstr ""
 
 msgid "Assist in the maintenance of a safe, healthy, and orderly classroom environment."
-msgstr ""
-
-msgid "Assistant Teacher"
 msgstr ""
 
 msgid "Assistant: Qualify under one of the following below:"
@@ -157,28 +124,16 @@ msgstr ""
 msgid "At least two years of experience working with young children and families in a daycare/ preschool program. OR"
 msgstr ""
 
-msgid "Ayesha Franco was born and raised in México City and she has been working with children for over 9 years. She started working with infants for 3 years at a Migrant Head Start, and later on she began gaining experience working with preschoolers. She also worked at Wildwood Nature School teaching Spanish. Ayesha loves to share her language, traditions, music, etc. in other words, her culture, with others, especially with children. She finds it rewarding every time a child gets excited about her culture and wants to learn more about it. "
-msgstr ""
-
-msgid "Be a respectful, cooperative, and reliable team member and participant in program activities."
-msgstr ""
-
 msgid "Be able to read, speak, and write with native-like fluency and proficiency in Spanish."
 msgstr ""
 
 msgid "Be available to substitute for other classes as needed."
 msgstr ""
 
-msgid "Be familiar with, and adhere to, position-related policies and procedures as well as the program’s overarching objectives."
-msgstr ""
-
 msgid "Be responsible and oversee the accomplishment of routine tasks with regard to the health, safety, and well-being of children, and maintain the program in accordance with the requirements of the Oregon Child Care Division."
 msgstr ""
 
 msgid "Before joining Nuestro Jardín, Lisset worked at the Oregon Episcopal School here in Portland and at the Mission Dolores Academy in San Francisco. She is excited to be teaching at our school and is looking forward to meeting the children and parents of our new community."
-msgstr ""
-
-msgid "Before working for the Department of Education in Puerto Rico, she worked on several federal proposals to support students in Puerto Rico. She helped develop innovative strategies to improve students’ academic achievement, such as the Universidad Interamericana’s program to improve academic performance and drop out rates in students who lived in public housing in Puerto Rico."
 msgstr ""
 
 msgid "Bilingual Spanish speaker"
@@ -196,10 +151,7 @@ msgstr ""
 msgid "CONTACT:"
 msgstr ""
 
-msgid "Camps"
-msgstr ""
-
-msgid "Camps run week through week, so you may register for one or all eight weeks of summer camp. No prior Spanish experience required."
+msgid "Camps run week to week, so you may register for one or all eight weeks of summer camp. No prior Spanish experience required."
 msgstr ""
 
 msgid "Ceramics in Mexico date back thousands of years before the Pre-Columbian period, when ceramic arts and pottery crafts developed with the first advanced civilizations and cultures of Mesoamerica. With one exception, pre-Hispanic wares were not glazed, but rather burnished and painted with colored fine clay slips. The potter\'s wheel was unknown as well; pieces were shaped by molding, coiling and other methods."
@@ -217,12 +169,6 @@ msgstr ""
 msgid "Children bring a lunch from home. We encourage parents to prepare healthy lunches that best meet their children’s unique dietary needs."
 msgstr ""
 
-msgid "Children will explore the connections between nature and art through movement, crafts and outdoor play. Natural materials such as seeds, flowers, rocks and sticks will be used to create original works of art that reflect children’s ideas and experiences. The curriculum will emerge based upon shared interests of the children. The goal of the camp is to inspire a love and appreciation for the natural world."
-msgstr ""
-
-msgid "Children will explore ways to connect to our environment and each other through daily walks around our community, movement, arts, crafts, and outdoor play. The outdoors will become a science lab where children will use natural materials to represent their ideas. Each week will be focused on a specific theme, based on shared interests of the children. The goal of the camp is twofold: to instill children's curiosity for the outdoors and to discover their own ways to connect to their environment."
-msgstr ""
-
 msgid "Claudia Contreras-Peters was born and raised in Santiago, Chile, and at an early age, she was interested in (or obsessed with) languages. In 1992, she took a trip to California to “visit her aunt and practice her English.” She made a decision to stay in the United States and attend college in California.  But that trip became the trip of her life, in that those 3 months became 24 years!"
 msgstr ""
 
@@ -235,7 +181,10 @@ msgstr ""
 msgid "Claudia lives in NE Portland with her husband, two sons (one in kindergarten, the other in preschool), and cat, Cuchito."
 msgstr ""
 
-msgid "Commitment:"
+msgid "Clay"
+msgstr ""
+
+msgid "Collage"
 msgstr ""
 
 msgid "Community Night"
@@ -253,9 +202,6 @@ msgstr ""
 msgid "Completion of 20 semester credits or 30 quarter credits of training at a college or university in Early childhood education, child development, elementary education, or special education AND at least one year of experience working with young children and families in a daycare/preschool program."
 msgstr ""
 
-msgid "Confidentiality:"
-msgstr ""
-
 msgid "Create and manage a warm and challenging learning environment for students, incorporating appropriate activities which meet the needs of the group as well as those of individual children and families."
 msgstr ""
 
@@ -271,7 +217,7 @@ msgstr ""
 msgid "Daily Schedule"
 msgstr ""
 
-msgid "Daisy Batiz was born and raised in Ponce, Puerto Rico. Her passion for being an educator started at an early age. In 2011, she obtained a Bachelor’s Degree in Special Education with a focus on Autism from the Universidad Interamericana in Ponce, Puerto Rico.  Daisy has also started her studies to earn her Master’s Degree in Special Education and Mild Disabilities at the Caribbean University at Ponce, PR."
+msgid "Dancing"
 msgstr ""
 
 msgid "Day of the Dead"
@@ -280,19 +226,7 @@ msgstr ""
 msgid "Deposit and Fees:"
 msgstr ""
 
-msgid "Detailed class descriptions"
-msgstr ""
-
-msgid "Director"
-msgstr ""
-
-msgid "Director and Colibríes’ Teacher"
-msgstr ""
-
 msgid "Dismissal (3:00-5:00)"
-msgstr ""
-
-msgid "During her years at San José Unified School District, Claudia worked under the supervision of <a href="http://atdle.org/about-us/meet-the-team/" target="_blank">Dr. Rosa Molina</a> a renowned bilingual and bilingual immersion advocate. Claudia worked at a Professional Development school where she grew fond of collaboration and professional development practices to further her growth as an educator. As a linguist, second language teacher, and second language learner herself, Claudia has a deep understanding of first and second language acquisition and learni"
 msgstr ""
 
 msgid "During her years at San José Unified School District, Claudia worked under the supervision of <a href="http://atdle.org/about-us/meet-the-team/" target="_blank">Dr. Rosa Molina</a> a renowned bilingual and bilingual immersion advocate. Claudia worked at a Professional Development school where she grew fond of collaboration and professional development practices to further her growth as an educator. As a linguist, second language teacher, and second language learner herself, Claudia has a deep understanding of first and second language acquisition and learning."
@@ -310,22 +244,22 @@ msgstr ""
 msgid "Enhancement Class - Mixed-Age Groups"
 msgstr ""
 
-msgid "Enrollment"
-msgstr ""
-
 msgid "Enrollment & <span class="nja-green">Tuition</span>"
 msgstr ""
 
 msgid "Enrollment in Oregon Central Background Registry (can be done right after accepting employment)"
 msgstr ""
 
-msgid "Español"
-msgstr ""
-
 msgid "Everyone strives to build a community, involving students, teachers, and parents."
 msgstr ""
 
-msgid "FULL AND PART TIME SPANISH PRESCHOOL TEACHER (NE Portland)"
+msgid "Explore a rich classroom environment filled with a variety of blocks, loose parts, sensorial tables, and children's literature."
+msgstr ""
+
+msgid "Explore the artistic possibilities of objects found in nature such as branches, flowers, rocks, and shells."
+msgstr ""
+
+msgid "Explore the qualities of fruits and vegetables to print, dye, build, cook, and create art."
 msgstr ""
 
 msgid "FULL-TIME AND PART-TIME SPANISH PRESCHOOL TEACHERS AND ASSISTANTS (NE 16th and Sandy)"
@@ -346,7 +280,7 @@ msgstr ""
 msgid "Food Handlers Card"
 msgstr ""
 
-msgid "For each camp, children will be divided into 3 age groups of 8-10 children each. While the theme is the same for all groups, activities and instruction will cater to each group's individual needs and language levels."
+msgid "For 7 weeks throughout the summer months, we will be offering Spanish Immersion Camps with an emphasis on Visual and Performing Arts. The curriculum and themes will emerge based on shared interests of the children. Children will be exposed to lots of materials found in their natural environment and will be encouraged to create with them!"
 msgstr ""
 
 msgid "Fostering <span class="nja-green">Cultural</span> Awareness"
@@ -364,16 +298,13 @@ msgstr ""
 msgid "Full Day"
 msgstr ""
 
-msgid "Full Day: $250 per week ($200 for July 5-8)"
+msgid "Full Day: 8:30*-4:00"
 msgstr ""
 
-msgid "Full Day: $275 per week ($220 for July 5-8)"
+msgid "Full Day: 8:30-4:00 *"
 msgstr ""
 
-msgid "Full Day: $279 per week ($224 for July 3-7)"
-msgstr ""
-
-msgid "Full Day: 8:30-4:30 **"
+msgid "Full Day: 8:30-4:00 **"
 msgstr ""
 
 msgid "Full-Time: 34-38 hours per week"
@@ -382,22 +313,10 @@ msgstr ""
 msgid "Full-day - 8:00 am to  5:00 pm"
 msgstr ""
 
-msgid "Gorriones and Petirrojos’ Teacher and Substitute Director"
-msgstr ""
-
 msgid "Guelaguetza Celebrations"
 msgstr ""
 
 msgid "Half Day"
-msgstr ""
-
-msgid "Half Day: $160 per week ($127 for July 5-8)"
-msgstr ""
-
-msgid "Half Day: $175 per week ($140 for July 5-8)"
-msgstr ""
-
-msgid "Half Day: $189 per week ($151 for July 3-7)"
 msgstr ""
 
 msgid "Half Day: 8:30-12:30"
@@ -406,7 +325,7 @@ msgstr ""
 msgid "Half-day - 8:00 am to 12:30 pm"
 msgstr ""
 
-msgid "Home"
+msgid "Hours of Operation/Fees:"
 msgstr ""
 
 msgid "Hours of Operation:"
@@ -418,16 +337,13 @@ msgstr ""
 msgid "If you talk to a man in a language he understands, <br> that goes to his head. <br> <span class="color-green">If you talk to him in his language,</span> <br>that goes to his heart."
 msgstr ""
 
+msgid "Improvisation"
+msgstr ""
+
 msgid "Interested applicants, please send a cover letter and resume <strong>indicating clearly whether you are applying for the part-time/full-time position, or teacher/assistant position</strong> to Claudia Contreras-Peters, Director, via e-mail at <a href="mailto:nja.claudia@gmail.com">nja.claudia@gmail.com</a>"
 msgstr ""
 
-msgid "Interested applicants, please send a cover letter and resume indicating clearly which position you are applying for (P/T or F/T) to Claudia Contreras-Peters, Director, via e-mail at <a href="mailto:nja.claudia@gmail.com">nja.claudia@gmail.com</a> or to:"
-msgstr ""
-
 msgid "International Festival (February)"
-msgstr ""
-
-msgid "Interviews will start the week of March 14th, 2016"
 msgstr ""
 
 msgid "It is very important to keep us up to date with changes to contact details (such as email address and phone numbers)."
@@ -440,9 +356,6 @@ msgid "Job <span class="nja-green">Opportunities</span>"
 msgstr ""
 
 msgid "Job Description:"
-msgstr ""
-
-msgid "Jobs"
 msgstr ""
 
 msgid "Kids’ Night Out aka Parents’ Night Out"
@@ -481,7 +394,7 @@ msgstr ""
 msgid "Math/Science- Whole Group and Free Choice/Play"
 msgstr ""
 
-msgid "Medical benefits"
+msgid "Mixed media"
 msgstr ""
 
 msgid "Mom’s Night Out (MNO)"
@@ -505,9 +418,6 @@ msgstr ""
 msgid "Nap/Quiet Time"
 msgstr ""
 
-msgid "New teachers must satisfactorily complete a training program before summer camp sessions and/or the new school year start."
-msgstr ""
-
 msgid "Newly enrolled families- last month’s tuition and a $180.00 one-time registration fee/materials fee (non-refundable)."
 msgstr ""
 
@@ -529,13 +439,13 @@ msgstr ""
 msgid "Nuestro Jardín Academy, a brand new Spanish Immersion preschool, is seeking full-time and part-time Spanish-speaking/bilingual preschool teachers and assistants beginning in August 2016. Our preschool provides a high-quality immersion program with an emergent curriculum, which responds to children’s needs and interests. We believe in making this a unique language and cultural immersion experience for children, and so it’s extremely important that candidates be flexible, show initiative, and be able to adapt to the ever-changing needs of our children."
 msgstr ""
 
-msgid "Nuestro Jardín Academy, a brand new Spanish immersion preschool in Portland, Oregon, is seeking full and part time Spanish-speaking preschool teachers to start up in late spring/beginning of summer 2016. Our preschool provides a high-quality, research-based program that fosters the acquisition of children's first and second language with a focus on developing the whole child. We believe in making this a unique language and cultural immersion experience for children, so we are looking for the perfect candidates to join our team. Our goal is for teachers to work in a fun, supportive, and collaborative environment. Teachers are one of the best assets to our program, so providing high-quality professional development in Spanish will help you become the best teacher you can be."
-msgstr ""
-
 msgid "Nuestro Jardín believes in making this a unique language and cultural immersion experience for children in a preschool setting, where students not only get direct exposure to the language but also to the many different Spanish-speaking cultures in a nurturing, challenging, stimulating, and playful environment."
 msgstr ""
 
 msgid "Nurturing the Whole Child"
+msgstr ""
+
+msgid "Observational Drawing"
 msgstr ""
 
 msgid "Of course children would love to have some fun while their parents get a child-free night out. A movie, crafts, and stories! We can do all these and more during this event. Open to toilet-trained children 3-8 years old. Children are welcome to wear their pajamas. Availability is limited."
@@ -562,22 +472,22 @@ msgstr ""
 msgid "Our Curriculum"
 msgstr ""
 
-msgid "Our Environment and Us – Weeks 5-8"
-msgstr ""
-
 msgid "Our Vision of a <strong class="color-green">TRUE</strong> Spanish Immersion Program"
 msgstr ""
 
 msgid "Our bilingual teachers receive free and high-quality professional development in Spanish."
 msgstr ""
 
-msgid "Our space is under construction, so five informal family-friendly open houses will be held at the home of the Director of Nuestro Jardín. Open houses start at 6pm and last for one hour. Join us to learn what Nuestro Jardín, Spanish Immersion Preschool is all about. Light refreshments will be served."
-msgstr ""
-
 msgid "Outside Play"
 msgstr ""
 
+msgid "PERFORMING ARTS FOCUS"
+msgstr ""
+
 msgid "PREFERRED QUALIFICATIONS (not required but a plus):"
+msgstr ""
+
+msgid "Painting"
 msgstr ""
 
 msgid "Part-Time: 20-30 hours per week"
@@ -586,25 +496,22 @@ msgstr ""
 msgid "Participate in professional development activities and complete continuing education requirements."
 msgstr ""
 
+msgid "Performing arts focus:"
+msgstr ""
+
+msgid "Play outdoor water games."
+msgstr ""
+
 msgid "Playing is Learning Too"
 msgstr ""
 
 msgid "Please note that a 6-9% tuition increase will be assessed each year"
 msgstr ""
 
-msgid "Program"
-msgstr ""
-
-msgid "Program Participation and Team Member:"
-msgstr ""
-
-msgid "Project a professional work image"
+msgid "Printmaking"
 msgstr ""
 
 msgid "Provide and maintain a safe environment."
-msgstr ""
-
-msgid "Qualify under one of the following below:"
 msgstr ""
 
 msgid "RESPONSIBILITIES:"
@@ -616,9 +523,6 @@ msgstr ""
 msgid "Research has also shown that students in a 90:10 immersion program develop higher levels of bilingualism,  biliteracy, and cognitive skills when compared with English-only proficient students participating in other educational programs. Another benefit of students being in a dual immersion program is that they will develop very positive attitudes about students of other language and cultural backgrounds, and positive attitudes toward themselves as learners.  Consult the  <a href="http://www.cal.org/twi/" target="_blank">Center for Applied Linguistics</a> for specific research studies."
 msgstr ""
 
-msgid "Respect and maintain confidentiality of information regarding enrolled children and families, personnel issues, and other program operations as appropriate."
-msgstr ""
-
 msgid "Responsible for the overall supervision, planning, and management of a Spanish immersion preschool class:"
 msgstr ""
 
@@ -628,46 +532,22 @@ msgstr ""
 msgid "Run for part of June, July, and part of August."
 msgstr ""
 
+msgid "SUMMER CAMPS AT NUESTRO JARDÍN ARE FOR PRESCHOOL-AGED CHILDREN (3-5 YEARS OLD)"
+msgstr ""
+
 msgid "Salvador Dali"
 msgstr ""
 
-msgid "Session 1: June 13-17 - El Regreso de los Dinosaurios (Return of the Dinosaurs)"
-msgstr ""
-
-msgid "Session 2: June 20-24 - ¡Bichos, Bichos y más Bichos! (Bugs, Bugs, and more Bugs!)"
-msgstr ""
-
-msgid "Session 3: June 27- July 1 - Pintores españoles y latinoamericanos (Spanish and Latin American Painters"
-msgstr ""
-
-msgid "Session 4: July 5-8 (No camp July 4th) - ¡Ciencia Loca! (Mad Science!)"
-msgstr ""
-
-msgid "Session 5: July 11-15 - Música y Bailes de Latinoamérica: Explorando la Percusión y el Ritmo Latino (Music and Dances from Latin America: Exploring Percussion and Latin Rhythm)"
-msgstr ""
-
-msgid "Session 6: July 18-22 - Inventores, Creadores y Constructores (Inventors, Creators, and Builders)"
-msgstr ""
-
-msgid "Session 7: July 25-29 - ¡Juguemos en el Bosque! (Let's Play in the Woods!)"
-msgstr ""
-
-msgid "Session 8: August 1-5 - Cocina y Sabores Latinos  (Latin Cooking and Flavors)"
-msgstr ""
-
-msgid "Sessions:"
-msgstr ""
-
-msgid "She is happy to work at Nuestro Jardín Academy not just because she can speak her first language, but because she strongly believes that this kind of school gives children the opportunity not only to become bilingual but more importantly, to open their minds and hearts to other cultures.  By learning about other cultures, children can appreciate the diversity of this colorful country."
-msgstr ""
-
-msgid "She is very happy to be part of Nuestro Jardín, as it will provide her with an enriching experience in a Spanish immersion program."
+msgid "Sessions"
 msgstr ""
 
 msgid "She received a BA degree in Linguistics with a minor in Spanish and a TESOL (teaching English to Speakers of Other Languages) Certificate from San Jose State University. Later, she obtained her Teaching Credential from The National Hispanic University. Once in Oregon, she received a Master’s Degree in TESOL from Portland State University and also obtained her Oregon Teaching License."
 msgstr ""
 
 msgid "Sibling Discount:"
+msgstr ""
+
+msgid "Singing in Spanish"
 msgstr ""
 
 msgid "Skills, expertise, or aptitude in:"
@@ -682,25 +562,19 @@ msgstr ""
 msgid "Spanish Guitar"
 msgstr ""
 
+msgid "Spanish Immersion <span class='nja-green'>Summer</span> Camps"
+msgstr ""
+
 msgid "Spanish Immersion Preschool"
+msgstr ""
+
+msgid "Spanish Immersion<span class='nja-green'>Summer</span> Camps"
 msgstr ""
 
 msgid "Spanish is More Than Just a Language"
 msgstr ""
 
 msgid "Spanish is more than just a language"
-msgstr ""
-
-msgid "Special 10% Discount for signing up in March"
-msgstr ""
-
-msgid "Special 10% Discount for signing up in March:"
-msgstr ""
-
-msgid "Special Discount for signing up for 4 weeks or more:"
-msgstr ""
-
-msgid "Special Discount for signing up in March:"
 msgstr ""
 
 msgid "Spring Festival (April)"
@@ -710,9 +584,6 @@ msgid "Standards set the basis for what children should know and be able to do b
 msgstr ""
 
 msgid "Summer Camp Fees:"
-msgstr ""
-
-msgid "Summer Camps_2016.pdf"
 msgstr ""
 
 msgid "Summer Festival (End of Year Celebration- June)"
@@ -739,9 +610,6 @@ msgstr ""
 msgid "Teachers focus on children’s Spanish production to ensure students make actual progress in the <a href="http://www.colorincolorado.org/article/language-acquisition-overview" target="_blank">stages of second language acquisition</a> from the pre-production stage or “silent period” to early production and then to becoming speech emergent."
 msgstr ""
 
-msgid "Teacher’s Assistant"
-msgstr ""
-
 msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! We are excited to be accepting applications now for the 2017-2018 school year starting this fall."
 msgstr ""
 
@@ -755,9 +623,6 @@ msgid "The Gift of a Second Language"
 msgstr ""
 
 msgid "The Guelaguetza, or Los lunes del cerro (Mondays on the Hill) is an annual indigenous cultural event in Mexico that takes place in the city of Oaxaca, capital of the state of Oaxaca, as well as in nearby villages. The celebration centers on traditional dancing in costume in groups, often gender-separated groups, as is traditional, and includes parades complete with indigenous walking bands, native food, and statewide artisanal crafts such as prehispanic-style textiles. Each costume (traje) and dance usually has a local indigenous historical and cultural meaning. Although the celebration is now an important tourist attraction, it also retains deep cultural importance for the peoples of the state and is important for the continuing survival of these cultures."
-msgstr ""
-
-msgid "The Wonders of Nature – Weeks 1-4"
 msgstr ""
 
 msgid "The following are also required for employment and must be obtained within 90 days after accepting the position."
@@ -775,19 +640,10 @@ msgstr ""
 msgid "This is the time for all moms at Nuestro Jardín to get out and get some ‘me time’ with other moms. At the beginning of each school year, the group will decide on the events for each month (dinner, movie, dancing, working out, book club, etc.)"
 msgstr ""
 
-msgid "Thursday, February 25th"
-msgstr ""
-
-msgid "Thursday, February 4th"
-msgstr ""
-
-msgid "To RSVP and get directions to the Director’s home, please send us an email (<a href="mailto:nja.contact@gmail.com?subject=Open House">nja.contact@gmail.com</a>). Please write “Open House” on the subject line and include your name and a phone number you can be contacted at. Hope to see you there!"
+msgid "Throughout the summer, children will:"
 msgstr ""
 
 msgid "Toggle navigation"
-msgstr ""
-
-msgid "Training:"
 msgstr ""
 
 msgid "Transition"
@@ -799,15 +655,6 @@ msgstr ""
 msgid "Transition to Same-Age Groups"
 msgstr ""
 
-msgid "Tuesday, February 16th"
-msgstr ""
-
-msgid "Tuesday, March 8th"
-msgstr ""
-
-msgid "Tuition discount for any children attending Nuestro Jardín Academy"
-msgstr ""
-
 msgid "Tuition discount for children attending Nuestro Jardín Academy"
 msgstr ""
 
@@ -817,10 +664,13 @@ msgstr ""
 msgid "Two weeks paid vacation during Winter and Spring breaks"
 msgstr ""
 
-msgid "Valid Oregon Driver’s License"
+msgid "VISUAL ARTS FOCUS"
 msgstr ""
 
 msgid "Visual and Performing Arts - Whole Group and Free Choice/Play"
+msgstr ""
+
+msgid "Visual arts focus:"
 msgstr ""
 
 msgid "WAIT LIST – How it works:"
@@ -830,12 +680,6 @@ msgid "We also help children understand who they are in the context of their rac
 msgstr ""
 
 msgid "We do not charge a fee for families to get in our wait list. Interested families just need to fill out a wait list application. Your child’s place is determined by the date we receive your wait list form. However, siblings of children currently enrolled or who have been enrolled  in our school in the past are given priority. Families are notified via phone and email when a space is available for their child. Parents will have 48 hours to notify us of their decision, complete the enrollment forms, and pay the deposit and fees. We will regularly assess openings available and use the wait list to inform families when availability exists."
-msgstr ""
-
-msgid "We promise a fun-filled summer camp adventure for children 3 to 5 years old while learning Spanish. Offered for 8 weeks throughout the summer months, we will be offering weekly camps in which children will be able to connect with the outdoors and environment they are surrounded by. Our themes will revolve around science, art, and movement within nature and the environment while learning Spanish!"
-msgstr ""
-
-msgid "We promise a fun-filled summer camp adventure for children 3 to 7 years old while learning Spanish. Offered for 8 weeks throughout the summer months, we will be offering weekly camps that will have your children singing and dancing, playing, doing arts and crafts, cooking, exploring, and learning about Latin American and Spanish cultures while learning Spanish. No prior Spanish experience required."
 msgstr ""
 
 msgid "We provide two healthy natural or organic snacks to children daily."
@@ -850,9 +694,6 @@ msgstr ""
 msgid "We take pride in our diverse community and we encourage our families to share their culture and heritage in the classroom."
 msgstr ""
 
-msgid "Wednesday, March 16th"
-msgstr ""
-
 msgid "Welcome to <span class="nja-green">Nuestro</span> Jardín"
 msgstr ""
 
@@ -865,12 +706,6 @@ msgstr ""
 msgid "With these theories and students’ learning styles in mind, the teachers at Nuestro Jardín use diverse teaching methodologies, integrating direct, inquiry-based instruction, and cooperative learning into everyday lessons. In addition, all activities throughout the day are geared to our diverse learners, and we make sure that all students’ learning styles are met (<a href="http://www.tecweb.org/styles/gardner.html">http://www.tecweb.org/styles/gardner.html</a>)."
 msgstr ""
 
-msgid "Yelenis is a school psychologist from Cuba. She has a BA in Education and a MA in School Psychology from Universidad Pedagógica de Santiago de Cuba. Yelenis has over 21 years of experience working with children and university students. She is a talented singer and a fabulous cook and a great salsa dancer. Yelenis compassion for children and beautiful smile are a wonderful addition to Nuestro Jardín’s team."
-msgstr ""
-
-msgid "You may choose up to 8 camps for full, half day, or a combination of both throughout the summer."
-msgstr ""
-
 msgid "days"
 msgstr ""
 
@@ -881,7 +716,4 @@ msgid "the performing arts (dance, music, drama)"
 msgstr ""
 
 msgid "the visual arts"
-msgstr ""
-
-msgid "{staff.position}"
 msgstr ""
