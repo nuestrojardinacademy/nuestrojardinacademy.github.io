@@ -73,7 +73,13 @@ msgstr ""
 msgid "<span class='nja-green'>Summer</span> Camps"
 msgstr ""
 
+msgid "A culturally diverse and inclusive environment that respects the unique qualities and beliefs of children, families, and teachers are essential in helping children develop confidence, acceptance, and lifelong habits of the mind"
+msgstr ""
+
 msgid "A one year state or nationally recognized credential related to preschool-age care OR"
+msgstr ""
+
+msgid "A rich learning environment is formed in collaboration with children, families, teachers, and the school community."
 msgstr ""
 
 msgid "AA Degree in early childhood education, elementary education, child development, or special education OR"
@@ -178,10 +184,22 @@ msgstr ""
 msgid "Children are <strong>engaged</strong> with stories about local customs, dances, songs and art."
 msgstr ""
 
+msgid "Children are able to construct their own learning, driven by their own interests."
+msgstr ""
+
+msgid "Children are able to construct their own learning, driven by their own interests...<span class="more-link">(more)</span>"
+msgstr ""
+
 msgid "Children benefit from our well thought-out, research-based, integrated, and multi-culturally rich program."
 msgstr ""
 
 msgid "Children bring a lunch from home. We encourage parents to prepare healthy lunches that best meet their children’s unique dietary needs."
+msgstr ""
+
+msgid "Children deserve a loving and secure environment, one that promotes a sense of wonder and discovery in learning, one that inspires them."
+msgstr ""
+
+msgid "Children deserve a loving and secure environment, one that promotes a sense of wonder and discovery in learning, one that inspires them...<span class="more-link">(more)</span>"
 msgstr ""
 
 msgid "Claudia Contreras-Peters was born and raised in Santiago, Chile, and at an early age, she was interested in (or obsessed with) languages. In 1992, she took a trip to California to “visit her aunt and practice her English.” She made a decision to stay in the United States and attend college in California.  But that trip became the trip of her life, in that those 3 months became 24 years!"
@@ -215,6 +233,9 @@ msgid "Completion of 20 credits (semester system) or 30 credits (quarter system)
 msgstr ""
 
 msgid "Completion of 20 semester credits or 30 quarter credits of training at a college or university in Early childhood education, child development, elementary education, or special education AND at least one year of experience working with young children and families in a daycare/preschool program."
+msgstr ""
+
+msgid "Core Set Of Beliefs"
 msgstr ""
 
 msgid "Create and manage a warm and challenging learning environment for students, incorporating appropriate activities which meet the needs of the group as well as those of individual children and families."
@@ -385,6 +406,9 @@ msgstr ""
 msgid "Learn More"
 msgstr ""
 
+msgid "Learning (and second language learning) happens when children form warm relationships with teachers, peers, and their environment through interactions with materials, books, music, games, movement, and ideas."
+msgstr ""
+
 msgid "Learning and understanding the <span>culture</span> behind the language can make learning fun. We engage the children with activities centered around customs, dances, songs and art."
 msgstr ""
 
@@ -463,9 +487,6 @@ msgstr ""
 msgid "Nuestro Jardín believes in making this a unique language and cultural immersion experience for children in a preschool setting, where students not only get direct exposure to the language but also to the many different Spanish-speaking cultures in a nurturing, challenging, stimulating, and playful environment."
 msgstr ""
 
-msgid "Nurturing the Whole Child"
-msgstr ""
-
 msgid "Observational Drawing"
 msgstr ""
 
@@ -493,9 +514,6 @@ msgstr ""
 msgid "Our <span class="nja-green">Teachers</span>"
 msgstr ""
 
-msgid "Our Curriculum"
-msgstr ""
-
 msgid "Our Vision of a <strong class="color-green">TRUE</strong> Spanish Immersion Program"
 msgstr ""
 
@@ -506,6 +524,9 @@ msgid "Our mission is to instill in children a true love of learning through exp
 msgstr ""
 
 msgid "Our mission is to instill in children a true love of learning through exploration, discovery, and inquiry in ways that promote Spanish language acquisition and learning."
+msgstr ""
+
+msgid "Our role as teachers is to mentor and guide them, to observe and listen to their questions, stories, and ideas, to find what interests them and then provide opportunities for exploration and further investigation."
 msgstr ""
 
 msgid "Outside Play"
@@ -557,6 +578,9 @@ msgid "Responsible for the overall supervision, planning, and management of a Sp
 msgstr ""
 
 msgid "Returning families - $90 annual materials fee due at the time of re-enrollment in March."
+msgstr ""
+
+msgid "Role of the Teacher"
 msgstr ""
 
 msgid "Run for part of June, July, and part of August."
@@ -658,6 +682,9 @@ msgstr ""
 msgid "The Immersion Model"
 msgstr ""
 
+msgid "The child is a strong, intelligent, and creative individual with unique qualities."
+msgstr ""
+
 msgid "The following are also required for employment and must be obtained within 90 days after accepting the position."
 msgstr ""
 
@@ -671,6 +698,9 @@ msgid "The whole child approach taken by Nuestro Jardín Academy ensures that ea
 msgstr ""
 
 msgid "This is the time for all moms at Nuestro Jardín to get out and get some ‘me time’ with other moms. At the beginning of each school year, the group will decide on the events for each month (dinner, movie, dancing, working out, book club, etc.)"
+msgstr ""
+
+msgid "Through interactions with others, children form an understanding of themselves, the world, and their place in it."
 msgstr ""
 
 msgid "Throughout the summer, children will:"

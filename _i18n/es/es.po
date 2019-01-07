@@ -121,10 +121,16 @@ msgstr "<span class=\"nja-green\">Puertas</span> Abiertas"
 msgid "<span class=\"nja-green\">Our</span> Philosophy"
 msgstr "<span class=\"nja-green\">Nuestra</span> Filosofía"
 
+msgid "A culturally diverse and inclusive environment that respects the unique qualities and beliefs of children, families, and teachers are essential in helping children develop confidence, acceptance, and lifelong habits of the mind"
+msgstr ""
+
 msgid "A minimum of one year commitment is required. Both part-time and full-time new hires will be working under a contract."
 msgstr "Se pide un compromiso mínimo de un año. Todo empleado, ya sea de tiempo completo o medio tiempo, estará bajo contrato."
 
 msgid "A one year state or nationally recognized credential related to preschool-age care OR"
+msgstr ""
+
+msgid "A rich learning environment is formed in collaboration with children, families, teachers, and the school community."
 msgstr ""
 
 msgid "AA Degree in early childhood education, elementary education, child development, or special education OR"
@@ -276,6 +282,12 @@ msgstr "Los niños participan activamente en la clase. "
 msgid "Children are <strong>engaged</strong> with stories about local customs, dances, songs and art."
 msgstr "Planificamos actividades para los niños <strong> centradas </strong> en costumbres, bailes, canciones y arte de los países hispanohablantes."
 
+msgid "Children are able to construct their own learning, driven by their own interests."
+msgstr ""
+
+msgid "Children are able to construct their own learning, driven by their own interests...<span class="more-link">(more)</span>"
+msgstr ""
+
 #: page.php:261
 msgid "Children benefit from our well thought-out, research-based, integrated, and multi-culturally rich program."
 msgstr "Los niños se benefician de nuestro programa bien planteado, basado en investigaciones, integrado y multi-cultural."
@@ -283,6 +295,12 @@ msgstr "Los niños se benefician de nuestro programa bien planteado, basado en i
 #: page-program.php:478
 msgid "Children bring a lunch from home. We encourage parents to prepare healthy lunches that best meet their children’s unique dietary needs."
 msgstr "Cada niño trae almuerzo de su casa. Animamos a los padres a prepararles a sus hijos un almuerzo saludable que cumpla con sus necesidades dietéticas."
+
+msgid "Children deserve a loving and secure environment, one that promotes a sense of wonder and discovery in learning, one that inspires them."
+msgstr ""
+
+msgid "Children deserve a loving and secure environment, one that promotes a sense of wonder and discovery in learning, one that inspires them...<span class="more-link">(more)</span>"
+msgstr ""
 
 msgid "Children will explore the connections between nature and art through movement, crafts and outdoor play. Natural materials such as seeds, flowers, rocks and sticks will be used to create original works of art that reflect children’s ideas and experiences. The curriculum will emerge based upon shared interests of the children. The goal of the camp is to inspire a love and appreciation for the natural world."
 msgstr ""
@@ -338,6 +356,9 @@ msgstr "Confidencialidad:"
 #, php-format
 msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
 msgstr "Continuar leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "Core Set Of Beliefs"
+msgstr ""
 
 msgid "Create and manage a warm and challenging learning environment for students, incorporating appropriate activities which meet the needs of the group as well as those of individual children and families."
 msgstr "Crear y manejar un ambiente de aprendizaje acogedor y desafiante para los estudiantes, incorporando actividades apropiadas y atendiendo a las necesidades de la clase, de cada niño, y de cada familia. "
@@ -618,6 +639,9 @@ msgstr "Último viernes de cada mes (excepto en noviembre & diciembre)"
 msgid "Learn More"
 msgstr "Más Información"
 
+msgid "Learning (and second language learning) happens when children form warm relationships with teachers, peers, and their environment through interactions with materials, books, music, games, movement, and ideas."
+msgstr ""
+
 #: page.php:307
 msgid "Learning and understanding the <span>culture</span> behind the language can make learning fun. We engage the children with activities centered around customs, dances, songs and art."
 msgstr "El poder entender y aprender acerca de la <span> cultura </span> que hay detrás de un idioma hace el aprendizaje más ameno y divertido. Planificamos actividades para los niños centradas en costumbres, bailes, canciones y arte de los países hispanohablantes."
@@ -772,10 +796,6 @@ msgstr "¡Gran Apertura: Verano 2016!"
 msgid "Our <span class="nja-green">Teachers</span>"
 msgstr ""
 
-#: page-program.php:233 page.php:245
-msgid "Our Curriculum"
-msgstr "Nuestro Currículo"
-
 msgid "Our Environment and Us – Weeks 5-8"
 msgstr ""
 
@@ -798,6 +818,9 @@ msgid "Our mission is to instill in children a true love of learning through exp
 msgstr ""
 
 msgid "Our mission is to instill in children a true love of learning through exploration, discovery, and inquiry in ways that promote Spanish language acquisition and learning."
+msgstr ""
+
+msgid "Our role as teachers is to mentor and guide them, to observe and listen to their questions, stories, and ideas, to find what interests them and then provide opportunities for exploration and further investigation."
 msgstr ""
 
 #: page-enrollment.php:34
@@ -882,6 +905,10 @@ msgstr "Responsable por la supervisión general, la planificación, y el manejo 
 #: page-enrollment.php:113
 msgid "Returning families - $90 annual materials fee due at the time of re-enrollment in March."
 msgstr "Familias que regresan - cargo para materiales de $90 que debe ser pagado al momento de las reinscripciones en marzo. "
+
+#: page-program.php:233 page.php:245
+msgid "Role of the Teacher"
+msgstr "Función del Maestro"
 
 msgid "Run for part of June, July, and part of August."
 msgstr "Ofrecido durante parte de junio, en julio y parte de agosto "
@@ -1062,6 +1089,9 @@ msgstr ""
 msgid "The Wonders of Nature – Weeks 1-4"
 msgstr ""
 
+msgid "The child is a strong, intelligent, and creative individual with unique qualities."
+msgstr ""
+
 msgid "The following are also required for employment and must be obtained within 90 days after accepting the position."
 msgstr "Cumplir también con los siguientes requisitos, los cuales pueden ser obtenidos dentro de 90 días después de haber aceptado empleo. "
 
@@ -1082,6 +1112,9 @@ msgstr "En Nuestro Jardín Academy nos enfocamos en educar al niño en su totali
 #: page-program.php:495
 msgid "This is the time for all moms at Nuestro Jardín to get out and get some ‘me time’ with other moms. At the beginning of each school year, the group will decide on the events for each month (dinner, movie, dancing, working out, book club, etc.)"
 msgstr "Esta es una ocasión para que todas las mamás de Nuestro Jardín puedan tener tiempo para ellas mismas y con otras madres. Al comienzo de cada año escolar, el grupo decidirá en los  eventos a realizar cada mes (cena, película, ir a bailar, hacer ejercicio, club de lectura, etc.)"
+
+msgid "Through interactions with others, children form an understanding of themselves, the world, and their place in it."
+msgstr ""
 
 msgid "Throughout the summer, children will:"
 msgstr ""
