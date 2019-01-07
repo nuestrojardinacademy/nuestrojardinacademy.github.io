@@ -4,7 +4,7 @@ links: [
     {href: 'program/', text: 'program'}, 
     {href: 'enrollment/', text: 'enrollment'}, 
     {href: 'staff/', text: 'teachers'}, 
-    {href: 'camps/', text: 'camps'}, 
+    #{href: 'camps/', text: 'camps'}, 
     #{href: 'jobs/', text: 'jobs'}, 
     {href: '', text: 'español'}
 ]
@@ -14,13 +14,13 @@ links_es: [
     {href: 'program/', text: 'programa'}, 
     {href: 'enrollment/', text: 'admisión'}, 
     {href: 'staff/', text: 'maestros'}, 
-    {href: 'camps/', text: 'campamentos'}, 
+    #{href: 'camps/', text: 'campamentos'}, 
     #{href: 'jobs/', text: 'empleos'}, 
     {href: '', text: 'english'}
 ]
 staff_pages: [{
         name: 'Claudia Contreras Peters', 
-        position: 'Director and Colibríes’ Teacher',
+        position: 'Director',
         image: 'claudia_contreras_w_kids.jpg', 
         bio: 'staff/claudia_contreras.html'
     },{
@@ -29,24 +29,14 @@ staff_pages: [{
         image: 'lisset_oneill.jpg', 
         bio: 'staff/lisset_oneill.html'
     },{
+        name: 'Gilberto Rios', 
+        position: 'Colibries Teacher ',
+        image: 'gilberto_rios.png', 
+        bio: 'staff/gilberto_rios.html'
+    },{
         name: 'Erica Ryan', 
-        position: 'Assistant Teacher ',
+        position: 'Substitute Teacher ',
         image: 'erica_ryan_crop (1).jpg', 
         bio: 'staff/erica_ryan.html'
-    },{
-        name: 'Berenice Galicia', 
-        position: 'Colibríes Co-Teacher',
-        image: 'berenice_galicia_crop.jpg', 
-        bio: 'staff/berenice_galicia.html'
-    },{
-        name: 'Laura Willets', 
-        position: 'Colibríes Co-Teacher',
-        image: 'laura_willets_crop.jpg', 
-        bio: 'staff/laura_willets.html'
-    },{
-        name: 'Camila Pérez Araya', 
-        position: 'Afternoon Teacher',
-        image: 'camila_perez_crop.jpg', 
-        bio: 'staff/camila_perez.html'
     }
 ]
