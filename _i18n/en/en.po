@@ -115,7 +115,7 @@ msgstr ""
 msgid "At Nuestro Jardín Academy:"
 msgstr ""
 
-msgid "At Nuestro Jardín, children are immersed in Spanish about 90% of the day. Our communicative approach encourages children to be speaking social Spanish from the very first day of school. In addition, the use of our environment (the 3rd teacher) and how children interact with materials, books, teachers, and peers fosters Spanish acquisition and learning. Spanish is learned through music, games, movement, and with the exchange of children's ideas."
+msgid "At Nuestro Jardín, children are immersed in Spanish about 90% of the day. Our communicative approach encourages children to be speaking social Spanish from the very first day of school. In addition, the use of our environment (the 3rd teacher) and how children interact with materials, books, teachers, and peers foster Spanish acquisition and learning. Spanish is learned through music, games, movement, and with the exchange of children's ideas."
 msgstr ""
 
 msgid "At Nuestro Jardín, children are immersed in Spanish about 90% of the day. Our communicative approach encourages children to be speaking social Spanish from the very first day of school... <span class="more-link">(more)</span>"
