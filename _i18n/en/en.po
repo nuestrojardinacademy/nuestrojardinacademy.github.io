@@ -115,7 +115,13 @@ msgstr ""
 msgid "At Nuestro Jardín Academy:"
 msgstr ""
 
-msgid "At Nuestro Jardín, we believe in the importance of raising cultural awareness in students, teaching diversity, and growing responsible global citizens. We help children understand, embrace, and respect differences and similarities among those in our community. To this end, we integrate culturally-rich activities in our every-day curriculum, and two Fridays per month, we celebrate Día del Patrimonio (Cultural Heritage Day) by immersing ourselves in a culture from a country or region around the world."
+msgid "At Nuestro Jardín, children are immersed in Spanish about 90% of the day. Our communicative approach encourages children to be speaking social Spanish from the very first day of school. In addition, the use of our environment (the 3rd teacher) and how children interact with materials, books, teachers, and peers fosters Spanish acquisition and learning. Spanish is learned through music, games, movement, and with the exchange of children's ideas."
+msgstr ""
+
+msgid "At Nuestro Jardín, children are immersed in Spanish about 90% of the day. Our communicative approach encourages children to be speaking social Spanish from the very first day of school... <span class="more-link">(more)</span>"
+msgstr ""
+
+msgid "At Nuestro Jardín, we believe in the importance of raising cultural awareness in students, teaching diversity, and growing responsible global citizens. We help children understand, embrace, and respect differences and similarities among those in our community."
 msgstr ""
 
 msgid "At least one year of qualifying teaching experience, with at least one year as a teacher, in a Certified Child Care Center or comparable group care program, in the care of preschool-age children"
@@ -626,6 +632,9 @@ msgid "The Gift of a Second Language"
 msgstr ""
 
 msgid "The Guelaguetza, or Los lunes del cerro (Mondays on the Hill) is an annual indigenous cultural event in Mexico that takes place in the city of Oaxaca, capital of the state of Oaxaca, as well as in nearby villages. The celebration centers on traditional dancing in costume in groups, often gender-separated groups, as is traditional, and includes parades complete with indigenous walking bands, native food, and statewide artisanal crafts such as prehispanic-style textiles. Each costume (traje) and dance usually has a local indigenous historical and cultural meaning. Although the celebration is now an important tourist attraction, it also retains deep cultural importance for the peoples of the state and is important for the continuing survival of these cultures."
+msgstr ""
+
+msgid "The Immersion Model"
 msgstr ""
 
 msgid "The following are also required for employment and must be obtained within 90 days after accepting the position."

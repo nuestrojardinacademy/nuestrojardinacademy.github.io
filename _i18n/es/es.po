@@ -187,9 +187,15 @@ msgstr ""
 msgid "At Nuestro Jardín Academy:"
 msgstr "En Nuestro Jardín Academy:"
 
+msgid "At Nuestro Jardín, children are immersed in Spanish about 90% of the day. Our communicative approach encourages children to be speaking social Spanish from the very first day of school. In addition, the use of our environment (the 3rd teacher) and how children interact with materials, books, teachers, and peers fosters Spanish acquisition and learning. Spanish is learned through music, games, movement, and with the exchange of children's ideas."
+msgstr ""
+
+msgid "At Nuestro Jardín, children are immersed in Spanish about 90% of the day. Our communicative approach encourages children to be speaking social Spanish from the very first day of school... <span class="more-link">(more)</span>"
+msgstr ""
+
 #: page-program.php:249
-msgid "At Nuestro Jardín, we believe in the importance of raising cultural awareness in students, teaching diversity, and growing responsible global citizens. We help children understand, embrace, and respect differences and similarities among those in our community. To this end, we integrate culturally-rich activities in our every-day curriculum, and two Fridays per month, we celebrate Día del Patrimonio (Cultural Heritage Day) by immersing ourselves in a culture from a country or region around the world."
-msgstr "En Nuestro Jardín, creemos en la importancia de fomentar la conciencia cultural en los niños, de enseñar el concepto de diversidad y de crear ciudadanos globales responsables. Ayudamos a lo niños a entender, aceptar y respetar las diferencias y similitudes entre todos en nuestra comunidad. Con este propósito, integramos en nuestro currículo actividades que sean culturalmente ricas y durante dos viernes por mes, celebramos el Día del Patrimonio (Cultural Heritage Day). Ese día, nos sumergimos completamente en una cultura de un país o región del mundo."
+msgid "At Nuestro Jardín, we believe in the importance of raising cultural awareness in students, teaching diversity, and growing responsible global citizens. We help children understand, embrace, and respect differences and similarities among those in our community."
+msgstr "En Nuestro Jardín, creemos en la importancia de fomentar la conciencia cultural en los niños, de enseñar el concepto de diversidad y de crear ciudadanos globales responsables. Ayudamos a lo niños a entender, aceptar y respetar las diferencias y similitudes entre todos en nuestra comunidad."
 
 msgid "At least one year of qualifying teaching experience, with at least one year as a teacher, in a Certified Child Care Center or comparable group care program, in the care of preschool-age children"
 msgstr ""
@@ -1028,6 +1034,9 @@ msgstr "El Regalo de un Segundo Idioma"
 #: page-program.php:324
 msgid "The Guelaguetza, or Los lunes del cerro (Mondays on the Hill) is an annual indigenous cultural event in Mexico that takes place in the city of Oaxaca, capital of the state of Oaxaca, as well as in nearby villages. The celebration centers on traditional dancing in costume in groups, often gender-separated groups, as is traditional, and includes parades complete with indigenous walking bands, native food, and statewide artisanal crafts such as prehispanic-style textiles. Each costume (traje) and dance usually has a local indigenous historical and cultural meaning. Although the celebration is now an important tourist attraction, it also retains deep cultural importance for the peoples of the state and is important for the continuing survival of these cultures."
 msgstr "La Guelaguetza es una celebración que tiene lugar en la ciudad de Oaxaca de Juárez. La Guelaguetza forma parte de los cultos populares a la Virgen del Carmen, razón por la que se celebra los dos lunes más cercanos a la festividad católica de esta advocación Mariana (el 16 de julio). Otro nombre con que se conoce la Guelaguetza es el de “Los lunes del Cerro”, puesto que el corazón de la festividad es el cerro del Fortín, que domina el centro de la ciudad de Oaxaca. La palabra “guelaguetza” deriva del zapoteco guendalizaá, que significa “cooperar”, pero en su concepción más amplia es una actitud, una cualidad con la que se nace, un sentimiento por medio del cual el zapoteca ama a su prójimo, un sentimiento de hermandad, de compartir la naturaleza y la vida. En esta celebración participan grupos folclóricos de las ocho regiones del estado: La Costa, Cañada, Tuxtepec, Mixteca, Sierra Sur, Sierra Norte, Valles Centrales e Istmo."
+
+msgid "The Immersion Model"
+msgstr ""
 
 msgid "The Wonders of Nature – Weeks 1-4"
 msgstr ""
