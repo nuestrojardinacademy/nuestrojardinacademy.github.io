@@ -124,6 +124,15 @@ msgstr ""
 msgid "At Nuestro Jardín, we believe in the importance of raising cultural awareness in students, teaching diversity, and growing responsible global citizens. We help children understand, embrace, and respect differences and similarities among those in our community."
 msgstr ""
 
+msgid "At Nuestro Jardín, we follow children's interest, and we encourage their natural curiosity and creativity to be expressed in many ways, such as through art, music, movement, and language"
+msgstr ""
+
+msgid "At Nuestro Jardín, we follow children's interests, and we encourage their natural curiosity and creativity to be expressed in many ways, such as through art, music, movement, and language"
+msgstr ""
+
+msgid "At Nuestro Jardín, we follow children's interests, and we encourage their natural curiosity and creativity to be expressed in many ways, such as through art, music, movement, and language."
+msgstr ""
+
 msgid "At least one year of qualifying teaching experience, with at least one year as a teacher, in a Certified Child Care Center or comparable group care program, in the care of preschool-age children"
 msgstr ""
 
@@ -433,6 +442,12 @@ msgstr ""
 msgid "Nuestro Jardín Academy developed its very own curriculum to challenge and inspire preschool-aged children. It strives to balance academics with creative expression and play. Children are exposed to Spanish in the context of learning about relevant daily activities, nature, art, the alphabet, numbers, culture, and more. <span class="more-link">(more)</span>"
 msgstr ""
 
+msgid "Nuestro Jardín Academy is a Spanish immersion, Reggio Emilia inspired preschool for children 3 to 5 years old."
+msgstr ""
+
+msgid "Nuestro Jardín Academy is a Spanish immersion, Reggio Emilia inspired preschool for children 3 to 5 years old.  At Nuestro Jardín, we follow children's interest, and we encourage their natural curiosity and creativity to be expressed in many modalities, language being one of them"
+msgstr ""
+
 msgid "Nuestro Jardín Academy is a new Spanish immersion preschool in Portland, OR, offering a high-quality program that fosters first and second language acquisition."
 msgstr ""
 
@@ -485,6 +500,12 @@ msgid "Our Vision of a <strong class="color-green">TRUE</strong> Spanish Immersi
 msgstr ""
 
 msgid "Our bilingual teachers receive free and high-quality professional development in Spanish."
+msgstr ""
+
+msgid "Our mission is to instill in children a true love of learning through exploration, discovery, and inquiry in ways that promote Spanish language acquisition and learning"
+msgstr ""
+
+msgid "Our mission is to instill in children a true love of learning through exploration, discovery, and inquiry in ways that promote Spanish language acquisition and learning."
 msgstr ""
 
 msgid "Outside Play"

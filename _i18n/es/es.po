@@ -197,6 +197,15 @@ msgstr ""
 msgid "At Nuestro Jardín, we believe in the importance of raising cultural awareness in students, teaching diversity, and growing responsible global citizens. We help children understand, embrace, and respect differences and similarities among those in our community."
 msgstr "En Nuestro Jardín, creemos en la importancia de fomentar la conciencia cultural en los niños, de enseñar el concepto de diversidad y de crear ciudadanos globales responsables. Ayudamos a lo niños a entender, aceptar y respetar las diferencias y similitudes entre todos en nuestra comunidad."
 
+msgid "At Nuestro Jardín, we follow children's interest, and we encourage their natural curiosity and creativity to be expressed in many ways, such as through art, music, movement, and language"
+msgstr ""
+
+msgid "At Nuestro Jardín, we follow children's interests, and we encourage their natural curiosity and creativity to be expressed in many ways, such as through art, music, movement, and language"
+msgstr ""
+
+msgid "At Nuestro Jardín, we follow children's interests, and we encourage their natural curiosity and creativity to be expressed in many ways, such as through art, music, movement, and language."
+msgstr ""
+
 msgid "At least one year of qualifying teaching experience, with at least one year as a teacher, in a Certified Child Care Center or comparable group care program, in the care of preschool-age children"
 msgstr ""
 
@@ -697,6 +706,12 @@ msgstr ""
 msgid "Nuestro Jardín Academy developed its very own curriculum to challenge and inspire preschool-aged children. It strives to balance academics with creative expression and play. Children are exposed to Spanish in the context of learning about relevant daily activities, nature, art, the alphabet, numbers, culture, and more. <span class=\"more-link\">(more)</span>"
 msgstr "Nuestro Jardín Academy diseñó su propio currículo para desafiar e inspirar a los niños de edad preescolar. Procura  ofrecer un balance entre lo académico, la expresión creativa y el juego. El estudiante está expuesto al español en el contexto de aprender acerca de actividades diarias que sean relevantes, de la naturaleza, del arte, del alfabeto, de los números, de la cultura y mucho más. <span class=\"more-link\">(mas)</span>"
 
+msgid "Nuestro Jardín Academy is a Spanish immersion, Reggio Emilia inspired preschool for children 3 to 5 years old."
+msgstr ""
+
+msgid "Nuestro Jardín Academy is a Spanish immersion, Reggio Emilia inspired preschool for children 3 to 5 years old.  At Nuestro Jardín, we follow children's interest, and we encourage their natural curiosity and creativity to be expressed in many modalities, language being one of them"
+msgstr ""
+
 #: header.php:18
 msgid "Nuestro Jardín Academy is a new Spanish immersion preschool in Portland, OR, offering a high-quality program that fosters first and second language acquisition."
 msgstr "Nuestro Jardín Academy es una escuela de inmersión en español en Portland, OR, que ofrece un programa que fomenta la adquisición del primer y segundo idioma."
@@ -778,6 +793,12 @@ msgstr "Nuestra Visión de un <strong class=\"color-green\">VERDADERO</strong> P
 #: page.php:265
 msgid "Our bilingual teachers receive free and high-quality professional development in Spanish."
 msgstr "Nuestros maestros bilingües reciben capacitación profesional de un alto nivel de calidad, gratis y en español."
+
+msgid "Our mission is to instill in children a true love of learning through exploration, discovery, and inquiry in ways that promote Spanish language acquisition and learning"
+msgstr ""
+
+msgid "Our mission is to instill in children a true love of learning through exploration, discovery, and inquiry in ways that promote Spanish language acquisition and learning."
+msgstr ""
 
 #: page-enrollment.php:34
 msgid "Our space is under construction, so five informal family-friendly open houses will be held at the home of the Director of Nuestro Jardín. Open houses start at 6pm and last for one hour. Join us to learn what Nuestro Jardín, Spanish Immersion Preschool is all about. Light refreshments will be served."
