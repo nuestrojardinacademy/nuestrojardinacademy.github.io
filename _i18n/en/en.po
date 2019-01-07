@@ -457,6 +457,9 @@ msgstr ""
 msgid "One week of paid sick/personal days"
 msgstr ""
 
+msgid "Open House on Saturday, February 12th"
+msgstr ""
+
 msgid "Open House on Sunday, February 12th"
 msgstr ""
 
