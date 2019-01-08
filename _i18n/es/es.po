@@ -41,6 +41,9 @@ msgstr "El segundo miércoles (cada dos meses)"
 msgid "3 days (M, W, F)"
 msgstr "3 días (L, Mi, V)"
 
+msgid "3 year olds"
+msgstr ""
+
 msgid "3-4 year olds"
 msgstr "3-4 años"
 
@@ -57,6 +60,9 @@ msgstr "4 días de desarrollo profesional/planeamiento antes de comenzar el año
 
 msgid "4 weeks off during the summer."
 msgstr "4 semanas libres durante el verano"
+
+msgid "4-5 year olds"
+msgstr ""
 
 msgid "4-5 year-olds"
 msgstr "4-5 años"

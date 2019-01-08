@@ -28,6 +28,9 @@ msgstr ""
 msgid "3 days (M, W, F)"
 msgstr ""
 
+msgid "3 year olds"
+msgstr ""
+
 msgid "3rd Wednesday of each month"
 msgstr ""
 
@@ -35,6 +38,9 @@ msgid "4 days of professional development/planning days before the school year b
 msgstr ""
 
 msgid "4 weeks off during the summer."
+msgstr ""
+
+msgid "4-5 year olds"
 msgstr ""
 
 msgid "5 days"
