@@ -36,7 +36,7 @@ staff_pages: [{
     },{
         name: 'Erica Ryan', 
         position: 'Substitute Teacher ',
-        image: 'erica_ryan_crop (1).jpg', 
+        image: 'erica_ryan_2.png', 
         bio: 'staff/erica_ryan.html'
     }
 ]
