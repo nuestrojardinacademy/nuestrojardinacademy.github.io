@@ -36,12 +36,12 @@ staff_pages: [{
     },{
         name: 'Isabel Arroyo', 
         position: 'Gorriones and Petirrojos’ Assistant Teacher',
-        image: 'isabel_arroyo.jpg', 
+        image: 'isabel_arroyo.JPG', 
         bio: 'staff/isabel_arroyo.html'
     },{
         name: 'Claudia Basail', 
         position: 'Colibríes’ Assistant Teacher',
-        image: 'claudia_basail.jpg', 
+        image: 'claudia_basail.JPG', 
         bio: 'staff/claudia_basail.html'
     },{
         name: 'Elizabeth Ulmer', 
