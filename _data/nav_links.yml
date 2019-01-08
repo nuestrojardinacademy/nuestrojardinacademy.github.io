@@ -39,6 +39,11 @@ staff_pages: [{
         image: 'isabel_arroyo.jpg', 
         bio: 'staff/isabel_arroyo.html'
     },{
+        name: 'Claudia Basail', 
+        position: 'Colibríes’ Assistant Teacher',
+        image: 'claudia_basail.jpg', 
+        bio: 'staff/claudia_basail.html'
+    },{
         name: 'Elizabeth Ulmer', 
         position: 'Teacher’s Assistant/Floating Teacher',
         image: 'elizabeth_ulmer.png', 
