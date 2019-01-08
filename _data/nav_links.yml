@@ -43,5 +43,10 @@ staff_pages: [{
         position: 'Substitute Teacher ',
         image: 'elizabeth_ulmer.png', 
         bio: 'staff/elizabeth_ulmer.html'
+    },{
+        name: 'Isabel Arroyo', 
+        position: 'Substitute Teacher ',
+        image: 'isabel_arroyo.jpg', 
+        bio: 'staff/isabel_arroyo.html'
     }
 ]
