@@ -247,6 +247,9 @@ msgstr ""
 msgid "Current First Aid/CPR card"
 msgstr ""
 
+msgid "Curriculum"
+msgstr ""
+
 msgid "Dad’s Night Out (DNO)"
 msgstr ""
 
@@ -478,6 +481,9 @@ msgstr ""
 msgid "Nuestro Jardín Academy is a true Spanish immersion preschool, serving children 3 to 5+ years old. We provide a high-quality, research-based program that fosters the acquisition of children's first and second language with a focus on developing the “whole child.”"
 msgstr ""
 
+msgid "Nuestro Jardín Academy is guided by these core set of beliefs."
+msgstr ""
+
 msgid "Nuestro Jardín Academy mostly follows the Portland Public Schools Calendar:"
 msgstr ""
 
@@ -515,6 +521,12 @@ msgid "Our <span class="nja-green">Teachers</span>"
 msgstr ""
 
 msgid "Our Vision of a <strong class="color-green">TRUE</strong> Spanish Immersion Program"
+msgstr ""
+
+msgid "Our approach to early childhood education follows the Reggio Emilia philosophy with an emergent curriculum. We value the child as strong, resilient, and capable – rich with wonder and knowledge. Each child brings to the classroom deep curiosity and potential, and this curiosity drives their interest to understand the world and their place within it. Our themes and lessons emerge from the questions from our students and their specific needs. At Nuestro Jardín, we create environments that inspire creative thinking and invention."
+msgstr ""
+
+msgid "Our approach to early childhood education follows the Reggio Emilia philosophy with an emergent curriculum. We value the child as strong, resilient, and capable – rich with wonder and knowledge. Each child...<span class="more-link">(more)</span>"
 msgstr ""
 
 msgid "Our bilingual teachers receive free and high-quality professional development in Spanish."
