@@ -21,32 +21,32 @@ links_es: [
 staff_pages: [{
         name: 'Claudia Contreras Peters', 
         position: 'Director',
-        image: 'claudia_contreras_w_kids.jpg', 
+        image: 'claudia_contreras_2.png', 
         bio: 'staff/claudia_contreras.html'
     },{
         name: 'Lisset O’Neill', 
-        position: 'Gorriones and Petirrojos’ Teacher and Substitute Director',
+        position: 'Gorriones and Petirrojos’ Lead Teacher',
         image: 'lisset_oneill.jpg', 
         bio: 'staff/lisset_oneill.html'
     },{
         name: 'Gilberto Rios', 
-        position: 'Colibries Teacher ',
+        position: 'Colibríes Lead Teacher',
         image: 'gilberto_rios.png', 
         bio: 'staff/gilberto_rios.html'
+    },{
+        name: 'Isabel Arroyo', 
+        position: 'Gorriones and Petirrojos’ Assistant Teacher',
+        image: 'isabel_arroyo.jpg', 
+        bio: 'staff/isabel_arroyo.html'
+    },{
+        name: 'Elizabeth Ulmer', 
+        position: 'Teacher’s Assistant/Floating Teacher',
+        image: 'elizabeth_ulmer.png', 
+        bio: 'staff/elizabeth_ulmer.html'
     },{
         name: 'Erica Ryan', 
         position: 'Substitute Teacher ',
         image: 'erica_ryan_2.png', 
         bio: 'staff/erica_ryan.html'
-    },{
-        name: 'Elizabeth Ulmer', 
-        position: 'Substitute Teacher ',
-        image: 'elizabeth_ulmer.png', 
-        bio: 'staff/elizabeth_ulmer.html'
-    },{
-        name: 'Isabel Arroyo', 
-        position: 'Substitute Teacher ',
-        image: 'isabel_arroyo.jpg', 
-        bio: 'staff/isabel_arroyo.html'
     }
 ]
