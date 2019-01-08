@@ -38,5 +38,10 @@ staff_pages: [{
         position: 'Substitute Teacher ',
         image: 'erica_ryan_2.png', 
         bio: 'staff/erica_ryan.html'
+    },{
+        name: 'Elizabeth Ulmer', 
+        position: 'Substitute Teacher ',
+        image: 'elizabeth_ulmer.png', 
+        bio: 'staff/elizabeth_ulmer.html'
     }
 ]
