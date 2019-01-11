@@ -55,6 +55,9 @@ msgstr ""
 msgid "5% credit given if tuition is paid in full prior to September 1."
 msgstr ""
 
+msgid "5% credit is given to a child whose sibling is enrolled during the same school year (not combined with other discounts). Discount applies to 2nd or 3rd sibling."
+msgstr ""
+
 msgid "7 weeks off in a year"
 msgstr ""
 
@@ -86,6 +89,9 @@ msgid "A one year state or nationally recognized credential related to preschool
 msgstr ""
 
 msgid "A rich learning environment is formed in collaboration with children, families, teachers, and the school community."
+msgstr ""
+
+msgid "A tuition discount is available if then entire year is paid in full prior to August 1."
 msgstr ""
 
 msgid "AA Degree in early childhood education, elementary education, child development, or special education OR"
@@ -224,6 +230,9 @@ msgid "Clay"
 msgstr ""
 
 msgid "Collage"
+msgstr ""
+
+msgid "Comming Soon!"
 msgstr ""
 
 msgid "Community Night"
@@ -451,6 +460,12 @@ msgstr ""
 msgid "Monthly Tuition 2017-2018 School Year"
 msgstr ""
 
+msgid "Monthly Tuition 2019-2020 School Year"
+msgstr ""
+
+msgid "Monthly Tuition 2019-2020 School Year Comming Soon"
+msgstr ""
+
 msgid "Most festivals and celebrations at Nuestro Jardín coincide with the change of seasons. These festivals and celebrations give us all a chance to embrace and learn about each other’s cultures and traditions and customs around the world."
 msgstr ""
 
@@ -467,6 +482,9 @@ msgid "Nap/Quiet Time"
 msgstr ""
 
 msgid "Newly enrolled families- last month’s tuition and a $180.00 one-time registration fee/materials fee (non-refundable)."
+msgstr ""
+
+msgid "Newly enrolled students - last month’s tuition and a $260 registration fee/materials fee (non-refundable and subject to change)."
 msgstr ""
 
 msgid "Nuestro Jardín Academy believes in a well-rounded balanced educational approach to early childhood learning. We selected the best of many <a href="http://www.childcarenetworkofevanston.org/site/files/944/111817/381399/522710/Early_Childhood_Progam_Philosophies.pdf">early childhood program philosophies</a>, such as Reggio Emilia, Montessori, Waldorf, and Play Based, and apply them to our teaching practices. "
@@ -598,6 +616,9 @@ msgstr ""
 msgid "Returning families - $90 annual materials fee due at the time of re-enrollment in March."
 msgstr ""
 
+msgid "Returning students - $150 annual enrollment/materials fee due at time of re-enrollment (non-refundable and subject to change)."
+msgstr ""
+
 msgid "Role of the Teacher"
 msgstr ""
 
@@ -685,6 +706,9 @@ msgstr ""
 msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! We are excited to be accepting applications now for the 2017-2018 school year starting this fall."
 msgstr ""
 
+msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! We are excited to be accepting applications now for the 2019-2020 school year starting this fall."
+msgstr ""
+
 msgid "The 90:10 immersion model used at Nuestro Jardín immerses the student in Spanish 90% of the day. Extensive research has demonstrated that ... <span class="more-link">(more)</span>"
 msgstr ""
 
@@ -742,7 +766,13 @@ msgstr ""
 msgid "Tuition is due on the first of each month starting in September 2017."
 msgstr ""
 
+msgid "Tuition is due on the first of each month starting in September 2019."
+msgstr ""
+
 msgid "Two weeks paid vacation during Winter and Spring breaks"
+msgstr ""
+
+msgid "Updatded Tuition Schedule Comming Soon!"
 msgstr ""
 
 msgid "VISUAL ARTS FOCUS"
@@ -785,6 +815,9 @@ msgid "Winter Festival (December)"
 msgstr ""
 
 msgid "With these theories and students’ learning styles in mind, the teachers at Nuestro Jardín use diverse teaching methodologies, integrating direct, inquiry-based instruction, and cooperative learning into everyday lessons. In addition, all activities throughout the day are geared to our diverse learners, and we make sure that all students’ learning styles are met (<a href="http://www.tecweb.org/styles/gardner.html">http://www.tecweb.org/styles/gardner.html</a>)."
+msgstr ""
+
+msgid "Yearly tuition is divided into 10 equal payments starting in September until June. The prices below are effective as of September 1, 2019. Tuition is due on the first of each month."
 msgstr ""
 
 msgid "days"

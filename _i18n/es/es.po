@@ -84,6 +84,9 @@ msgstr "Se le dará 5% de descuento a cualquier hermano o hermana de otro u otra
 msgid "5% credit given if tuition is paid in full prior to September 1."
 msgstr "Se le dará 5% de descuento si paga la colegiatura del año completo antes del 1 de septiembre."
 
+msgid "5% credit is given to a child whose sibling is enrolled during the same school year (not combined with other discounts). Discount applies to 2nd or 3rd sibling."
+msgstr ""
+
 msgid "6-7 year-olds"
 msgstr "6-7 años"
 
@@ -137,6 +140,9 @@ msgid "A one year state or nationally recognized credential related to preschool
 msgstr ""
 
 msgid "A rich learning environment is formed in collaboration with children, families, teachers, and the school community."
+msgstr ""
+
+msgid "A tuition discount is available if then entire year is paid in full prior to August 1."
 msgstr ""
 
 msgid "AA Degree in early childhood education, elementary education, child development, or special education OR"
@@ -334,6 +340,9 @@ msgid "Clay"
 msgstr ""
 
 msgid "Collage"
+msgstr ""
+
+msgid "Comming Soon!"
 msgstr ""
 
 msgid "Commitment:"
@@ -694,6 +703,12 @@ msgstr "Noche para Mamá (NPM)"
 msgid "Monthly Tuition 2017-2018 School Year"
 msgstr "Colegiatura Mensual Año Escolar 2017-2018"
 
+msgid "Monthly Tuition 2019-2020 School Year"
+msgstr ""
+
+msgid "Monthly Tuition 2019-2020 School Year Comming Soon"
+msgstr ""
+
 #: page-program.php:510
 msgid "Most festivals and celebrations at Nuestro Jardín coincide with the change of seasons. These festivals and celebrations give us all a chance to embrace and learn about each other’s cultures and traditions and customs around the world."
 msgstr "La mayoría de los festivales y celebraciones en Nuestro Jardín coinciden con los cambios de estaciones del año. Éstos  nos dan la oportunidad de entender y aprender acerca de cada una de nuestras culturas, tradiciones y costumbres alrededor del mundo."
@@ -720,6 +735,9 @@ msgstr "Cualquier docente nuevo que se integre a nuestra escuela debe completar 
 #: page-enrollment.php:112
 msgid "Newly enrolled families- last month’s tuition and a $180.00 one-time registration fee/materials fee (non-refundable)."
 msgstr "Familias Nuevas- arancel/cuota del último mes y cargo de registro/cargo para materiales de $180.00 (no reembolsable)"
+
+msgid "Newly enrolled students - last month’s tuition and a $260 registration fee/materials fee (non-refundable and subject to change)."
+msgstr ""
 
 #: header.php:12
 msgid "Nuestro Jardín Academy - Spanish Immersion Preschool | Portland, Oregon"
@@ -924,6 +942,9 @@ msgstr "Responsable por la supervisión general, la planificación, y el manejo 
 msgid "Returning families - $90 annual materials fee due at the time of re-enrollment in March."
 msgstr "Familias que regresan - cargo para materiales de $90 que debe ser pagado al momento de las reinscripciones en marzo. "
 
+msgid "Returning students - $150 annual enrollment/materials fee due at time of re-enrollment (non-refundable and subject to change)."
+msgstr ""
+
 #: page-program.php:233 page.php:245
 msgid "Role of the Teacher"
 msgstr "Función del Maestro"
@@ -1080,6 +1101,9 @@ msgstr ""
 msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! We are excited to be accepting applications now for the 2017-2018 school year starting this fall."
 msgstr "¡Gracias por su interés en Nuestro Jardín Academy, Spanish Immersion Preschool! En este momento, estamos aceptando solicitudes para el año escolar 2017-2018 que comienza en el otoño."
 
+msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! We are excited to be accepting applications now for the 2019-2020 school year starting this fall."
+msgstr ""
+
 msgid "The 90:10 immersion model used at Nuestro Jardín immerses the student in Spanish 90% of the day. Extensive research has demonstrated that ... <span class="more-link">(more)</span>"
 msgstr ""
 
@@ -1188,8 +1212,14 @@ msgstr ""
 msgid "Tuition is due on the first of each month starting in September 2017."
 msgstr "La colegiatura anual se divide en 10 pagos iguales desde septiembre hasta junio. Los siguientes aranceles entran en vigencia el 1º de septiembre del 2017, la que deberá pagarse el primer día de cada mes."
 
+msgid "Tuition is due on the first of each month starting in September 2019."
+msgstr ""
+
 msgid "Two weeks paid vacation during Winter and Spring breaks"
 msgstr "Dos semanas de vacaciones pagadas durante las vacaciones de invierno y de primavera "
+
+msgid "Updatded Tuition Schedule Comming Soon!"
+msgstr ""
 
 msgid "VISUAL ARTS FOCUS"
 msgstr ""
@@ -1262,6 +1292,9 @@ msgstr ""
 #: page-program.php:200
 msgid "With these theories and students’ learning styles in mind, the teachers at Nuestro Jardín use diverse teaching methodologies, integrating direct, inquiry-based instruction, and cooperative learning into everyday lessons. In addition, all activities throughout the day are geared to our diverse learners, and we make sure that all students’ learning styles are met (<a href=\"http://www.tecweb.org/styles/gardner.html\">http://www.tecweb.org/styles/gardner.html</a>)."
 msgstr "Considerando estas teorías, los maestros de Nuestro Jardín utilizan una diversidad de metodologías de aprendizaje mediante acciones pedagógicas integradoras como instrucción directa e indirecta, instrucción interactiva, independiente y experimental y el aprendizaje cooperativo. Además, cada actividad realizada durante el día está orientada a satisfacer las necesidades de nuestros estudiantes diversificados. (<a href=\"http://www.tecweb.org/styles/gardner.html\">http://www.tecweb.org/styles/gardner.html</a>)."
+
+msgid "Yearly tuition is divided into 10 equal payments starting in September until June. The prices below are effective as of September 1, 2019. Tuition is due on the first of each month."
+msgstr ""
 
 msgid "Yelenis is a school psychologist from Cuba. She has a BA in Education and a MA in School Psychology from Universidad Pedagógica de Santiago de Cuba. Yelenis has over 21 years of experience working with children and university students. She is a talented singer and a fabulous cook and a great salsa dancer. Yelenis compassion for children and beautiful smile are a wonderful addition to Nuestro Jardín’s team."
 msgstr ""
