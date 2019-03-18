@@ -279,6 +279,9 @@ msgstr ""
 msgid "Camps run week to week, so you may register for one or all eight weeks of summer camp. No prior Spanish experience required."
 msgstr ""
 
+msgid "Camps run week to week, so you may register for one or all seven weeks of summer camp.If you register for the 2 sessions of the same theme, you will receive a 10% discount*. No prior Spanish experience required."
+msgstr ""
+
 #: page-program.php:339
 msgid "Ceramics in Mexico date back thousands of years before the Pre-Columbian period, when ceramic arts and pottery crafts developed with the first advanced civilizations and cultures of Mesoamerica. With one exception, pre-Hispanic wares were not glazed, but rather burnished and painted with colored fine clay slips. The potter's wheel was unknown as well; pieces were shaped by molding, coiling and other methods."
 msgstr "La cerámica en México data desde hace miles de años antes del periodo precolombino, cuando al arte de la cerámica y la alfarería se desarrollaron con las primeras civilizaciones avanzadas y las culturas de Mesoamérica. Con una excepción, la terracota prehispánica no era vidriada, sino más bien bruñida y pintada con la técnica de engobe, usando arcilla fina de colores. Aún no existía el torno de alfarero, en vez, las piezas eran enrolladas, modeladas y moldeadas."
@@ -497,7 +500,7 @@ msgstr "Siguiendo nuestro enfoque balanceado, agrupamos a los estudiantes de acu
 msgid "Food Handlers Card"
 msgstr "Tarjeta de Manejo de Comida"
 
-msgid "For 7 weeks throughout the summer months, we will be offering Spanish Immersion Camps with an emphasis on Visual and Performing Arts. The curriculum and themes will emerge based on shared interests of the children. Children will be exposed to lots of materials found in their natural environment and will be encouraged to create with them!"
+msgid "For 7 weeks throughout the summer months, we will be offering Spanish Immersion Camps with an emphasis on Visual and Performing Arts that focus on specific themes that change every two weeks. Children will also be exposed to lots of materials found in their natural environment and will be encouraged to create with them!"
 msgstr ""
 
 msgid "For each camp, children will be divided into 3 age groups of 8-10 children each. While the theme is the same for all groups, activities and instruction will cater to each group's individual needs and language levels."
@@ -575,6 +578,9 @@ msgid "Half Day: $175 per week ($140 for July 5-8)"
 msgstr "Media Jornada: $175 por semana ($140 por la semana del 5-8 julio)"
 
 msgid "Half Day: $189 per week ($151 for July 3-7)"
+msgstr ""
+
+msgid "Half Day: 8:30*-12:30"
 msgstr ""
 
 msgid "Half Day: 8:30-12:30"
@@ -656,6 +662,9 @@ msgstr "Último viernes de cada mes (excepto en noviembre & diciembre)"
 #: page-program.php:133 page-program.php:183 page.php:129 page.php:179
 msgid "Learn More"
 msgstr "Más Información"
+
+msgid "Learn facts and vocabulary specific to the biweekly themes"
+msgstr ""
 
 msgid "Learning (and second language learning) happens when children form warm relationships with teachers, peers, and their environment through interactions with materials, books, music, games, movement, and ideas."
 msgstr ""
