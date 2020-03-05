@@ -4,7 +4,7 @@ links: [
     {href: 'program/', text: 'program'}, 
     {href: 'enrollment/', text: 'enrollment'}, 
     {href: 'staff/', text: 'teachers'}, 
-    {href: 'camps/', text: 'camps'}, 
+    # {href: 'camps/', text: 'camps'}, 
     #{href: 'jobs/', text: 'jobs'}, 
     {href: '', text: 'español'}
 ]
@@ -14,7 +14,7 @@ links_es: [
     {href: 'program/', text: 'programa'}, 
     {href: 'enrollment/', text: 'admisión'}, 
     {href: 'staff/', text: 'maestros'}, 
-    {href: 'camps/', text: 'campamentos'}, 
+    # {href: 'camps/', text: 'campamentos'}, 
     #{href: 'jobs/', text: 'empleos'}, 
     {href: '', text: 'english'}
 ]
