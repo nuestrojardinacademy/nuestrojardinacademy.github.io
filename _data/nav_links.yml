@@ -41,12 +41,12 @@ staff_pages: [{
     },{
         name: 'Rosa Aispuro', 
         position: 'Gorriones and Petirrojos’ Assistant Teacher',
-        image: 'rosa_aispuro.JPG', 
+        image: 'rosa_aispuro.jpg', 
         bio: 'staff/rosa_aispuro.html'
     },{
         name: 'Keren Ramírez', 
         position: 'Colibríes’ Assistant Teacher',
-        image: 'keren_ramirez.JPG', 
+        image: 'keren_ramirez.jpg', 
         bio: 'staff/keren_ramirez.html'
     },{
         name: 'Elizabeth Ulmer', 
