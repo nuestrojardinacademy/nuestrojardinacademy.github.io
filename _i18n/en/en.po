@@ -4,9 +4,6 @@ msgstr ""
 msgid "* Flexible Drop-off is available starting at 8:00 am. "
 msgstr ""
 
-msgid "* Full Day: 8:30-4:00"
-msgstr ""
-
 msgid "1 observed holiday in the summer"
 msgstr ""
 
@@ -49,12 +46,6 @@ msgstr ""
 msgid "5 days of professional development/planning days throughout the school year"
 msgstr ""
 
-msgid "5% credit given if more than one child is enrolled during the same school year."
-msgstr ""
-
-msgid "5% credit given if tuition is paid in full prior to September 1."
-msgstr ""
-
 msgid "5% credit is given to a child whose sibling is enrolled during the same school year (not combined with other discounts). Discount applies to 2nd or 3rd sibling."
 msgstr ""
 
@@ -62,9 +53,6 @@ msgid "7 weeks off in a year"
 msgstr ""
 
 msgid "8 observed holidays during the school year"
-msgstr ""
-
-msgid "90:10 Immersion Model"
 msgstr ""
 
 msgid "<a href="camps" style="color:white">Summer, Summer, Summer Camps!</a>"
@@ -130,9 +118,6 @@ msgstr ""
 msgid "Assistant: Qualify under one of the following below:"
 msgstr ""
 
-msgid "At Nuestro Jardín Academy:"
-msgstr ""
-
 msgid "At Nuestro Jardín, children are immersed in Spanish about 90% of the day. Our communicative approach encourages children to be speaking social Spanish from the very first day of school. In addition, the use of our environment (the 3rd teacher) and how children interact with materials, books, teachers, and peers foster Spanish acquisition and learning. Spanish is learned through music, games, movement, and with the exchange of children's ideas."
 msgstr ""
 
@@ -140,12 +125,6 @@ msgid "At Nuestro Jardín, children are immersed in Spanish about 90% of the day
 msgstr ""
 
 msgid "At Nuestro Jardín, we believe in the importance of raising cultural awareness in students, teaching diversity, and growing responsible global citizens. We help children understand, embrace, and respect differences and similarities among those in our community."
-msgstr ""
-
-msgid "At Nuestro Jardín, we follow children's interest, and we encourage their natural curiosity and creativity to be expressed in many ways, such as through art, music, movement, and language"
-msgstr ""
-
-msgid "At Nuestro Jardín, we follow children's interests, and we encourage their natural curiosity and creativity to be expressed in many ways, such as through art, music, movement, and language"
 msgstr ""
 
 msgid "At Nuestro Jardín, we follow children's interests, and we encourage their natural curiosity and creativity to be expressed in many ways, such as through art, music, movement, and language."
@@ -166,9 +145,6 @@ msgstr ""
 msgid "Be responsible and oversee the accomplishment of routine tasks with regard to the health, safety, and well-being of children, and maintain the program in accordance with the requirements of the Oregon Child Care Division."
 msgstr ""
 
-msgid "Before joining Nuestro Jardín, Lisset worked at the Oregon Episcopal School here in Portland and at the Mission Dolores Academy in San Francisco. She is excited to be teaching at our school and is looking forward to meeting the children and parents of our new community."
-msgstr ""
-
 msgid "Bilingual Spanish speaker"
 msgstr ""
 
@@ -184,28 +160,16 @@ msgstr ""
 msgid "CONTACT:"
 msgstr ""
 
-msgid "Camps run week to week, so you may register for one or all eight weeks of summer camp. No prior Spanish experience required."
-msgstr ""
-
 msgid "Camps run week to week, so you may register for one or all seven weeks of summer camp.If you register for the 2 sessions of the same theme, you will receive a 10% discount*. No prior Spanish experience required."
 msgstr ""
 
 msgid "Ceramics in Mexico date back thousands of years before the Pre-Columbian period, when ceramic arts and pottery crafts developed with the first advanced civilizations and cultures of Mesoamerica. With one exception, pre-Hispanic wares were not glazed, but rather burnished and painted with colored fine clay slips. The potter\'s wheel was unknown as well; pieces were shaped by molding, coiling and other methods."
 msgstr ""
 
-msgid "Children actively participate in classroom activities."
-msgstr ""
-
 msgid "Children are <strong>engaged</strong> with stories about local customs, dances, songs and art."
 msgstr ""
 
 msgid "Children are able to construct their own learning, driven by their own interests."
-msgstr ""
-
-msgid "Children are able to construct their own learning, driven by their own interests...<span class="more-link">(more)</span>"
-msgstr ""
-
-msgid "Children benefit from our well thought-out, research-based, integrated, and multi-culturally rich program."
 msgstr ""
 
 msgid "Children bring a lunch from home. We encourage parents to prepare healthy lunches that best meet their children’s unique dietary needs."
@@ -223,19 +187,31 @@ msgstr ""
 msgid "Claudia comes from a family of educators who are passionate about teaching, guiding, and supporting children in whatever stage of life they are in. Claudia  has been teaching for over 15 years, 7 of which were in a Spanish immersion program for the San José Unified School District in San Jose, California. During her time there, she was able to have first-hand experience and was able to see the benefits bilingual immersion programs can offer."
 msgstr ""
 
+msgid "Claudia has been in education for 20 years, starting as a teacher in a Spanish immersion program at San Jose Unified School District in California and later as an ESL instructor at Portland State University. During her time at San Jose Unified School District, she was able to both have first-hand experience and see the benefits bilingual immersion programs can offer. As a linguist, second language teacher, and second language learner herself, Claudia has a deep understanding of first and second language acquisition and learning."
+msgstr ""
+
 msgid "Claudia has been working for over a year to make Nuestro Jardín Academy a reality. She saw the need for high quality Spanish immersion preschools in Portland and wanted to provide parents with the opportunity to give their children the gift of a second language. In the years she worked with college-aged students, she really missed working with children and their sense of wonder, their creativity, and sense of adventure. She is very excited to embark on this new journey, where she can combine her passion for teaching children, her love of languages, and her deep belief of supporting and mentoring other teachers."
 msgstr ""
 
+msgid "Claudia is the proud mother of two boys. She loves spending time outdoors with her husband, Alexei, and her children. She also has another passion: running, which keeps her focused and in balance."
+msgstr ""
+
 msgid "Claudia lives in NE Portland with her husband, two sons (one in kindergarten, the other in preschool), and cat, Cuchito."
+msgstr ""
+
+msgid "Claudia was born and raised in Santiago, Chile and has been living in the US since 1992. She received a BA degree in Linguistics with a minor in Spanish and a TESOL (teaching English to Speakers of Other Languages) Certificate from San Jose State University. In Oregon, she received a Master's Degree in TESOL from Portland State University and also obtained her Oregon Teaching License."
+msgstr ""
+
+msgid "Claudia was born and raised in Santiago, Chile and has been living in the US since 1992. She received a BA degree in Linguistics with a minor in Spanish and a TESOL (teaching English to Speakers of Other Languages) Certificate from San Jose State University. In Oregon, she received a Master’s Degree in TESOL from Portland State University and also obtained her Oregon Teaching License."
+msgstr ""
+
+msgid "Claudia's vision for creating a Spanish immersion preschool became a reality in 2016. In the past year, she has taken a mentoring role to support the Nuestro Jardín community and is excited to spend time in the classroom with teachers and students!"
 msgstr ""
 
 msgid "Clay"
 msgstr ""
 
 msgid "Collage"
-msgstr ""
-
-msgid "Comming Soon!"
 msgstr ""
 
 msgid "Community Night"
@@ -251,9 +227,6 @@ msgid "Completion of 20 credits (semester system) or 30 credits (quarter system)
 msgstr ""
 
 msgid "Completion of 20 semester credits or 30 quarter credits of training at a college or university in Early childhood education, child development, elementary education, or special education AND at least one year of experience working with young children and families in a daycare/preschool program."
-msgstr ""
-
-msgid "Core Set Of Beliefs"
 msgstr ""
 
 msgid "Create and manage a warm and challenging learning environment for students, incorporating appropriate activities which meet the needs of the group as well as those of individual children and families."
@@ -283,9 +256,6 @@ msgstr ""
 msgid "Deposit and Fees:"
 msgstr ""
 
-msgid "Dismissal (3:00-5:00)"
-msgstr ""
-
 msgid "During her years at San José Unified School District, Claudia worked under the supervision of <a href="http://atdle.org/about-us/meet-the-team/" target="_blank">Dr. Rosa Molina</a> a renowned bilingual and bilingual immersion advocate. Claudia worked at a Professional Development school where she grew fond of collaboration and professional development practices to further her growth as an educator. As a linguist, second language teacher, and second language learner herself, Claudia has a deep understanding of first and second language acquisition and learning."
 msgstr ""
 
@@ -298,16 +268,10 @@ msgstr ""
 msgid "Education researcher, Neville V. Scarfe said, “play is the highest form of research”. Children learn best when given adequate time to move their bodies. At Nuestro Jardín Academy, we strongly believe that a great deal of learning is happening during unstructured play time, and that there is a lot of value in it."
 msgstr ""
 
-msgid "Enhancement Class - Mixed-Age Groups"
-msgstr ""
-
 msgid "Enrollment & <span class="nja-green">Tuition</span>"
 msgstr ""
 
 msgid "Enrollment in Oregon Central Background Registry (can be done right after accepting employment)"
-msgstr ""
-
-msgid "Everyone strives to build a community, involving students, teachers, and parents."
 msgstr ""
 
 msgid "Explore a rich classroom environment filled with a variety of blocks, loose parts, sensorial tables, and children's literature."
@@ -331,9 +295,6 @@ msgstr ""
 msgid "Flamenco Dance"
 msgstr ""
 
-msgid "Following our balanced approach, students spend part of the day in same-age groups and the other in mixed-age groups. The following schedule is an example of the daily schedule at Nuestro Jardín, but the order of subjects and activities will vary depending on the group your child is assigned."
-msgstr ""
-
 msgid "Food Handlers Card"
 msgstr ""
 
@@ -346,9 +307,6 @@ msgstr ""
 msgid "Founder / Director"
 msgstr ""
 
-msgid "Free Choice/Play"
-msgstr ""
-
 msgid "Frida Kahlo <span style="font-size:10px;">(by Maria de Oro)</span>"
 msgstr ""
 
@@ -356,12 +314,6 @@ msgid "Full Day"
 msgstr ""
 
 msgid "Full Day: 8:30*-4:00"
-msgstr ""
-
-msgid "Full Day: 8:30-4:00 *"
-msgstr ""
-
-msgid "Full Day: 8:30-4:00 **"
 msgstr ""
 
 msgid "Full-Time: 34-38 hours per week"
@@ -377,9 +329,6 @@ msgid "Half Day"
 msgstr ""
 
 msgid "Half Day: 8:30*-12:30"
-msgstr ""
-
-msgid "Half Day: 8:30-12:30"
 msgstr ""
 
 msgid "Half-day - 8:00 am to 12:30 pm"
@@ -421,9 +370,6 @@ msgstr ""
 msgid "Kids’ Night Out aka Parents’ Night Out"
 msgstr ""
 
-msgid "Language Arts/Social Studies - Whole Group and Free Choice/Play"
-msgstr ""
-
 msgid "Last Friday of every month (except for Nov. & Dec.)"
 msgstr ""
 
@@ -442,22 +388,10 @@ msgstr ""
 msgid "Learning and understanding the culture behind the language can make learning <strong>fun.</strong>"
 msgstr ""
 
-msgid "Lisset O’Neill is a Spanish and Art teacher from Lima, Peru. She obtained a B.A. in Mass Media and Communications from the University of Lima and an M.F.A. in Cinema from San Francisco State University. For over 10 years she was a freelance Filmmaker and Photographer working for nonprofits, start-ups and technology companies in the San Francisco Bay Area. After a life-changing volunteer experience in the Andes of Peru, she discovered her love of teaching, and ever since, she has been sharing her language and her love for the arts with children here in the U.S."
-msgstr ""
-
-msgid "Lisset is a resourceful, imaginative, fun, and passionate teaching professional. Her focal point of expertise is implementing a child-centered, interactive and communicative approach to the pedagogy of Spanish language acquisition. In her classes, children learn through all their senses using concrete objects. Words are not just heard, they are seen, touched, tasted, and smelled. Latin culture comes to life through music, storytelling and traditional games. With this approach the learning process becomes fun and engaging, thus making the language easier to assimilate. Her approach to teaching art is based on the idea that art is about exploration. She supports children in creating artwork that reflects their own interests, ideas, discoveries and inventions."
-msgstr ""
-
-msgid "Lunch (12:30-12:40 - Half Day Dismissal)"
-msgstr ""
-
 msgid "Lunch:"
 msgstr ""
 
 msgid "MINIMUM QUALIFICATIONS:"
-msgstr ""
-
-msgid "Math/Science- Whole Group and Free Choice/Play"
 msgstr ""
 
 msgid "Mixed media"
@@ -466,19 +400,10 @@ msgstr ""
 msgid "Mom’s Night Out (MNO)"
 msgstr ""
 
-msgid "Monthly Tuition 2017-2018 School Year"
-msgstr ""
-
 msgid "Monthly Tuition 2019-2020 School Year"
 msgstr ""
 
-msgid "Monthly Tuition 2019-2020 School Year Comming Soon"
-msgstr ""
-
 msgid "Most festivals and celebrations at Nuestro Jardín coincide with the change of seasons. These festivals and celebrations give us all a chance to embrace and learn about each other’s cultures and traditions and customs around the world."
-msgstr ""
-
-msgid "Most, if not all, of our Spanish teachers are native Spanish speakers and are the main  language model for the students, making sure to speak only in Spanish. During English time, the English teacher will speak in English only."
 msgstr ""
 
 msgid "Music is an important part of learning"
@@ -487,31 +412,13 @@ msgstr ""
 msgid "NUESTRO JARDÍN ACADEMY"
 msgstr ""
 
-msgid "Nap/Quiet Time"
-msgstr ""
-
-msgid "Newly enrolled families- last month’s tuition and a $180.00 one-time registration fee/materials fee (non-refundable)."
-msgstr ""
-
 msgid "Newly enrolled students - last month’s tuition and a $260 registration fee/materials fee (non-refundable and subject to change)."
-msgstr ""
-
-msgid "Nuestro Jardín Academy believes in a well-rounded balanced educational approach to early childhood learning. We selected the best of many <a href="http://www.childcarenetworkofevanston.org/site/files/944/111817/381399/522710/Early_Childhood_Progam_Philosophies.pdf">early childhood program philosophies</a>, such as Reggio Emilia, Montessori, Waldorf, and Play Based, and apply them to our teaching practices. "
-msgstr ""
-
-msgid "Nuestro Jardín Academy developed its very own curriculum to challenge and inspire preschool-aged children. It strives to balance academics with creative expression and play. Children are exposed to Spanish in the context of learning about relevant daily activities, nature, art, the alphabet, numbers, culture, and more. <span class="more-link">(more)</span>"
 msgstr ""
 
 msgid "Nuestro Jardín Academy is a Spanish immersion, Reggio Emilia inspired preschool for children 3 to 5 years old."
 msgstr ""
 
-msgid "Nuestro Jardín Academy is a Spanish immersion, Reggio Emilia inspired preschool for children 3 to 5 years old.  At Nuestro Jardín, we follow children's interest, and we encourage their natural curiosity and creativity to be expressed in many modalities, language being one of them"
-msgstr ""
-
 msgid "Nuestro Jardín Academy is a new Spanish immersion preschool in Portland, OR, offering a high-quality program that fosters first and second language acquisition."
-msgstr ""
-
-msgid "Nuestro Jardín Academy is a true Spanish immersion preschool, serving children 3 to 5+ years old. We provide a high-quality, research-based program that fosters the acquisition of children's first and second language with a focus on developing the “whole child.”"
 msgstr ""
 
 msgid "Nuestro Jardín Academy is guided by these core set of beliefs."
@@ -521,9 +428,6 @@ msgid "Nuestro Jardín Academy mostly follows the Portland Public Schools Calend
 msgstr ""
 
 msgid "Nuestro Jardín Academy, a brand new Spanish Immersion preschool, is seeking full-time and part-time Spanish-speaking/bilingual preschool teachers and assistants beginning in August 2016. Our preschool provides a high-quality immersion program with an emergent curriculum, which responds to children’s needs and interests. We believe in making this a unique language and cultural immersion experience for children, and so it’s extremely important that candidates be flexible, show initiative, and be able to adapt to the ever-changing needs of our children."
-msgstr ""
-
-msgid "Nuestro Jardín believes in making this a unique language and cultural immersion experience for children in a preschool setting, where students not only get direct exposure to the language but also to the many different Spanish-speaking cultures in a nurturing, challenging, stimulating, and playful environment."
 msgstr ""
 
 msgid "Observational Drawing"
@@ -541,9 +445,6 @@ msgstr ""
 msgid "Open House on Saturday, February 12th"
 msgstr ""
 
-msgid "Open House on Sunday, February 12th"
-msgstr ""
-
 msgid "Open houses start at 2pm and last for one hour. Join us to learn what Nuestro Jardín, Spanish Immersion Preschool is all about."
 msgstr ""
 
@@ -553,31 +454,16 @@ msgstr ""
 msgid "Our <span class="nja-green">Teachers</span>"
 msgstr ""
 
-msgid "Our Vision of a <strong class="color-green">TRUE</strong> Spanish Immersion Program"
-msgstr ""
-
 msgid "Our approach to early childhood education follows the Reggio Emilia philosophy with an emergent curriculum. We value the child as strong, resilient, and capable – rich with wonder and knowledge. Each child brings to the classroom deep curiosity and potential, and this curiosity drives their interest to understand the world and their place within it. Our themes and lessons emerge from the questions from our students and their specific needs. At Nuestro Jardín, we create environments that inspire creative thinking and invention."
 msgstr ""
 
 msgid "Our approach to early childhood education follows the Reggio Emilia philosophy with an emergent curriculum. We value the child as strong, resilient, and capable – rich with wonder and knowledge. Each child...<span class="more-link">(more)</span>"
 msgstr ""
 
-msgid "Our bilingual teachers receive free and high-quality professional development in Spanish."
-msgstr ""
-
-msgid "Our mission is to instill in children a true love of learning through exploration, discovery, and inquiry in ways that promote Spanish language acquisition and learning"
-msgstr ""
-
 msgid "Our mission is to instill in children a true love of learning through exploration, discovery, and inquiry in ways that promote Spanish language acquisition and learning."
 msgstr ""
 
 msgid "Our role as teachers is to mentor and guide them, to observe and listen to their questions, stories, and ideas, to find what interests them and then provide opportunities for exploration and further investigation."
-msgstr ""
-
-msgid "Outside Play"
-msgstr ""
-
-msgid "PERFORMING ARTS FOCUS"
 msgstr ""
 
 msgid "PREFERRED QUALIFICATIONS (not required but a plus):"
@@ -616,13 +502,7 @@ msgstr ""
 msgid "Register"
 msgstr ""
 
-msgid "Research has also shown that students in a 90:10 immersion program develop higher levels of bilingualism,  biliteracy, and cognitive skills when compared with English-only proficient students participating in other educational programs. Another benefit of students being in a dual immersion program is that they will develop very positive attitudes about students of other language and cultural backgrounds, and positive attitudes toward themselves as learners.  Consult the  <a href="http://www.cal.org/twi/" target="_blank">Center for Applied Linguistics</a> for specific research studies."
-msgstr ""
-
 msgid "Responsible for the overall supervision, planning, and management of a Spanish immersion preschool class:"
-msgstr ""
-
-msgid "Returning families - $90 annual materials fee due at the time of re-enrollment in March."
 msgstr ""
 
 msgid "Returning students - $150 annual enrollment/materials fee due at time of re-enrollment (non-refundable and subject to change)."
@@ -655,22 +535,13 @@ msgstr ""
 msgid "Skills, expertise, or aptitude in:"
 msgstr ""
 
-msgid "Snack"
-msgstr ""
-
 msgid "Snacks:"
 msgstr ""
 
 msgid "Spanish Guitar"
 msgstr ""
 
-msgid "Spanish Immersion <span class='nja-green'>Summer</span> Camps"
-msgstr ""
-
 msgid "Spanish Immersion Preschool"
-msgstr ""
-
-msgid "Spanish Immersion<span class='nja-green'>Summer</span> Camps"
 msgstr ""
 
 msgid "Spanish is More Than Just a Language"
@@ -680,12 +551,6 @@ msgid "Spanish is more than just a language"
 msgstr ""
 
 msgid "Spring Festival (April)"
-msgstr ""
-
-msgid "Standards set the basis for what children should know and be able to do based on their age and developmental level. Nuestro Jardín’s standards have been carefully created and are backed by solid research in early childhood and second language learning. Our curriculum was created to develop the whole child and allow teachers to collaborate and teach to a common goal. Our thematic approach adopts a monthly theme that is culturally relevant and personally emerges from students to enrich Nuestro Jardín Academy’s curriculum."
-msgstr ""
-
-msgid "Summer Camp Fees:"
 msgstr ""
 
 msgid "Summer Festival (End of Year Celebration- June)"
@@ -709,19 +574,7 @@ msgstr ""
 msgid "Teacher: Qualify under one of the following below:"
 msgstr ""
 
-msgid "Teachers focus on children’s Spanish production to ensure students make actual progress in the <a href="http://www.colorincolorado.org/article/language-acquisition-overview" target="_blank">stages of second language acquisition</a> from the pre-production stage or “silent period” to early production and then to becoming speech emergent."
-msgstr ""
-
-msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! We are excited to be accepting applications now for the 2017-2018 school year starting this fall."
-msgstr ""
-
 msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! We are excited to be accepting applications now for the 2019-2020 school year starting this fall."
-msgstr ""
-
-msgid "The 90:10 immersion model used at Nuestro Jardín immerses the student in Spanish 90% of the day. Extensive research has demonstrated that ... <span class="more-link">(more)</span>"
-msgstr ""
-
-msgid "The 90:10 immersion model used at Nuestro Jardín immerses the student in Spanish 90% of the day. Extensive research has demonstrated that students who go through a 90:10 program consistently develop high levels of comprehension and reading and writing proficiency in their second language. They also display confidence when using it. "
 msgstr ""
 
 msgid "The Gift of a Second Language"
@@ -742,12 +595,6 @@ msgstr ""
 msgid "The teachers at Nuestro Jardín are passionate about providing the opportunity for children to learn the Spanish language in a warm, caring, safe and secure environment.  We strive to provide an active learning environment where children will learn trust, self-expression and self worth. We understand the importance of focusing on the whole child (the social, emotional, cognitive, and physical aspects) to ensure children reach their full potential. Each teacher at Nuestro Jardín brings with them many years of personal and professional experience that contribute to the climate and culture of our Spanish immersion program. We dedicate ourselves to enrich and support the experiences of our students each and every day."
 msgstr ""
 
-msgid "The whole child approach taken by Nuestro Jardín Academy ensures that each student is healthy, safe, engaged, supported, and challenged by ... <span class="more-link">(more)</span>"
-msgstr ""
-
-msgid "The whole child approach taken by Nuestro Jardín Academy ensures that each student is healthy, safe, engaged, supported, and challenged by addressing students' needs through the shared responsibility of students, families, and the community."
-msgstr ""
-
 msgid "This is the time for all moms at Nuestro Jardín to get out and get some ‘me time’ with other moms. At the beginning of each school year, the group will decide on the events for each month (dinner, movie, dancing, working out, book club, etc.)"
 msgstr ""
 
@@ -760,34 +607,13 @@ msgstr ""
 msgid "Toggle navigation"
 msgstr ""
 
-msgid "Transition"
-msgstr ""
-
-msgid "Transition to Nap/Quiet Time"
-msgstr ""
-
-msgid "Transition to Same-Age Groups"
-msgstr ""
-
 msgid "Tuition discount for children attending Nuestro Jardín Academy"
-msgstr ""
-
-msgid "Tuition is due on the first of each month starting in September 2017."
-msgstr ""
-
-msgid "Tuition is due on the first of each month starting in September 2019."
 msgstr ""
 
 msgid "Two weeks paid vacation during Winter and Spring breaks"
 msgstr ""
 
 msgid "Updatded Tuition Schedule Comming Soon!"
-msgstr ""
-
-msgid "VISUAL ARTS FOCUS"
-msgstr ""
-
-msgid "Visual and Performing Arts - Whole Group and Free Choice/Play"
 msgstr ""
 
 msgid "Visual arts focus:"
@@ -805,9 +631,6 @@ msgstr ""
 msgid "We provide two healthy natural or organic snacks to children daily."
 msgstr ""
 
-msgid "We see children as unique individuals who come with unique strengths and needs. We embrace this diversity and will tap into what children have to offer. We will immerse ourselves in their world of wonderment while they are immersed in the world of language learning, and together we’ll travel the path of discovery, learning, and excitement!"
-msgstr ""
-
 msgid "We serve toilet trained children who are 3 to 5 years of age. If you are interested in our program, we suggest you consider getting on our wait list. Families will be informed about enrollment at the end of March."
 msgstr ""
 
@@ -817,19 +640,10 @@ msgstr ""
 msgid "Welcome to <span class="nja-green">Nuestro</span> Jardín"
 msgstr ""
 
-msgid "Welcome- Free Choice - Mixed-Age Groups"
-msgstr ""
-
 msgid "Winter Festival (December)"
 msgstr ""
 
-msgid "With these theories and students’ learning styles in mind, the teachers at Nuestro Jardín use diverse teaching methodologies, integrating direct, inquiry-based instruction, and cooperative learning into everyday lessons. In addition, all activities throughout the day are geared to our diverse learners, and we make sure that all students’ learning styles are met (<a href="http://www.tecweb.org/styles/gardner.html">http://www.tecweb.org/styles/gardner.html</a>)."
-msgstr ""
-
 msgid "Yearly tuition is divided into 10 equal payments starting in September until June. The prices below are effective as of September 1, 2019. Tuition is due on the first of each month."
-msgstr ""
-
-msgid "days"
 msgstr ""
 
 msgid "second language teaching"

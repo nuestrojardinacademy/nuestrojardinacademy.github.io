@@ -24,34 +24,44 @@ staff_pages: [{
         image: 'claudia_contreras_2.png', 
         bio: 'staff/claudia_contreras.html'
     },{
-        name: 'Lisset O’Neill', 
+        name: 'Ann Marie Pyper', 
+        position: 'Assistant Director of Operations',
+        image: 'ann_marie_pyper.jpg', 
+        bio: 'staff/ann_marie_pyper.html'
+    },{
+        name: 'Mahiba Mora', 
         position: 'Gorriones and Petirrojos’ Lead Teacher',
-        image: 'lisset_oneill.jpg', 
-        bio: 'staff/lisset_oneill.html'
+        image: 'mahiba_mora.jpg', 
+        bio: 'staff/mahiba_mora.html'
     },{
         name: 'Gilberto Rios', 
         position: 'Colibríes Lead Teacher',
-        image: 'gilberto_rios.png', 
+        image: 'gilberto_rios.jpg', 
         bio: 'staff/gilberto_rios.html'
     },{
-        name: 'Isabel Arroyo', 
+        name: 'Rosa Aispuro', 
         position: 'Gorriones and Petirrojos’ Assistant Teacher',
-        image: 'isabel_arroyo.JPG', 
-        bio: 'staff/isabel_arroyo.html'
+        image: 'rosa_aispuro.JPG', 
+        bio: 'staff/rosa_aispuro.html'
     },{
-        name: 'Claudia Urbina Basail', 
+        name: 'Keren Ramírez', 
         position: 'Colibríes’ Assistant Teacher',
-        image: 'claudia_basail.JPG', 
-        bio: 'staff/claudia_basail.html'
+        image: 'keren_ramirez.JPG', 
+        bio: 'staff/keren_ramirez.html'
     },{
         name: 'Elizabeth Ulmer', 
-        position: 'Teacher’s Assistant/Floating Teacher',
-        image: 'elizabeth_ulmer.png', 
+        position: 'Gorriones and Petirrojos’ Assistant Teacher ',
+        image: 'elizabeth_ulmer.jpg', 
         bio: 'staff/elizabeth_ulmer.html'
     },{
-        name: 'Erica Ryan', 
-        position: 'Substitute Teacher ',
-        image: 'erica_ryan_2.png', 
-        bio: 'staff/erica_ryan.html'
+        name: 'Nelly Villalobos', 
+        position: 'Teacher’s Assistant (Aide)',
+        image: 'nelly_villalobos.jpg', 
+        bio: 'staff/nelly_villalobos.html'
+    },{
+        name: 'Yalili Fung Boix', 
+        position: 'Support/Substitute Teacher; Movement Teacher',
+        image: 'yalili_fung_boix.jpg', 
+        bio: 'staff/yalili_fung_boix.html'
     }
 ]
