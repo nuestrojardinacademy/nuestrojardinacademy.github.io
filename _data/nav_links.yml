@@ -6,7 +6,7 @@ links: [
     {href: 'staff/', text: 'teachers'}, 
     # {href: 'camps/', text: 'camps'}, 
     #{href: 'jobs/', text: 'jobs'}, 
-    {href: '', text: 'español'}
+    # {href: '', text: 'español'}
 ]
 links_es: [
     {href: '', text: 'inicio'}, 
@@ -16,7 +16,7 @@ links_es: [
     {href: 'staff/', text: 'maestros'}, 
     # {href: 'camps/', text: 'campamentos'}, 
     #{href: 'jobs/', text: 'empleos'}, 
-    {href: '', text: 'english'}
+    # {href: '', text: 'english'}
 ]
 staff_pages: [{
         name: 'Claudia Contreras Peters', 
