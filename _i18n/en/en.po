@@ -403,6 +403,9 @@ msgstr ""
 msgid "Monthly Tuition 2019-2020 School Year"
 msgstr ""
 
+msgid "Monthly Tuition 2020-2021 School Year"
+msgstr ""
+
 msgid "Most festivals and celebrations at Nuestro Jardín coincide with the change of seasons. These festivals and celebrations give us all a chance to embrace and learn about each other’s cultures and traditions and customs around the world."
 msgstr ""
 
@@ -413,6 +416,9 @@ msgid "NUESTRO JARDÍN ACADEMY"
 msgstr ""
 
 msgid "Newly enrolled students - last month’s tuition and a $260 registration fee/materials fee (non-refundable and subject to change)."
+msgstr ""
+
+msgid "Newly enrolled students - last month’s tuition and a $275 registration fee/materials fee (non-refundable and subject to change)."
 msgstr ""
 
 msgid "Nuestro Jardín Academy is a Spanish immersion, Reggio Emilia inspired preschool for children 3 to 5 years old."
@@ -452,6 +458,9 @@ msgid "Open until filled"
 msgstr ""
 
 msgid "Our <span class="nja-green">Teachers</span>"
+msgstr ""
+
+msgid "Our Summer Program is for 7 weeks, and enrollment starts in March; a separate waitlist application form is posted late February."
 msgstr ""
 
 msgid "Our approach to early childhood education follows the Reggio Emilia philosophy with an emergent curriculum. We value the child as strong, resilient, and capable – rich with wonder and knowledge. Each child brings to the classroom deep curiosity and potential, and this curiosity drives their interest to understand the world and their place within it. Our themes and lessons emerge from the questions from our students and their specific needs. At Nuestro Jardín, we create environments that inspire creative thinking and invention."
@@ -508,6 +517,9 @@ msgstr ""
 msgid "Returning students - $150 annual enrollment/materials fee due at time of re-enrollment (non-refundable and subject to change)."
 msgstr ""
 
+msgid "Returning students - $175 annual enrollment/materials fee due at time of re-enrollment (non-refundable and subject to change)."
+msgstr ""
+
 msgid "Role of the Teacher"
 msgstr ""
 
@@ -550,6 +562,9 @@ msgstr ""
 msgid "Spanish is more than just a language"
 msgstr ""
 
+msgid "Spots in our 3 and 4 year-old classrooms are still available. In keeping with the new state guidelines due to COVID-19, we are limiting our cohorts to 10 children per day, so preference will be given to families seeking full time spots. Get on our waitlist now, and you will hear back from us soon!"
+msgstr ""
+
 msgid "Spring Festival (April)"
 msgstr ""
 
@@ -572,6 +587,9 @@ msgid "Teacher planning built into schedule"
 msgstr ""
 
 msgid "Teacher: Qualify under one of the following below:"
+msgstr ""
+
+msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! ENROLLMENT FOR THE 2020-2021 SCHOOL YEAR WILL RESUME THE WEEK OF JULY 27."
 msgstr ""
 
 msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! We are excited to be accepting applications now for the 2019-2020 school year starting this fall."
@@ -626,6 +644,9 @@ msgid "We also help children understand who they are in the context of their rac
 msgstr ""
 
 msgid "We do not charge a fee for families to get in our wait list. Interested families just need to fill out a wait list application. Your child’s place is determined by the date we receive your wait list form. However, siblings of children currently enrolled or who have been enrolled  in our school in the past are given priority. Families are notified via phone and email when a space is available for their child. Parents will have 48 hours to notify us of their decision, complete the enrollment forms, and pay the deposit and fees. We will regularly assess openings available and use the wait list to inform families when availability exists."
+msgstr ""
+
+msgid "We do not charge a fee for families to get in our wait list. Interested families just need to fill out a wait list application. Your child’s place is determined by the date we receive your waitlist form and type of enrollment you are requesting. However, siblings of children currently enrolled or who have been enrolled in our school in the past are given priority. Families are notified via email when a space is available for their child. Parents will have 48 hours to notify us of their decision. They will then have a week to complete the enrollment forms, and pay the deposit and fees. We will regularly assess openings available and use the wait list to inform families when availability exists."
 msgstr ""
 
 msgid "We provide two healthy natural or organic snacks to children daily."

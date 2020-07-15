@@ -733,6 +733,9 @@ msgstr ""
 msgid "Monthly Tuition 2019-2020 School Year Comming Soon"
 msgstr ""
 
+msgid "Monthly Tuition 2020-2021 School Year"
+msgstr ""
+
 #: page-program.php:510
 msgid "Most festivals and celebrations at Nuestro Jardín coincide with the change of seasons. These festivals and celebrations give us all a chance to embrace and learn about each other’s cultures and traditions and customs around the world."
 msgstr "La mayoría de los festivales y celebraciones en Nuestro Jardín coinciden con los cambios de estaciones del año. Éstos  nos dan la oportunidad de entender y aprender acerca de cada una de nuestras culturas, tradiciones y costumbres alrededor del mundo."
@@ -761,6 +764,9 @@ msgid "Newly enrolled families- last month’s tuition and a $180.00 one-time re
 msgstr "Familias Nuevas- arancel/cuota del último mes y cargo de registro/cargo para materiales de $180.00 (no reembolsable)"
 
 msgid "Newly enrolled students - last month’s tuition and a $260 registration fee/materials fee (non-refundable and subject to change)."
+msgstr ""
+
+msgid "Newly enrolled students - last month’s tuition and a $275 registration fee/materials fee (non-refundable and subject to change)."
 msgstr ""
 
 #: header.php:12
@@ -856,6 +862,9 @@ msgstr ""
 #: page-old.php:98 page-old.php:101
 msgid "Our Program"
 msgstr "Nuestro Programa"
+
+msgid "Our Summer Program is for 7 weeks, and enrollment starts in March; a separate waitlist application form is posted late February."
+msgstr ""
 
 msgid "Our Vision of a <strong class="color-green">TRUE</strong> Spanish Immersion Program"
 msgstr ""
@@ -969,6 +978,9 @@ msgstr "Familias que regresan - cargo para materiales de $90 que debe ser pagado
 msgid "Returning students - $150 annual enrollment/materials fee due at time of re-enrollment (non-refundable and subject to change)."
 msgstr ""
 
+msgid "Returning students - $175 annual enrollment/materials fee due at time of re-enrollment (non-refundable and subject to change)."
+msgstr ""
+
 #: page-program.php:233 page.php:245
 msgid "Role of the Teacher"
 msgstr "Función del Maestro"
@@ -1075,6 +1087,9 @@ msgstr "Descuento Especial por inscribirse para 4 campamentos o más:"
 msgid "Special Discount for signing up in March:"
 msgstr ""
 
+msgid "Spots in our 3 and 4 year-old classrooms are still available. In keeping with the new state guidelines due to COVID-19, we are limiting our cohorts to 10 children per day, so preference will be given to families seeking full time spots. Get on our waitlist now, and you will hear back from us soon!"
+msgstr ""
+
 #: page-program.php:519
 msgid "Spring Festival (April)"
 msgstr "Festival de la Primavera (abril)"
@@ -1119,6 +1134,9 @@ msgid "Teachers focus on children’s Spanish production to ensure students make
 msgstr "Nuestros maestros se enfocan en la producción del español de los niños para asegurarse de que estén realmente progresando en las <a href=\"http://www.colorincolorado.org/article/language-acquisition-overview\" target=\"_blank\">etapas de la adquisición de un segundo idioma</a> desde la etapa de preproducción o “básica”, a la de producción temprana, hasta el surgimiento del lenguaje."
 
 msgid "Teacher’s Assistant"
+msgstr ""
+
+msgid "Thank you for your interest in Nuestro Jardín Academy, Spanish Immersion Preschool! ENROLLMENT FOR THE 2020-2021 SCHOOL YEAR WILL RESUME THE WEEK OF JULY 27."
 msgstr ""
 
 #: page-enrollment.php:57
@@ -1269,6 +1287,9 @@ msgstr "También ayudamos a los niños a entender quiénes son en el contexto de
 #: page-enrollment.php:138
 msgid "We do not charge a fee for families to get in our wait list. Interested families just need to fill out a wait list application. Your child’s place is determined by the date we receive your wait list form. However, siblings of children currently enrolled or who have been enrolled  in our school in the past are given priority. Families are notified via phone and email when a space is available for their child. Parents will have 48 hours to notify us of their decision, complete the enrollment forms, and pay the deposit and fees. We will regularly assess openings available and use the wait list to inform families when availability exists."
 msgstr "No le cobramos a las familias por apuntarse en nuestra lista de espera. Toda familia que esté interesada, sólo necesita llenar una solicitud. La ubicación de su hijo o hija en la lista de espera es determinado por la fecha en que recibimos su formulario de solicitud.  Sin embargo, los hermanos de los estudiantes que estén actualmente matriculados o hayan sido alumnos de nuestra escuela, tendrán prioridad de ingreso. Se les notificará a cada familia por teléfono y por correo electrónico cuando haya vacante disponible para su hijo o hija. Los padres tendrán 48 horas para notificarnos de su decisión, completar todos los formularios de inscripción y pagar el depósito y los cargos. Evaluaremos periódicamente las vacantes y utilizaremos la lista de espera para informarles a las familias cuando haya disponibilidad. "
+
+msgid "We do not charge a fee for families to get in our wait list. Interested families just need to fill out a wait list application. Your child’s place is determined by the date we receive your waitlist form and type of enrollment you are requesting. However, siblings of children currently enrolled or who have been enrolled in our school in the past are given priority. Families are notified via email when a space is available for their child. Parents will have 48 hours to notify us of their decision. They will then have a week to complete the enrollment forms, and pay the deposit and fees. We will regularly assess openings available and use the wait list to inform families when availability exists."
+msgstr ""
 
 msgid "We promise a fun-filled summer camp adventure for children 3 to 5 years old while learning Spanish. Offered for 8 weeks throughout the summer months, we will be offering weekly camps in which children will be able to connect with the outdoors and environment they are surrounded by. Our themes will revolve around science, art, and movement within nature and the environment while learning Spanish!"
 msgstr ""
