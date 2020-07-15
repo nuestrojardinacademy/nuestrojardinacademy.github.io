@@ -101,6 +101,10 @@ h1:after, h2:after {
     background-color: #FF9800;
 }
 
+.nja-bg-green {
+    background-color: #72c02c;
+}
+
 /*Revolution slider background*/
 .tp-banner-container {
     background-color: #F7F7F8
