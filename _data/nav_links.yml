@@ -24,44 +24,19 @@ staff_pages: [{
         image: 'claudia_contreras_2.png', 
         bio: 'staff/claudia_contreras.html'
     },{
-        name: 'Ann Marie Pyper', 
-        position: 'Assistant Director of Operations',
-        image: 'ann_marie_pyper.jpg', 
-        bio: 'staff/ann_marie_pyper.html'
-    },{
         name: 'Mahiba Mora', 
         position: 'Gorriones and Petirrojos’ Lead Teacher',
         image: 'mahiba_mora.jpg', 
         bio: 'staff/mahiba_mora.html'
-    },{
-        name: 'Gilberto Rios', 
-        position: 'Colibríes Lead Teacher',
-        image: 'gilberto_rios.jpg', 
-        bio: 'staff/gilberto_rios.html'
     },{
         name: 'Rosa Aispuro', 
         position: 'Gorriones and Petirrojos’ Assistant Teacher',
         image: 'rosa_aispuro.jpg', 
         bio: 'staff/rosa_aispuro.html'
     },{
-        name: 'Keren Ramírez', 
-        position: 'Colibríes’ Assistant Teacher',
-        image: 'keren_ramirez.jpg', 
-        bio: 'staff/keren_ramirez.html'
-    },{
         name: 'Elizabeth Ulmer', 
         position: 'Gorriones and Petirrojos’ Assistant Teacher ',
         image: 'elizabeth_ulmer.jpg', 
         bio: 'staff/elizabeth_ulmer.html'
-    },{
-        name: 'Nelly Villalobos', 
-        position: 'Teacher’s Assistant (Aide)',
-        image: 'nelly_villalobos.jpg', 
-        bio: 'staff/nelly_villalobos.html'
-    },{
-        name: 'Yalili Fung Boix', 
-        position: 'Support/Substitute Teacher; Movement Teacher',
-        image: 'yalili_fung_boix.jpg', 
-        bio: 'staff/yalili_fung_boix.html'
     }
 ]
